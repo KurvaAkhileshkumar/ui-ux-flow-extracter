@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "section": "Challenges",
+    "extractedAt": "2026-07-05T13:38:45.652Z",
+    "elementCount": 54
+  },
+  "summary": {
+    "uniqueColors": 14,
+    "coloredElementCount": 15
+  },
+  "palette": [
+    {
+      "value": "rgb(22, 22, 20)",
+      "roles": {
+        "text": 18,
+        "border": 67
+      },
+      "count": 85,
+      "examples": [
+        "<section> l1-fade",
+        "<section> l1-fade",
+        "<section> l1-fade"
+      ]
+    },
+    {
+      "value": "rgb(90, 48, 102)",
+      "roles": {
+        "text": 13,
+        "border": 52
+      },
+      "count": 65,
+      "examples": [
+        "<span> span \"Aptitude\"",
+        "<span> span \"Aptitude\"",
+        "<span> span \"Aptitude\""
+      ]
+    },
+    {
+      "value": "rgb(140, 140, 132)",
+      "roles": {
+        "text": 11,
+        "border": 44
+      },
+      "count": 55,
+      "examples": [
+        "<span> span",
+        "<span> span",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(255, 255, 255)",
+      "roles": {
+        "background": 2,
+        "text": 5,
+        "border": 20
+      },
+      "count": 27,
+      "examples": [
+        "<div> div",
+        "<button> button",
+        "<button> button \"Solve now\""
+      ]
+    },
+    {
+      "value": "rgb(106, 106, 101)",
+      "roles": {
+        "text": 4,
+        "border": 16
+      },
+      "count": 20,
+      "examples": [
+        "<span> span \"Coding\"",
+        "<span> span \"Coding\"",
+        "<span> span \"Coding\""
+      ]
+    },
+    {
+      "value": "rgb(126, 74, 142)",
+      "roles": {
+        "border": 5,
+        "text": 1,
+        "background": 5
+      },
+      "count": 11,
+      "examples": [
+        "<button> button",
+        "<span> span \"Daily\"",
+        "<span> span \"Daily\""
+      ]
+    },
+    {
+      "value": "rgb(0, 0, 0)",
+      "roles": {
+        "text": 2,
+        "border": 6
+      },
+      "count": 8,
+      "examples": [
+        "<button> button",
+        "<button> button",
+        "<button> button"
+      ]
+    },
+    {
+      "value": "rgb(231, 227, 219)",
+      "roles": {
+        "border": 4
+      },
+      "count": 4,
+      "examples": [
+        "<div> div",
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(244, 241, 235)",
+      "roles": {
+        "background": 4
+      },
+      "count": 4,
+      "examples": [
+        "<div> div",
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(239, 230, 242)",
+      "roles": {
+        "background": 2
+      },
+      "count": 2,
+      "examples": [
+        "<span> span \"Time, Speed & Distance\"",
+        "<span> span \"+20 XP\""
+      ]
+    },
+    {
+      "value": "rgb(240, 236, 228)",
+      "roles": {
+        "border": 1
+      },
+      "count": 1,
+      "examples": [
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgba(126, 74, 142, 0.055)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<button> button"
+      ]
+    },
+    {
+      "value": "rgba(126, 74, 142, 0.04)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+      "roles": {
+        "shadow": 1
+      },
+      "count": 1,
+      "examples": [
+        "<button> button \"Solve now\""
+      ]
+    }
+  ],
+  "allColoredElements": [
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(126, 74, 142, 0.055)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(126, 74, 142, 0.04)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(126, 74, 142)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(126, 74, 142)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(126, 74, 142)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(126, 74, 142)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(244, 241, 235)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(244, 241, 235)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(244, 241, 235)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 4,
+      "label": "<span> span \"Time, Speed & Distance\"",
+      "ownText": "Time, Speed & Distance",
+      "textColor": "rgb(90, 48, 102)",
+      "backgroundColor": "rgb(239, 230, 242)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(90, 48, 102)",
+      "boxShadow": null
+    },
+    {
+      "depth": 4,
+      "label": "<span> span \"Medium\"",
+      "ownText": "Medium",
+      "textColor": "rgb(106, 106, 101)",
+      "backgroundColor": "rgb(244, 241, 235)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(106, 106, 101)",
+      "boxShadow": null
+    },
+    {
+      "depth": 4,
+      "label": "<span> span \"+20 XP\"",
+      "ownText": "+20 XP",
+      "textColor": "rgb(90, 48, 102)",
+      "backgroundColor": "rgb(239, 230, 242)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(90, 48, 102)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Solve now\"",
+      "ownText": "Solve now",
+      "textColor": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(126, 74, 142)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(255, 255, 255)",
+      "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px"
+    }
+  ]
+}

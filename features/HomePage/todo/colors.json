@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "section": "Todo",
+    "extractedAt": "2026-07-05T06:43:49.924Z",
+    "elementCount": 38
+  },
+  "summary": {
+    "uniqueColors": 11,
+    "coloredElementCount": 11
+  },
+  "palette": [
+    {
+      "value": "rgb(22, 22, 20)",
+      "roles": {
+        "text": 19,
+        "border": 68
+      },
+      "count": 87,
+      "examples": [
+        "<section> l1-section l1-fade",
+        "<section> l1-section l1-fade",
+        "<section> l1-section l1-fade"
+      ]
+    },
+    {
+      "value": "rgb(106, 106, 101)",
+      "roles": {
+        "text": 6,
+        "border": 20
+      },
+      "count": 26,
+      "examples": [
+        "<span> span \"4\"",
+        "<button> button \"Completed\"",
+        "<button> button \"Completed\""
+      ]
+    },
+    {
+      "value": "rgb(110, 110, 104)",
+      "roles": {
+        "text": 5,
+        "border": 19
+      },
+      "count": 24,
+      "examples": [
+        "<span> span \"3\"",
+        "<span> span \"3\"",
+        "<span> span \"3\""
+      ]
+    },
+    {
+      "value": "rgb(229, 226, 219)",
+      "roles": {
+        "border": 16
+      },
+      "count": 16,
+      "examples": [
+        "<div> div",
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(45, 59, 95)",
+      "roles": {
+        "text": 3,
+        "border": 12
+      },
+      "count": 15,
+      "examples": [
+        "<button> button \"Add task\"",
+        "<button> button \"Add task\"",
+        "<button> button \"Add task\""
+      ]
+    },
+    {
+      "value": "rgb(239, 237, 230)",
+      "roles": {
+        "border": 9
+      },
+      "count": 9,
+      "examples": [
+        "<div> div",
+        "<span> span \"4\"",
+        "<span> span \"4\""
+      ]
+    },
+    {
+      "value": "rgb(184, 58, 42)",
+      "roles": {
+        "border": 8,
+        "text": 1
+      },
+      "count": 9,
+      "examples": [
+        "<button> button",
+        "<button> button",
+        "<button> button"
+      ]
+    },
+    {
+      "value": "rgb(0, 0, 0)",
+      "roles": {
+        "text": 4
+      },
+      "count": 4,
+      "examples": [
+        "<button> button",
+        "<button> button",
+        "<button> button"
+      ]
+    },
+    {
+      "value": "rgb(255, 255, 255)",
+      "roles": {
+        "background": 2
+      },
+      "count": 2,
+      "examples": [
+        "<div> div",
+        "<span> span \"4\""
+      ]
+    },
+    {
+      "value": "rgb(245, 243, 238)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<button> button \"Active\""
+      ]
+    },
+    {
+      "value": "rgb(248, 229, 224)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span \"Urgent\""
+      ]
+    }
+  ],
+  "allColoredElements": [
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Active\"",
+      "ownText": "Active",
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 4,
+      "label": "<span> span \"4\"",
+      "ownText": "4",
+      "textColor": "rgb(106, 106, 101)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(239, 237, 230)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(184, 58, 42)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<span> span \"Urgent\"",
+      "ownText": "Urgent",
+      "textColor": "rgb(184, 58, 42)",
+      "backgroundColor": "rgb(248, 229, 224)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(184, 58, 42)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(239, 237, 230)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(239, 237, 230)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(239, 237, 230)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    }
+  ]
+}

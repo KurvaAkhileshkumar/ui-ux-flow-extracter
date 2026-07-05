@@ -1,0 +1,20 @@
+{
+  "name": "dashboard-design-inspector",
+  "version": "1.0.0",
+  "description": "Playwright visual design property extractor for Edwisely Faculty Dashboard",
+  "scripts": {
+    "start":           "bash run.sh",
+    "start:clean":     "bash run.sh --clean",
+    "start:headed":    "bash run.sh --headed",
+    "start:debug":     "bash run.sh --debug",
+    "install:browsers":"node_modules/.bin/playwright install chromium",
+    "inspect":         "node_modules/.bin/playwright test --project=chromium",
+    "report":          "node_modules/.bin/playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

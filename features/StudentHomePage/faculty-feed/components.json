@@ -1,0 +1,678 @@
+{
+  "meta": {
+    "section": "From Your Faculty",
+    "extractedAt": "2026-07-05T13:38:43.369Z",
+    "elementCount": 158
+  },
+  "summary": {
+    "buttons": 11,
+    "inputs": 0,
+    "checkboxes": 0,
+    "textareas": 0,
+    "links": 0,
+    "images": 0,
+    "svgs": 18
+  },
+  "components": {
+    "buttons": [
+      {
+        "label": "<button> button \"See all\"",
+        "text": "See all",
+        "classes": "",
+        "geometry": {
+          "x": 962,
+          "y": 595,
+          "width": 66,
+          "height": 28,
+          "right": 1028,
+          "bottom": 623,
+          "aspectRatio": 2.374
+        },
+        "fontSize": "12.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(106, 106, 101)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "1px",
+          "right": "6px",
+          "bottom": "1px",
+          "left": "6px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Read\"",
+        "text": "Read",
+        "classes": "",
+        "geometry": {
+          "x": 958,
+          "y": 659,
+          "width": 57,
+          "height": 30,
+          "right": 1014,
+          "bottom": 689,
+          "aspectRatio": 1.883
+        },
+        "fontSize": "12.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(126, 74, 142)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "13px",
+          "bottom": "0px",
+          "left": "13px"
+        },
+        "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "classes": "",
+        "geometry": {
+          "x": 923,
+          "y": 752,
+          "width": 30,
+          "height": 30,
+          "right": 953,
+          "bottom": 782,
+          "aspectRatio": 1
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Arial",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "8px",
+          "topRight": "8px",
+          "bottomRight": "8px",
+          "bottomLeft": "8px"
+        },
+        "padding": {
+          "top": "1px",
+          "right": "6px",
+          "bottom": "1px",
+          "left": "6px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Start\"",
+        "text": "Start",
+        "classes": "",
+        "geometry": {
+          "x": 959,
+          "y": 752,
+          "width": 55,
+          "height": 30,
+          "right": 1014,
+          "bottom": 782,
+          "aspectRatio": 1.846
+        },
+        "fontSize": "12.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(126, 74, 142)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "13px",
+          "bottom": "0px",
+          "left": "13px"
+        },
+        "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "classes": "",
+        "geometry": {
+          "x": 923,
+          "y": 848,
+          "width": 30,
+          "height": 30,
+          "right": 953,
+          "bottom": 878,
+          "aspectRatio": 1
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Arial",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "8px",
+          "topRight": "8px",
+          "bottomRight": "8px",
+          "bottomLeft": "8px"
+        },
+        "padding": {
+          "top": "1px",
+          "right": "6px",
+          "bottom": "1px",
+          "left": "6px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Start\"",
+        "text": "Start",
+        "classes": "",
+        "geometry": {
+          "x": 959,
+          "y": 848,
+          "width": 55,
+          "height": 30,
+          "right": 1014,
+          "bottom": 878,
+          "aspectRatio": 1.846
+        },
+        "fontSize": "12.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(126, 74, 142)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "13px",
+          "bottom": "0px",
+          "left": "13px"
+        },
+        "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "classes": "",
+        "geometry": {
+          "x": 923,
+          "y": 943,
+          "width": 30,
+          "height": 30,
+          "right": 953,
+          "bottom": 973,
+          "aspectRatio": 1
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Arial",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "8px",
+          "topRight": "8px",
+          "bottomRight": "8px",
+          "bottomLeft": "8px"
+        },
+        "padding": {
+          "top": "1px",
+          "right": "6px",
+          "bottom": "1px",
+          "left": "6px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Start\"",
+        "text": "Start",
+        "classes": "",
+        "geometry": {
+          "x": 959,
+          "y": 943,
+          "width": 55,
+          "height": 30,
+          "right": 1014,
+          "bottom": 973,
+          "aspectRatio": 1.846
+        },
+        "fontSize": "12.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(126, 74, 142)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "13px",
+          "bottom": "0px",
+          "left": "13px"
+        },
+        "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "classes": "",
+        "geometry": {
+          "x": 923,
+          "y": 1038,
+          "width": 30,
+          "height": 30,
+          "right": 953,
+          "bottom": 1068,
+          "aspectRatio": 1
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Arial",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "8px",
+          "topRight": "8px",
+          "bottomRight": "8px",
+          "bottomLeft": "8px"
+        },
+        "padding": {
+          "top": "1px",
+          "right": "6px",
+          "bottom": "1px",
+          "left": "6px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Start\"",
+        "text": "Start",
+        "classes": "",
+        "geometry": {
+          "x": 959,
+          "y": 1038,
+          "width": 55,
+          "height": 30,
+          "right": 1014,
+          "bottom": 1068,
+          "aspectRatio": 1.846
+        },
+        "fontSize": "12.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(126, 74, 142)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "13px",
+          "bottom": "0px",
+          "left": "13px"
+        },
+        "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"View all 15 activities\"",
+        "text": "View all 15 activities",
+        "classes": "",
+        "geometry": {
+          "x": 268,
+          "y": 1106,
+          "width": 760,
+          "height": 35,
+          "right": 1028,
+          "bottom": 1141,
+          "aspectRatio": 21.714
+        },
+        "fontSize": "12.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "10px",
+          "topRight": "10px",
+          "bottomRight": "10px",
+          "bottomLeft": "10px"
+        },
+        "padding": {
+          "top": "9px",
+          "right": "9px",
+          "bottom": "9px",
+          "left": "9px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      }
+    ],
+    "inputs": [],
+    "checkboxes": [],
+    "textareas": [],
+    "links": [],
+    "images": [],
+    "svgs": [
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 268,
+          "y": 600,
+          "width": 14,
+          "height": 14,
+          "right": 282,
+          "bottom": 614,
+          "aspectRatio": 1
+        },
+        "color": "rgb(140, 140, 132)",
+        "fill": "rgb(140, 140, 132)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1011,
+          "y": 604,
+          "width": 11,
+          "height": 11,
+          "right": 1022,
+          "bottom": 615,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 301,
+          "y": 659,
+          "width": 16,
+          "height": 16,
+          "right": 317,
+          "bottom": 675,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 301,
+          "y": 752,
+          "width": 16,
+          "height": 16,
+          "right": 317,
+          "bottom": 768,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 366,
+          "y": 784,
+          "width": 11,
+          "height": 11,
+          "right": 377,
+          "bottom": 795,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 443,
+          "y": 784,
+          "width": 11,
+          "height": 11,
+          "right": 454,
+          "bottom": 795,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 931,
+          "y": 760,
+          "width": 14,
+          "height": 14,
+          "right": 945,
+          "bottom": 774,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 301,
+          "y": 847,
+          "width": 16,
+          "height": 16,
+          "right": 317,
+          "bottom": 863,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 366,
+          "y": 879,
+          "width": 11,
+          "height": 11,
+          "right": 377,
+          "bottom": 890,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 931,
+          "y": 856,
+          "width": 14,
+          "height": 14,
+          "right": 945,
+          "bottom": 870,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 366,
+          "y": 974,
+          "width": 11,
+          "height": 11,
+          "right": 377,
+          "bottom": 985,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 443,
+          "y": 974,
+          "width": 11,
+          "height": 11,
+          "right": 454,
+          "bottom": 985,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 931,
+          "y": 951,
+          "width": 14,
+          "height": 14,
+          "right": 945,
+          "bottom": 965,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 301,
+          "y": 1038,
+          "width": 16,
+          "height": 16,
+          "right": 317,
+          "bottom": 1054,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 366,
+          "y": 1070,
+          "width": 11,
+          "height": 11,
+          "right": 377,
+          "bottom": 1081,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 443,
+          "y": 1070,
+          "width": 11,
+          "height": 11,
+          "right": 454,
+          "bottom": 1081,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 931,
+          "y": 1046,
+          "width": 14,
+          "height": 14,
+          "right": 945,
+          "bottom": 1060,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 705,
+          "y": 1118,
+          "width": 12,
+          "height": 12,
+          "right": 717,
+          "bottom": 1130,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      }
+    ]
+  }
+}

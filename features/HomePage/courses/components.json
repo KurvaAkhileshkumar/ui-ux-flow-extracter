@@ -1,0 +1,442 @@
+{
+  "meta": {
+    "section": "Your courses",
+    "extractedAt": "2026-07-05T06:55:42.914Z",
+    "elementCount": 163
+  },
+  "summary": {
+    "buttons": 4,
+    "inputs": 1,
+    "checkboxes": 0,
+    "textareas": 0,
+    "links": 0,
+    "images": 0,
+    "svgs": 17
+  },
+  "components": {
+    "buttons": [
+      {
+        "label": "<button> button \"Add course\"",
+        "text": "Add course",
+        "classes": "",
+        "geometry": {
+          "x": 945,
+          "y": 826,
+          "width": 83,
+          "height": 28,
+          "right": 1028,
+          "bottom": 854,
+          "aspectRatio": 2.952
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(45, 59, 95)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(45, 59, 95)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "0px",
+          "bottom": "0px",
+          "left": "0px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"All semesters\"",
+        "text": "All semesters",
+        "classes": "",
+        "geometry": {
+          "x": 669,
+          "y": 873,
+          "width": 114,
+          "height": 29,
+          "right": 784,
+          "bottom": 902,
+          "aspectRatio": 3.941
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "6px",
+          "topRight": "6px",
+          "bottomRight": "6px",
+          "bottomLeft": "6px"
+        },
+        "padding": {
+          "top": "6px",
+          "right": "10px",
+          "bottom": "6px",
+          "left": "10px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"All status\"",
+        "text": "All status",
+        "classes": "",
+        "geometry": {
+          "x": 792,
+          "y": 873,
+          "width": 90,
+          "height": 29,
+          "right": 882,
+          "bottom": 902,
+          "aspectRatio": 3.1
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "6px",
+          "topRight": "6px",
+          "bottomRight": "6px",
+          "bottomLeft": "6px"
+        },
+        "padding": {
+          "top": "6px",
+          "right": "10px",
+          "bottom": "6px",
+          "left": "10px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Sort: next class\"",
+        "text": "Sort: next class",
+        "classes": "",
+        "geometry": {
+          "x": 890,
+          "y": 873,
+          "width": 125,
+          "height": 29,
+          "right": 1015,
+          "bottom": 902,
+          "aspectRatio": 4.325
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "6px",
+          "topRight": "6px",
+          "bottomRight": "6px",
+          "bottomLeft": "6px"
+        },
+        "padding": {
+          "top": "6px",
+          "right": "10px",
+          "bottom": "6px",
+          "left": "10px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      }
+    ],
+    "inputs": [
+      {
+        "label": "<input> input",
+        "type": "text",
+        "placeholder": "Search across 12 courses, sections, topics…",
+        "classes": "",
+        "geometry": {
+          "x": 310,
+          "y": 879,
+          "width": 318,
+          "height": 18,
+          "right": 628,
+          "bottom": 897,
+          "aspectRatio": 17.663
+        },
+        "fontSize": "13px",
+        "border": "0px none rgb(22, 22, 20)",
+        "borderRadius": "0px",
+        "padding": "1px 2px 1px 2px"
+      }
+    ],
+    "checkboxes": [],
+    "textareas": [],
+    "links": [],
+    "images": [],
+    "svgs": [
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 945,
+          "y": 834,
+          "width": 12,
+          "height": 12,
+          "right": 957,
+          "bottom": 846,
+          "aspectRatio": 1
+        },
+        "color": "rgb(45, 59, 95)",
+        "fill": "rgb(45, 59, 95)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 288,
+          "y": 881,
+          "width": 14,
+          "height": 14,
+          "right": 302,
+          "bottom": 895,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 762,
+          "y": 882,
+          "width": 11,
+          "height": 11,
+          "right": 773,
+          "bottom": 893,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 860,
+          "y": 882,
+          "width": 11,
+          "height": 11,
+          "right": 871,
+          "bottom": 893,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 993,
+          "y": 882,
+          "width": 11,
+          "height": 11,
+          "right": 1004,
+          "bottom": 893,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 690,
+          "y": 932,
+          "width": 22,
+          "height": 22,
+          "right": 712,
+          "bottom": 954,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 991,
+          "y": 936,
+          "width": 15,
+          "height": 15,
+          "right": 1006,
+          "bottom": 951,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 690,
+          "y": 994,
+          "width": 22,
+          "height": 22,
+          "right": 712,
+          "bottom": 1016,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 991,
+          "y": 998,
+          "width": 15,
+          "height": 15,
+          "right": 1006,
+          "bottom": 1013,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 690,
+          "y": 1056,
+          "width": 22,
+          "height": 22,
+          "right": 712,
+          "bottom": 1078,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 991,
+          "y": 1060,
+          "width": 15,
+          "height": 15,
+          "right": 1006,
+          "bottom": 1075,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 690,
+          "y": 1118,
+          "width": 22,
+          "height": 22,
+          "right": 712,
+          "bottom": 1140,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 991,
+          "y": 1122,
+          "width": 15,
+          "height": 15,
+          "right": 1006,
+          "bottom": 1137,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 690,
+          "y": 1180,
+          "width": 22,
+          "height": 22,
+          "right": 712,
+          "bottom": 1202,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 991,
+          "y": 1184,
+          "width": 15,
+          "height": 15,
+          "right": 1006,
+          "bottom": 1199,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 690,
+          "y": 1242,
+          "width": 22,
+          "height": 22,
+          "right": 712,
+          "bottom": 1264,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 991,
+          "y": 1246,
+          "width": 15,
+          "height": 15,
+          "right": 1006,
+          "bottom": 1261,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      }
+    ]
+  }
+}

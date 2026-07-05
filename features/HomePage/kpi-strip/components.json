@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "section": "KPI Strip",
+    "extractedAt": "2026-07-05T06:39:16.224Z",
+    "elementCount": 26
+  },
+  "summary": {
+    "buttons": 0,
+    "inputs": 0,
+    "checkboxes": 0,
+    "textareas": 0,
+    "links": 0,
+    "images": 0,
+    "svgs": 0
+  },
+  "components": {
+    "buttons": [],
+    "inputs": [],
+    "checkboxes": [],
+    "textareas": [],
+    "links": [],
+    "images": [],
+    "svgs": []
+  }
+}

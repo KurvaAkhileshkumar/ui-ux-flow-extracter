@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "section": "Student KPI Strip",
+    "extractedAt": "2026-07-05T13:38:42.444Z",
+    "elementCount": 64
+  },
+  "summary": {
+    "buttons": 0,
+    "inputs": 0,
+    "checkboxes": 0,
+    "textareas": 0,
+    "links": 0,
+    "images": 0,
+    "svgs": 8
+  },
+  "components": {
+    "buttons": [],
+    "inputs": [],
+    "checkboxes": [],
+    "textareas": [],
+    "links": [],
+    "images": [],
+    "svgs": [
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 294,
+          "y": 134,
+          "width": 13,
+          "height": 13,
+          "right": 307,
+          "bottom": 147,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 411,
+          "y": 128,
+          "width": 11,
+          "height": 11,
+          "right": 422,
+          "bottom": 139,
+          "aspectRatio": 1
+        },
+        "color": "rgb(26, 148, 98)",
+        "fill": "rgb(26, 148, 98)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 486,
+          "y": 134,
+          "width": 13,
+          "height": 13,
+          "right": 499,
+          "bottom": 147,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 566,
+          "y": 128,
+          "width": 11,
+          "height": 11,
+          "right": 577,
+          "bottom": 139,
+          "aspectRatio": 1
+        },
+        "color": "rgb(26, 148, 98)",
+        "fill": "rgb(26, 148, 98)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 649,
+          "y": 134,
+          "width": 13,
+          "height": 13,
+          "right": 662,
+          "bottom": 147,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 803,
+          "y": 134,
+          "width": 13,
+          "height": 13,
+          "right": 816,
+          "bottom": 147,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 937,
+          "y": 134,
+          "width": 13,
+          "height": 13,
+          "right": 950,
+          "bottom": 147,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1022,
+          "y": 128,
+          "width": 11,
+          "height": 11,
+          "right": 1033,
+          "bottom": 139,
+          "aspectRatio": 1
+        },
+        "color": "rgb(26, 148, 98)",
+        "fill": "rgb(26, 148, 98)"
+      }
+    ]
+  }
+}

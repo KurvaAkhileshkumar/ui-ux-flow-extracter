@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "section": "Today's classes",
+    "extractedAt": "2026-07-05T06:56:15.284Z",
+    "elementCount": 32
+  },
+  "summary": {
+    "uniqueColors": 7,
+    "coloredElementCount": 6
+  },
+  "palette": [
+    {
+      "value": "rgb(22, 22, 20)",
+      "roles": {
+        "text": 23,
+        "border": 76
+      },
+      "count": 99,
+      "examples": [
+        "<section> l1-section l1-fade",
+        "<section> l1-section l1-fade",
+        "<section> l1-section l1-fade"
+      ]
+    },
+    {
+      "value": "rgb(255, 255, 255)",
+      "roles": {
+        "background": 1,
+        "text": 6,
+        "border": 24
+      },
+      "count": 31,
+      "examples": [
+        "<div> div",
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(229, 226, 219)",
+      "roles": {
+        "border": 16
+      },
+      "count": 16,
+      "examples": [
+        "<div> div",
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(106, 106, 101)",
+      "roles": {
+        "text": 3,
+        "border": 12
+      },
+      "count": 15,
+      "examples": [
+        "<button> button \"Open calendar\"",
+        "<button> button \"Open calendar\"",
+        "<button> button \"Open calendar\""
+      ]
+    },
+    {
+      "value": "rgb(245, 243, 238)",
+      "roles": {
+        "background": 3
+      },
+      "count": 3,
+      "examples": [
+        "<div> div",
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(45, 59, 95)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgba(255, 255, 255, 0.18)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span \"in 42 min\""
+      ]
+    }
+  ],
+  "allColoredElements": [
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(45, 59, 95)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(255, 255, 255)",
+      "boxShadow": null
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"in 42 min\"",
+      "ownText": "in 42 min",
+      "textColor": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(255, 255, 255, 0.18)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(255, 255, 255)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    }
+  ]
+}

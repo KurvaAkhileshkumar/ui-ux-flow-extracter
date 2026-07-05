@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "section": "Today's classes",
+    "extractedAt": "2026-07-05T06:56:15.284Z",
+    "elementCount": 32
+  },
+  "summary": {
+    "buttons": 1,
+    "inputs": 0,
+    "checkboxes": 0,
+    "textareas": 0,
+    "links": 0,
+    "images": 0,
+    "svgs": 2
+  },
+  "components": {
+    "buttons": [
+      {
+        "label": "<button> button \"Open calendar\"",
+        "text": "Open calendar",
+        "classes": "",
+        "geometry": {
+          "x": 914,
+          "y": 658,
+          "width": 114,
+          "height": 28,
+          "right": 1028,
+          "bottom": 686,
+          "aspectRatio": 4.063
+        },
+        "fontSize": "12.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(106, 106, 101)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "1px",
+          "right": "6px",
+          "bottom": "1px",
+          "left": "6px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      }
+    ],
+    "inputs": [],
+    "checkboxes": [],
+    "textareas": [],
+    "links": [],
+    "images": [],
+    "svgs": [
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1011,
+          "y": 666,
+          "width": 11,
+          "height": 11,
+          "right": 1022,
+          "bottom": 677,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 429,
+          "y": 724,
+          "width": 12,
+          "height": 12,
+          "right": 441,
+          "bottom": 736,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      }
+    ]
+  }
+}

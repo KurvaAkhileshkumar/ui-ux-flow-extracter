@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "section": "Activity wall",
+    "extractedAt": "2026-07-05T06:43:39.028Z",
+    "elementCount": 50
+  },
+  "summary": {
+    "uniqueColors": 13,
+    "coloredElementCount": 6
+  },
+  "palette": [
+    {
+      "value": "rgb(22, 22, 20)",
+      "roles": {
+        "text": 26,
+        "border": 96
+      },
+      "count": 122,
+      "examples": [
+        "<section> l1-section l1-fade",
+        "<section> l1-section l1-fade",
+        "<section> l1-section l1-fade"
+      ]
+    },
+    {
+      "value": "rgb(110, 110, 104)",
+      "roles": {
+        "text": 9,
+        "border": 36
+      },
+      "count": 45,
+      "examples": [
+        "<span> span \"2\"",
+        "<span> span \"2\"",
+        "<span> span \"2\""
+      ]
+    },
+    {
+      "value": "rgb(106, 106, 101)",
+      "roles": {
+        "text": 7,
+        "border": 28
+      },
+      "count": 35,
+      "examples": [
+        "<button> button \"Open wall\"",
+        "<button> button \"Open wall\"",
+        "<button> button \"Open wall\""
+      ]
+    },
+    {
+      "value": "rgb(61, 107, 74)",
+      "roles": {
+        "background": 1,
+        "text": 3,
+        "border": 12
+      },
+      "count": 16,
+      "examples": [
+        "<span> span",
+        "<div> div \"CA\"",
+        "<div> div \"CA\""
+      ]
+    },
+    {
+      "value": "rgb(45, 59, 95)",
+      "roles": {
+        "text": 3,
+        "border": 12
+      },
+      "count": 15,
+      "examples": [
+        "<span> span \"3\"",
+        "<span> span \"3\"",
+        "<span> span \"3\""
+      ]
+    },
+    {
+      "value": "rgb(154, 91, 17)",
+      "roles": {
+        "text": 2,
+        "border": 8
+      },
+      "count": 10,
+      "examples": [
+        "<div> div \"LE\"",
+        "<div> div \"LE\"",
+        "<div> div \"LE\""
+      ]
+    },
+    {
+      "value": "rgb(229, 226, 219)",
+      "roles": {
+        "border": 4
+      },
+      "count": 4,
+      "examples": [
+        "<div> div",
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(239, 237, 230)",
+      "roles": {
+        "border": 4
+      },
+      "count": 4,
+      "examples": [
+        "<div> div",
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(255, 255, 255)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(245, 243, 238)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<button> button \"Ongoing\""
+      ]
+    },
+    {
+      "value": "rgb(229, 239, 231)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<div> div \"CA\""
+      ]
+    },
+    {
+      "value": "rgb(232, 235, 242)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<div> div \"AS\""
+      ]
+    },
+    {
+      "value": "rgb(251, 241, 222)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<div> div \"LE\""
+      ]
+    }
+  ],
+  "allColoredElements": [
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Ongoing\"",
+      "ownText": "Ongoing",
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 4,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(61, 107, 74)",
+      "backgroundImage": null,
+      "opacity": "0.519201",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div \"CA\"",
+      "ownText": "CA",
+      "textColor": "rgb(61, 107, 74)",
+      "backgroundColor": "rgb(229, 239, 231)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(61, 107, 74)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div \"AS\"",
+      "ownText": "AS",
+      "textColor": "rgb(45, 59, 95)",
+      "backgroundColor": "rgb(232, 235, 242)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(45, 59, 95)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div \"LE\"",
+      "ownText": "LE",
+      "textColor": "rgb(154, 91, 17)",
+      "backgroundColor": "rgb(251, 241, 222)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(154, 91, 17)",
+      "boxShadow": null
+    }
+  ]
+}

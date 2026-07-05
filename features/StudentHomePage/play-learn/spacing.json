@@ -1,0 +1,480 @@
+{
+  "meta": {
+    "section": "Play & Learn",
+    "extractedAt": "2026-07-05T13:38:47.009Z",
+    "elementCount": 72
+  },
+  "summary": {
+    "spacedElementCount": 20
+  },
+  "elements": [
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "geometry": {
+        "width": 360,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "10px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 250,
+        "height": 17
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 2,
+      "label": "<button> button \"Arcade\"",
+      "ownText": "Arcade",
+      "geometry": {
+        "width": 70,
+        "height": 28
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 96,
+        "height": 75
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 173,
+        "height": 75
+      },
+      "padding": {
+        "top": "12px",
+        "right": "14px",
+        "bottom": "12px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div",
+      "geometry": {
+        "width": 145,
+        "height": 17
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "7px",
+      "rowGap": "7px",
+      "columnGap": "7px"
+    },
+    {
+      "depth": 6,
+      "label": "<span> span \"Live\"",
+      "ownText": "Live",
+      "geometry": {
+        "width": 48,
+        "height": 17
+      },
+      "padding": {
+        "top": "2px",
+        "right": "7px",
+        "bottom": "2px",
+        "left": "7px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "5px",
+      "rowGap": "5px",
+      "columnGap": "5px"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div",
+      "geometry": {
+        "width": 145,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 7,
+      "label": "<span> span \"VS\"",
+      "ownText": "VS",
+      "geometry": {
+        "width": 22,
+        "height": 22
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "-8px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 24
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "-4px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 89,
+        "height": 75
+      },
+      "padding": {
+        "top": "0px",
+        "right": "14px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"Play\"",
+      "ownText": "Play",
+      "geometry": {
+        "width": 75,
+        "height": 34
+      },
+      "padding": {
+        "top": "0px",
+        "right": "15px",
+        "bottom": "0px",
+        "left": "15px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "5px",
+      "rowGap": "5px",
+      "columnGap": "5px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 358,
+        "height": 96
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "1px",
+      "rowGap": "1px",
+      "columnGap": "1px"
+    },
+    {
+      "depth": 3,
+      "label": "<button> card-hover",
+      "geometry": {
+        "width": 119,
+        "height": 95
+      },
+      "padding": {
+        "top": "13px",
+        "right": "10px",
+        "bottom": "13px",
+        "left": "10px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "7px",
+      "rowGap": "7px",
+      "columnGap": "7px"
+    },
+    {
+      "depth": 4,
+      "label": "<span> span \"New\"",
+      "ownText": "New",
+      "geometry": {
+        "width": 26,
+        "height": 14
+      },
+      "padding": {
+        "top": "1px",
+        "right": "5px",
+        "bottom": "1px",
+        "left": "5px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div \"Beat the clock\"",
+      "ownText": "Beat the clock",
+      "geometry": {
+        "width": 71,
+        "height": 13
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "1px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 3,
+      "label": "<button> card-hover",
+      "geometry": {
+        "width": 119,
+        "height": 95
+      },
+      "padding": {
+        "top": "13px",
+        "right": "10px",
+        "bottom": "13px",
+        "left": "10px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "7px",
+      "rowGap": "7px",
+      "columnGap": "7px"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div \"Aptitude puzzles\"",
+      "ownText": "Aptitude puzzles",
+      "geometry": {
+        "width": 83,
+        "height": 13
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "1px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 3,
+      "label": "<button> card-hover",
+      "geometry": {
+        "width": 119,
+        "height": 95
+      },
+      "padding": {
+        "top": "13px",
+        "right": "10px",
+        "bottom": "13px",
+        "left": "10px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "7px",
+      "rowGap": "7px",
+      "columnGap": "7px"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div \"Memory game\"",
+      "ownText": "Memory game",
+      "geometry": {
+        "width": 89,
+        "height": 13
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "1px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    }
+  ]
+}

@@ -1,0 +1,2967 @@
+{
+  "meta": {
+    "section": "Insights & actions",
+    "extractedAt": "2026-07-05T06:38:54.773Z",
+    "elementCount": 77
+  },
+  "summary": {
+    "borderedElementCount": 77
+  },
+  "elements": [
+    {
+      "depth": 0,
+      "label": "<section> section",
+      "geometry": {
+        "width": 764,
+        "height": 339
+      },
+      "borderWidth": {
+        "top": "1px",
+        "right": "1px",
+        "bottom": "1px",
+        "left": "1px"
+      },
+      "borderStyle": {
+        "top": "solid",
+        "right": "solid",
+        "bottom": "solid",
+        "left": "solid"
+      },
+      "borderColor": {
+        "top": "oklch(0.791021 0.022183 266.987)",
+        "right": "oklch(0.791021 0.022183 266.987)",
+        "bottom": "oklch(0.791021 0.022183 266.987)",
+        "left": "oklch(0.791021 0.022183 266.987)"
+      },
+      "borderRadius": {
+        "topLeft": "14px",
+        "topRight": "14px",
+        "bottomRight": "14px",
+        "bottomLeft": "14px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 1,
+      "label": "<span> span",
+      "geometry": {
+        "width": 3,
+        "height": 309
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "2px",
+        "topRight": "2px",
+        "bottomRight": "2px",
+        "bottomLeft": "2px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 1,
+      "label": "<header> header",
+      "geometry": {
+        "width": 726,
+        "height": 51
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 391,
+        "height": 51
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 192,
+        "height": 17
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<span> span",
+      "geometry": {
+        "width": 8,
+        "height": 8
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 5,
+      "label": "<span> span",
+      "geometry": {
+        "width": 5,
+        "height": 5
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "4px",
+        "topRight": "4px",
+        "bottomRight": "4px",
+        "bottomLeft": "4px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<span> span \"Sastra AI · 7 need you\"",
+      "ownText": "Sastra AI · 7 need you",
+      "geometry": {
+        "width": 178,
+        "height": 17
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(45, 59, 95)",
+        "right": "rgb(45, 59, 95)",
+        "bottom": "rgb(45, 59, 95)",
+        "left": "rgb(45, 59, 95)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(45, 59, 95)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 391,
+        "height": 29
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<h2> h2 \"Insights & actions\"",
+      "ownText": "Insights & actions",
+      "geometry": {
+        "width": 147,
+        "height": 29
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<span> span \"ranked by impact · refreshed 2 min ago\"",
+      "ownText": "ranked by impact · refreshed 2 min ago",
+      "geometry": {
+        "width": 232,
+        "height": 15
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 270,
+        "height": 34
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 175,
+        "height": 34
+      },
+      "borderWidth": {
+        "top": "1px",
+        "right": "1px",
+        "bottom": "1px",
+        "left": "1px"
+      },
+      "borderStyle": {
+        "top": "solid",
+        "right": "solid",
+        "bottom": "solid",
+        "left": "solid"
+      },
+      "borderColor": {
+        "top": "rgb(229, 226, 219)",
+        "right": "rgb(229, 226, 219)",
+        "bottom": "rgb(229, 226, 219)",
+        "left": "rgb(229, 226, 219)"
+      },
+      "borderRadius": {
+        "topLeft": "7px",
+        "topRight": "7px",
+        "bottomRight": "7px",
+        "bottomLeft": "7px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<button> button \"Active\"",
+      "ownText": "Active",
+      "geometry": {
+        "width": 71,
+        "height": 28
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(45, 59, 95)",
+        "right": "rgb(45, 59, 95)",
+        "bottom": "rgb(45, 59, 95)",
+        "left": "rgb(45, 59, 95)"
+      },
+      "borderRadius": {
+        "topLeft": "5px",
+        "topRight": "5px",
+        "bottomRight": "5px",
+        "bottomLeft": "5px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(45, 59, 95)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"7\"",
+      "ownText": "7",
+      "geometry": {
+        "width": 8,
+        "height": 17
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(45, 59, 95)",
+        "right": "rgb(45, 59, 95)",
+        "bottom": "rgb(45, 59, 95)",
+        "left": "rgb(45, 59, 95)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(45, 59, 95)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<button> button \"Completed\"",
+      "ownText": "Completed",
+      "geometry": {
+        "width": 98,
+        "height": 28
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "5px",
+        "topRight": "5px",
+        "bottomRight": "5px",
+        "bottomLeft": "5px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"0\"",
+      "ownText": "0",
+      "geometry": {
+        "width": 8,
+        "height": 17
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(110, 110, 104)",
+        "right": "rgb(110, 110, 104)",
+        "bottom": "rgb(110, 110, 104)",
+        "left": "rgb(110, 110, 104)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(110, 110, 104)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Configure\"",
+      "ownText": "Configure",
+      "geometry": {
+        "width": 86,
+        "height": 28
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<svg> svg",
+      "geometry": {
+        "width": 11,
+        "height": 11
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 5,
+      "label": "<path> path",
+      "geometry": {
+        "width": 6,
+        "height": 6
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 1,
+      "label": "<div> l1-fourCol",
+      "geometry": {
+        "width": 726,
+        "height": 175
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 174,
+        "height": 175
+      },
+      "borderWidth": {
+        "top": "1px",
+        "right": "1px",
+        "bottom": "1px",
+        "left": "1px"
+      },
+      "borderStyle": {
+        "top": "solid",
+        "right": "solid",
+        "bottom": "solid",
+        "left": "solid"
+      },
+      "borderColor": {
+        "top": "rgb(229, 226, 219)",
+        "right": "rgb(229, 226, 219)",
+        "bottom": "rgb(229, 226, 219)",
+        "left": "rgb(229, 226, 219)"
+      },
+      "borderRadius": {
+        "topLeft": "10px",
+        "topRight": "10px",
+        "bottomRight": "10px",
+        "bottomLeft": "10px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 148,
+        "height": 28
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 109,
+        "height": 17
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 5,
+      "label": "<span> span",
+      "geometry": {
+        "width": 6,
+        "height": 6
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "50%",
+        "topRight": "50%",
+        "bottomRight": "50%",
+        "bottomLeft": "50%"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"Needs action\"",
+      "ownText": "Needs action",
+      "geometry": {
+        "width": 97,
+        "height": 17
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<button> button",
+      "geometry": {
+        "width": 18,
+        "height": 28
+      },
+      "borderWidth": {
+        "top": "1px",
+        "right": "1px",
+        "bottom": "1px",
+        "left": "1px"
+      },
+      "borderStyle": {
+        "top": "solid",
+        "right": "solid",
+        "bottom": "solid",
+        "left": "solid"
+      },
+      "borderColor": {
+        "top": "rgb(229, 226, 219)",
+        "right": "rgb(229, 226, 219)",
+        "bottom": "rgb(229, 226, 219)",
+        "left": "rgb(229, 226, 219)"
+      },
+      "borderRadius": {
+        "topLeft": "4px",
+        "topRight": "4px",
+        "bottomRight": "4px",
+        "bottomLeft": "4px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgba(0, 0, 0, 0)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<div> div \"7 students at risk in CSE101\"",
+      "ownText": "7 students at risk in CSE101",
+      "geometry": {
+        "width": 148,
+        "height": 36
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<div> div \"Avg score <50% on last 2 quizzes · Secti\"",
+      "ownText": "Avg score <50% on last 2 quizzes · Secti",
+      "geometry": {
+        "width": 148,
+        "height": 35
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Open remediation\"",
+      "ownText": "Open remediation",
+      "geometry": {
+        "width": 118,
+        "height": 28
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<svg> svg",
+      "geometry": {
+        "width": 12,
+        "height": 12
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 5,
+      "label": "<path> path",
+      "geometry": {
+        "width": 7,
+        "height": 6
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 174,
+        "height": 175
+      },
+      "borderWidth": {
+        "top": "1px",
+        "right": "1px",
+        "bottom": "1px",
+        "left": "1px"
+      },
+      "borderStyle": {
+        "top": "solid",
+        "right": "solid",
+        "bottom": "solid",
+        "left": "solid"
+      },
+      "borderColor": {
+        "top": "rgb(229, 226, 219)",
+        "right": "rgb(229, 226, 219)",
+        "bottom": "rgb(229, 226, 219)",
+        "left": "rgb(229, 226, 219)"
+      },
+      "borderRadius": {
+        "topLeft": "10px",
+        "topRight": "10px",
+        "bottomRight": "10px",
+        "bottomLeft": "10px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 148,
+        "height": 28
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 109,
+        "height": 17
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 5,
+      "label": "<span> span",
+      "geometry": {
+        "width": 6,
+        "height": 6
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "50%",
+        "topRight": "50%",
+        "bottomRight": "50%",
+        "bottomLeft": "50%"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"Needs action\"",
+      "ownText": "Needs action",
+      "geometry": {
+        "width": 97,
+        "height": 17
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<button> button",
+      "geometry": {
+        "width": 18,
+        "height": 28
+      },
+      "borderWidth": {
+        "top": "1px",
+        "right": "1px",
+        "bottom": "1px",
+        "left": "1px"
+      },
+      "borderStyle": {
+        "top": "solid",
+        "right": "solid",
+        "bottom": "solid",
+        "left": "solid"
+      },
+      "borderColor": {
+        "top": "rgb(229, 226, 219)",
+        "right": "rgb(229, 226, 219)",
+        "bottom": "rgb(229, 226, 219)",
+        "left": "rgb(229, 226, 219)"
+      },
+      "borderRadius": {
+        "topLeft": "4px",
+        "topRight": "4px",
+        "bottomRight": "4px",
+        "bottomLeft": "4px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgba(0, 0, 0, 0)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<div> div \"Plagiarism flag · 2 assignments\"",
+      "ownText": "Plagiarism flag · 2 assignments",
+      "geometry": {
+        "width": 148,
+        "height": 36
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<div> div \"Case study 4 · cross-section overlap det\"",
+      "ownText": "Case study 4 · cross-section overlap det",
+      "geometry": {
+        "width": 148,
+        "height": 35
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Open report\"",
+      "ownText": "Open report",
+      "geometry": {
+        "width": 85,
+        "height": 28
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<svg> svg",
+      "geometry": {
+        "width": 12,
+        "height": 12
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 5,
+      "label": "<path> path",
+      "geometry": {
+        "width": 7,
+        "height": 6
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 174,
+        "height": 175
+      },
+      "borderWidth": {
+        "top": "1px",
+        "right": "1px",
+        "bottom": "1px",
+        "left": "1px"
+      },
+      "borderStyle": {
+        "top": "solid",
+        "right": "solid",
+        "bottom": "solid",
+        "left": "solid"
+      },
+      "borderColor": {
+        "top": "rgb(229, 226, 219)",
+        "right": "rgb(229, 226, 219)",
+        "bottom": "rgb(229, 226, 219)",
+        "left": "rgb(229, 226, 219)"
+      },
+      "borderRadius": {
+        "topLeft": "10px",
+        "topRight": "10px",
+        "bottomRight": "10px",
+        "bottomLeft": "10px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 148,
+        "height": 28
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 77,
+        "height": 17
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 5,
+      "label": "<span> span",
+      "geometry": {
+        "width": 6,
+        "height": 6
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "50%",
+        "topRight": "50%",
+        "bottomRight": "50%",
+        "bottomLeft": "50%"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"Heads up\"",
+      "ownText": "Heads up",
+      "geometry": {
+        "width": 65,
+        "height": 17
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<button> button",
+      "geometry": {
+        "width": 18,
+        "height": 28
+      },
+      "borderWidth": {
+        "top": "1px",
+        "right": "1px",
+        "bottom": "1px",
+        "left": "1px"
+      },
+      "borderStyle": {
+        "top": "solid",
+        "right": "solid",
+        "bottom": "solid",
+        "left": "solid"
+      },
+      "borderColor": {
+        "top": "rgb(229, 226, 219)",
+        "right": "rgb(229, 226, 219)",
+        "bottom": "rgb(229, 226, 219)",
+        "left": "rgb(229, 226, 219)"
+      },
+      "borderRadius": {
+        "topLeft": "4px",
+        "topRight": "4px",
+        "bottomRight": "4px",
+        "bottomLeft": "4px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgba(0, 0, 0, 0)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<div> div \"Lesson plan pending for Tue\"",
+      "ownText": "Lesson plan pending for Tue",
+      "geometry": {
+        "width": 148,
+        "height": 36
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<div> div \"CSE201 · Trees & Graphs unit not schedul\"",
+      "ownText": "CSE201 · Trees & Graphs unit not schedul",
+      "geometry": {
+        "width": 148,
+        "height": 35
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Plan now\"",
+      "ownText": "Plan now",
+      "geometry": {
+        "width": 68,
+        "height": 28
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<svg> svg",
+      "geometry": {
+        "width": 12,
+        "height": 12
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 5,
+      "label": "<path> path",
+      "geometry": {
+        "width": 7,
+        "height": 6
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 174,
+        "height": 175
+      },
+      "borderWidth": {
+        "top": "1px",
+        "right": "1px",
+        "bottom": "1px",
+        "left": "1px"
+      },
+      "borderStyle": {
+        "top": "solid",
+        "right": "solid",
+        "bottom": "solid",
+        "left": "solid"
+      },
+      "borderColor": {
+        "top": "rgb(229, 226, 219)",
+        "right": "rgb(229, 226, 219)",
+        "bottom": "rgb(229, 226, 219)",
+        "left": "rgb(229, 226, 219)"
+      },
+      "borderRadius": {
+        "topLeft": "10px",
+        "topRight": "10px",
+        "bottomRight": "10px",
+        "bottomLeft": "10px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 148,
+        "height": 28
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 77,
+        "height": 17
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 5,
+      "label": "<span> span",
+      "geometry": {
+        "width": 6,
+        "height": 6
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "50%",
+        "topRight": "50%",
+        "bottomRight": "50%",
+        "bottomLeft": "50%"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"Heads up\"",
+      "ownText": "Heads up",
+      "geometry": {
+        "width": 65,
+        "height": 17
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<button> button",
+      "geometry": {
+        "width": 18,
+        "height": 28
+      },
+      "borderWidth": {
+        "top": "1px",
+        "right": "1px",
+        "bottom": "1px",
+        "left": "1px"
+      },
+      "borderStyle": {
+        "top": "solid",
+        "right": "solid",
+        "bottom": "solid",
+        "left": "solid"
+      },
+      "borderColor": {
+        "top": "rgb(229, 226, 219)",
+        "right": "rgb(229, 226, 219)",
+        "bottom": "rgb(229, 226, 219)",
+        "left": "rgb(229, 226, 219)"
+      },
+      "borderRadius": {
+        "topLeft": "4px",
+        "topRight": "4px",
+        "bottomRight": "4px",
+        "bottomLeft": "4px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgba(0, 0, 0, 0)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<div> div \"12 doubts unresolved\"",
+      "ownText": "12 doubts unresolved",
+      "geometry": {
+        "width": 148,
+        "height": 18
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<div> div \"CSE201 Section B · oldest 2 days\"",
+      "ownText": "CSE201 Section B · oldest 2 days",
+      "geometry": {
+        "width": 148,
+        "height": 35
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Answer doubts\"",
+      "ownText": "Answer doubts",
+      "geometry": {
+        "width": 103,
+        "height": 28
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<svg> svg",
+      "geometry": {
+        "width": 12,
+        "height": 12
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 5,
+      "label": "<path> path",
+      "geometry": {
+        "width": 7,
+        "height": 6
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "geometry": {
+        "width": 726,
+        "height": 51
+      },
+      "borderWidth": {
+        "top": "1px",
+        "right": "1px",
+        "bottom": "1px",
+        "left": "1px"
+      },
+      "borderStyle": {
+        "top": "solid",
+        "right": "solid",
+        "bottom": "solid",
+        "left": "solid"
+      },
+      "borderColor": {
+        "top": "rgb(229, 226, 219)",
+        "right": "rgb(229, 226, 219)",
+        "bottom": "rgb(229, 226, 219)",
+        "left": "rgb(229, 226, 219)"
+      },
+      "borderRadius": {
+        "topLeft": "10px",
+        "topRight": "10px",
+        "bottomRight": "10px",
+        "bottomLeft": "10px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 197,
+        "height": 16
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<span> span \"Showing  of  · ranked by impact.\"",
+      "ownText": "Showing  of  · ranked by impact.",
+      "geometry": {
+        "width": 197,
+        "height": 16
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<b> b \"4\"",
+      "ownText": "4",
+      "geometry": {
+        "width": 7,
+        "height": 16
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<b> b \"7\"",
+      "ownText": "7",
+      "geometry": {
+        "width": 7,
+        "height": 16
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 220,
+        "height": 29
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(22, 22, 20)",
+        "right": "rgb(22, 22, 20)",
+        "bottom": "rgb(22, 22, 20)",
+        "left": "rgb(22, 22, 20)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(22, 22, 20)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Show 3 more\"",
+      "ownText": "Show 3 more",
+      "geometry": {
+        "width": 118,
+        "height": 29
+      },
+      "borderWidth": {
+        "top": "1px",
+        "right": "1px",
+        "bottom": "1px",
+        "left": "1px"
+      },
+      "borderStyle": {
+        "top": "solid",
+        "right": "solid",
+        "bottom": "solid",
+        "left": "solid"
+      },
+      "borderColor": {
+        "top": "rgb(45, 59, 95)",
+        "right": "rgb(45, 59, 95)",
+        "bottom": "rgb(45, 59, 95)",
+        "left": "rgb(45, 59, 95)"
+      },
+      "borderRadius": {
+        "topLeft": "7px",
+        "topRight": "7px",
+        "bottomRight": "7px",
+        "bottomLeft": "7px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(45, 59, 95)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<svg> svg",
+      "geometry": {
+        "width": 11,
+        "height": 11
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(45, 59, 95)",
+        "right": "rgb(45, 59, 95)",
+        "bottom": "rgb(45, 59, 95)",
+        "left": "rgb(45, 59, 95)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(45, 59, 95)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 5,
+      "label": "<path> path",
+      "geometry": {
+        "width": 6,
+        "height": 3
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(45, 59, 95)",
+        "right": "rgb(45, 59, 95)",
+        "bottom": "rgb(45, 59, 95)",
+        "left": "rgb(45, 59, 95)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(45, 59, 95)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Open inbox\"",
+      "ownText": "Open inbox",
+      "geometry": {
+        "width": 95,
+        "height": 28
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 4,
+      "label": "<svg> svg",
+      "geometry": {
+        "width": 11,
+        "height": 11
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    },
+    {
+      "depth": 5,
+      "label": "<path> path",
+      "geometry": {
+        "width": 6,
+        "height": 6
+      },
+      "borderWidth": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "borderStyle": {
+        "top": "none",
+        "right": "none",
+        "bottom": "none",
+        "left": "none"
+      },
+      "borderColor": {
+        "top": "rgb(106, 106, 101)",
+        "right": "rgb(106, 106, 101)",
+        "bottom": "rgb(106, 106, 101)",
+        "left": "rgb(106, 106, 101)"
+      },
+      "borderRadius": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "outline": {
+        "width": "3px",
+        "style": "none",
+        "color": "rgb(106, 106, 101)",
+        "offset": "0px"
+      }
+    }
+  ]
+}

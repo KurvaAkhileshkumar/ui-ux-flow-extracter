@@ -1,0 +1,504 @@
+{
+  "meta": {
+    "section": "Insights & Actions",
+    "extractedAt": "2026-07-05T13:38:42.876Z",
+    "elementCount": 42
+  },
+  "summary": {
+    "spacedElementCount": 21
+  },
+  "elements": [
+    {
+      "depth": 0,
+      "label": "<section> section",
+      "geometry": {
+        "width": 760,
+        "height": 306
+      },
+      "padding": {
+        "top": "13px",
+        "right": "14px",
+        "bottom": "14px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "geometry": {
+        "width": 730,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "11px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 164,
+        "height": 17
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 3,
+      "label": "<span> span \"6\"",
+      "ownText": "6",
+      "geometry": {
+        "width": 21,
+        "height": 16
+      },
+      "padding": {
+        "top": "1px",
+        "right": "7px",
+        "bottom": "1px",
+        "left": "7px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 2,
+      "label": "<button> button \"+4 more\"",
+      "ownText": "+4 more",
+      "geometry": {
+        "width": 74,
+        "height": 28
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "3px",
+      "rowGap": "3px",
+      "columnGap": "3px"
+    },
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "geometry": {
+        "width": 730,
+        "height": 195
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 730,
+        "height": 94
+      },
+      "padding": {
+        "top": "10px",
+        "right": "12px",
+        "bottom": "10px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 702,
+        "height": 72
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 4,
+      "label": "<button> button",
+      "geometry": {
+        "width": 17,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "1px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div \"You dipped to 55% on the practice set. A\"",
+      "ownText": "You dipped to 55% on the practice set. A",
+      "geometry": {
+        "width": 675,
+        "height": 17
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "2px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div",
+      "geometry": {
+        "width": 675,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "8px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 6,
+      "label": "<button> button \"Start revision\"",
+      "ownText": "Start revision",
+      "geometry": {
+        "width": 118,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "12px",
+        "bottom": "0px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 6,
+      "label": "<button> button \"Plan\"",
+      "ownText": "Plan",
+      "geometry": {
+        "width": 61,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "10px",
+        "bottom": "0px",
+        "left": "10px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 730,
+        "height": 94
+      },
+      "padding": {
+        "top": "10px",
+        "right": "12px",
+        "bottom": "10px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 702,
+        "height": 72
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 4,
+      "label": "<button> button",
+      "geometry": {
+        "width": 17,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "1px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div \"Normalization and Transactions are still\"",
+      "ownText": "Normalization and Transactions are still",
+      "geometry": {
+        "width": 675,
+        "height": 17
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "2px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div",
+      "geometry": {
+        "width": 675,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "8px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 6,
+      "label": "<button> button \"Catch up now\"",
+      "ownText": "Catch up now",
+      "geometry": {
+        "width": 121,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "12px",
+        "bottom": "0px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 6,
+      "label": "<button> button \"Plan\"",
+      "ownText": "Plan",
+      "geometry": {
+        "width": 61,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "10px",
+        "bottom": "0px",
+        "left": "10px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 1,
+      "label": "<button> button \"See insights log & outcomes\"",
+      "ownText": "See insights log & outcomes",
+      "geometry": {
+        "width": 730,
+        "height": 33
+      },
+      "padding": {
+        "top": "8px",
+        "right": "8px",
+        "bottom": "8px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "10px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "5px",
+      "rowGap": "5px",
+      "columnGap": "5px"
+    }
+  ]
+}

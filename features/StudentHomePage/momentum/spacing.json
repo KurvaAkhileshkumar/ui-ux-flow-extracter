@@ -1,0 +1,363 @@
+{
+  "meta": {
+    "section": "Your Momentum",
+    "extractedAt": "2026-07-05T13:38:46.093Z",
+    "elementCount": 38
+  },
+  "summary": {
+    "spacedElementCount": 15
+  },
+  "elements": [
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "geometry": {
+        "width": 360,
+        "height": 17
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "10px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 245,
+        "height": 17
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "geometry": {
+        "width": 360,
+        "height": 121
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 116,
+        "height": 121
+      },
+      "padding": {
+        "top": "13px",
+        "right": "14px",
+        "bottom": "13px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 86,
+        "height": 29
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "5px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 4,
+      "label": "<span> span \"170\"",
+      "ownText": "170",
+      "geometry": {
+        "width": 35,
+        "height": 16
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "2px",
+      "rowGap": "2px",
+      "columnGap": "2px"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div \"was 470 last week\"",
+      "ownText": "was 470 last week",
+      "geometry": {
+        "width": 86,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "3px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 112,
+        "height": 121
+      },
+      "padding": {
+        "top": "13px",
+        "right": "14px",
+        "bottom": "13px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 82,
+        "height": 29
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "5px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 4,
+      "label": "<span> span \"5\"",
+      "ownText": "5",
+      "geometry": {
+        "width": 20,
+        "height": 16
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "2px",
+      "rowGap": "2px",
+      "columnGap": "2px"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div \"was 18 last week\"",
+      "ownText": "was 18 last week",
+      "geometry": {
+        "width": 82,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "3px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 112,
+        "height": 121
+      },
+      "padding": {
+        "top": "13px",
+        "right": "14px",
+        "bottom": "13px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 82,
+        "height": 29
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "5px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 4,
+      "label": "<span> span \"1/7\"",
+      "ownText": "1/7",
+      "geometry": {
+        "width": 35,
+        "height": 16
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "2px",
+      "rowGap": "2px",
+      "columnGap": "2px"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div \"was 6/7 last week\"",
+      "ownText": "was 6/7 last week",
+      "geometry": {
+        "width": 82,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "3px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    }
+  ]
+}

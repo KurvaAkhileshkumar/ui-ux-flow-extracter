@@ -1,0 +1,734 @@
+{
+  "meta": {
+    "section": "Insights & actions",
+    "extractedAt": "2026-07-05T06:38:54.773Z",
+    "elementCount": 77
+  },
+  "summary": {
+    "spacedElementCount": 31
+  },
+  "elements": [
+    {
+      "depth": 0,
+      "label": "<section> section",
+      "geometry": {
+        "width": 764,
+        "height": 339
+      },
+      "padding": {
+        "top": "16px",
+        "right": "18px",
+        "bottom": "18px",
+        "left": "18px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 1,
+      "label": "<header> header",
+      "geometry": {
+        "width": 726,
+        "height": 51
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "14px",
+        "left": "0px"
+      },
+      "gap": "16px",
+      "rowGap": "16px",
+      "columnGap": "16px"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 192,
+        "height": 17
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "4px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 391,
+        "height": 29
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 270,
+        "height": 34
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 175,
+        "height": 34
+      },
+      "padding": {
+        "top": "2px",
+        "right": "2px",
+        "bottom": "2px",
+        "left": "2px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 4,
+      "label": "<button> button \"Active\"",
+      "ownText": "Active",
+      "geometry": {
+        "width": 71,
+        "height": 28
+      },
+      "padding": {
+        "top": "4px",
+        "right": "10px",
+        "bottom": "4px",
+        "left": "10px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "5px",
+      "rowGap": "5px",
+      "columnGap": "5px"
+    },
+    {
+      "depth": 4,
+      "label": "<button> button \"Completed\"",
+      "ownText": "Completed",
+      "geometry": {
+        "width": 98,
+        "height": 28
+      },
+      "padding": {
+        "top": "4px",
+        "right": "10px",
+        "bottom": "4px",
+        "left": "10px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "5px",
+      "rowGap": "5px",
+      "columnGap": "5px"
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Configure\"",
+      "ownText": "Configure",
+      "geometry": {
+        "width": 86,
+        "height": 28
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 1,
+      "label": "<div> l1-fourCol",
+      "geometry": {
+        "width": 726,
+        "height": 175
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 174,
+        "height": 175
+      },
+      "padding": {
+        "top": "10px",
+        "right": "12px",
+        "bottom": "10px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 148,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 109,
+        "height": 17
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Open remediation\"",
+      "ownText": "Open remediation",
+      "geometry": {
+        "width": 118,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "2px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 174,
+        "height": 175
+      },
+      "padding": {
+        "top": "10px",
+        "right": "12px",
+        "bottom": "10px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 148,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 109,
+        "height": 17
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Open report\"",
+      "ownText": "Open report",
+      "geometry": {
+        "width": 85,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "2px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 174,
+        "height": 175
+      },
+      "padding": {
+        "top": "10px",
+        "right": "12px",
+        "bottom": "10px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 148,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 77,
+        "height": 17
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Plan now\"",
+      "ownText": "Plan now",
+      "geometry": {
+        "width": 68,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "2px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 174,
+        "height": 175
+      },
+      "padding": {
+        "top": "10px",
+        "right": "12px",
+        "bottom": "10px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 148,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 77,
+        "height": 17
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Answer doubts\"",
+      "ownText": "Answer doubts",
+      "geometry": {
+        "width": 103,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "2px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "geometry": {
+        "width": 726,
+        "height": 51
+      },
+      "padding": {
+        "top": "10px",
+        "right": "14px",
+        "bottom": "10px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "12px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 197,
+        "height": 16
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 220,
+        "height": 29
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Show 3 more\"",
+      "ownText": "Show 3 more",
+      "geometry": {
+        "width": 118,
+        "height": 29
+      },
+      "padding": {
+        "top": "6px",
+        "right": "12px",
+        "bottom": "6px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "5px",
+      "rowGap": "5px",
+      "columnGap": "5px"
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Open inbox\"",
+      "ownText": "Open inbox",
+      "geometry": {
+        "width": 95,
+        "height": 28
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "meta": {
+    "section": "Knowledge Bytes",
+    "extractedAt": "2026-07-05T13:38:44.311Z",
+    "elementCount": 68
+  },
+  "summary": {
+    "spacedElementCount": 21
+  },
+  "elements": [
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "geometry": {
+        "width": 760,
+        "height": 24
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "10px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 139,
+        "height": 17
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 96,
+        "height": 24
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 3,
+      "label": "<button> button",
+      "geometry": {
+        "width": 24,
+        "height": 24
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 3,
+      "label": "<button> button",
+      "geometry": {
+        "width": 24,
+        "height": 24
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 758,
+        "height": 125
+      },
+      "padding": {
+        "top": "12px",
+        "right": "14px",
+        "bottom": "14px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div \"Study tip\"",
+      "ownText": "Study tip",
+      "geometry": {
+        "width": 730,
+        "height": 15
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "4px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div \"Short spaced reviews can lift recall ~40\"",
+      "ownText": "Short spaced reviews can lift recall ~40",
+      "geometry": {
+        "width": 730,
+        "height": 18
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "6px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div",
+      "geometry": {
+        "width": 730,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "10px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<button> button \"Read more\"",
+      "ownText": "Read more",
+      "geometry": {
+        "width": 78,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 758,
+        "height": 125
+      },
+      "padding": {
+        "top": "12px",
+        "right": "14px",
+        "bottom": "14px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div \"Career\"",
+      "ownText": "Career",
+      "geometry": {
+        "width": 730,
+        "height": 15
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "4px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div \"One project you can explain deeply beats\"",
+      "ownText": "One project you can explain deeply beats",
+      "geometry": {
+        "width": 730,
+        "height": 18
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "6px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div",
+      "geometry": {
+        "width": 730,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "10px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<button> button \"Read more\"",
+      "ownText": "Read more",
+      "geometry": {
+        "width": 78,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 758,
+        "height": 125
+      },
+      "padding": {
+        "top": "12px",
+        "right": "14px",
+        "bottom": "14px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div \"Tech\"",
+      "ownText": "Tech",
+      "geometry": {
+        "width": 730,
+        "height": 15
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "4px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div \"A friendly visual on B-trees, indexes, a\"",
+      "ownText": "A friendly visual on B-trees, indexes, a",
+      "geometry": {
+        "width": 730,
+        "height": 18
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "6px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div",
+      "geometry": {
+        "width": 730,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "10px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<button> button \"Read more\"",
+      "ownText": "Read more",
+      "geometry": {
+        "width": 78,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "geometry": {
+        "width": 760,
+        "height": 6
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "10px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    }
+  ]
+}

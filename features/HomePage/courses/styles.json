@@ -1,0 +1,761 @@
+{
+  "meta": {
+    "name": "Your courses · 12",
+    "filename": "your-courses-12.json",
+    "found": true,
+    "elementCount": 163,
+    "extractedAt": "2026-07-05T05:47:53.630Z"
+  },
+  "texts": [
+    {
+      "text": "Your courses · 12Add course",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Your courses · 12",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Your courses · 12",
+      "tag": "h2",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Add course",
+      "tag": "button",
+      "color": "rgb(45, 59, 95)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "⌘KAll semesters All status Sort: next class",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "⌘K",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "⌘K",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "All semesters",
+      "tag": "button",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "All status",
+      "tag": "button",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Sort: next class",
+      "tag": "button",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Problem Solving & Programming in CCSE101R01Section A · Sem 1 · 64 students · next 11:00 · Room B-30136%coveredTEATAR",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Problem Solving & Programming in CCSE101R01Section A · Sem 1 · 64 students · next 11:00 · Room B-301",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Problem Solving & Programming in CCSE101R01",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Problem Solving & Programming in C",
+      "tag": "span",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "CSE101R01",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Section A · Sem 1 · 64 students · next 11:00 · Room B-301",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "64",
+      "tag": "span",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "36%covered",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "36%",
+      "tag": "span",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "lineHeight": "12px"
+    },
+    {
+      "text": "covered",
+      "tag": "span",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "11px",
+      "fontWeight": "400",
+      "lineHeight": "11px"
+    },
+    {
+      "text": "TEATAR",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "T",
+      "tag": "div",
+      "color": "rgb(45, 59, 95)",
+      "backgroundColor": "oklch(0.357921 0.0654408 266.987 / 0.25)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "E",
+      "tag": "div",
+      "color": "rgb(45, 59, 95)",
+      "backgroundColor": "oklch(0.357921 0.0654408 266.987 / 0.25)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "A",
+      "tag": "div",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(45, 59, 95)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "T",
+      "tag": "div",
+      "color": "rgba(0, 0, 0, 0.4)",
+      "backgroundColor": "rgba(0, 0, 0, 0.04)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "A",
+      "tag": "div",
+      "color": "rgba(0, 0, 0, 0.4)",
+      "backgroundColor": "rgba(0, 0, 0, 0.04)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "R",
+      "tag": "div",
+      "color": "rgba(0, 0, 0, 0.4)",
+      "backgroundColor": "rgba(0, 0, 0, 0.04)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Data Structures & AlgorithmsCSE201R02Section B · Sem 3 · 58 students · next 14:00 · Lab 352%coveredTEATAR",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Data Structures & AlgorithmsCSE201R02Section B · Sem 3 · 58 students · next 14:00 · Lab 3",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Data Structures & AlgorithmsCSE201R02",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Data Structures & Algorithms",
+      "tag": "span",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "CSE201R02",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Section B · Sem 3 · 58 students · next 14:00 · Lab 3",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "58",
+      "tag": "span",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "52%covered",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "52%",
+      "tag": "span",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "lineHeight": "12px"
+    },
+    {
+      "text": "E",
+      "tag": "div",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(45, 59, 95)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Database SystemsCSE301R04Section A · Sem 5 · 52 students · next tmrw 09:00 · B-20461%coveredTEATAR",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Database SystemsCSE301R04Section A · Sem 5 · 52 students · next tmrw 09:00 · B-204",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Database SystemsCSE301R04",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Database Systems",
+      "tag": "span",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "CSE301R04",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Section A · Sem 5 · 52 students · next tmrw 09:00 · B-204",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "52",
+      "tag": "span",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "61%covered",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "61%",
+      "tag": "span",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "lineHeight": "12px"
+    },
+    {
+      "text": "A",
+      "tag": "div",
+      "color": "rgb(45, 59, 95)",
+      "backgroundColor": "oklch(0.357921 0.0654408 266.987 / 0.25)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "T",
+      "tag": "div",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(45, 59, 95)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Technical CommunicationCSE405R01Section C · Sem 7 · 17 students · next Mon 10:00 · B-11278%coveredTEATAR",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Technical CommunicationCSE405R01Section C · Sem 7 · 17 students · next Mon 10:00 · B-112",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Technical CommunicationCSE405R01",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Technical Communication",
+      "tag": "span",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "CSE405R01",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Section C · Sem 7 · 17 students · next Mon 10:00 · B-112",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "17",
+      "tag": "span",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "78%covered",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "78%",
+      "tag": "span",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "lineHeight": "12px"
+    },
+    {
+      "text": "Computer OrganizationCSE203Section C · Sem 3 · 60 students · next 15:3044%coveredTEATAR",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Computer OrganizationCSE203Section C · Sem 3 · 60 students · next 15:30",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Computer OrganizationCSE203",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Computer Organization",
+      "tag": "span",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "CSE203",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Section C · Sem 3 · 60 students · next 15:30",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "60",
+      "tag": "span",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "44%covered",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "44%",
+      "tag": "span",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "lineHeight": "12px"
+    },
+    {
+      "text": "Operating SystemsCSE305Section A · Sem 5 · 56 students · next tmrw 09:0068%coveredTEATAR",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Operating SystemsCSE305Section A · Sem 5 · 56 students · next tmrw 09:00",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Operating SystemsCSE305",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Operating Systems",
+      "tag": "span",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "CSE305",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Section A · Sem 5 · 56 students · next tmrw 09:00",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "56",
+      "tag": "span",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "68%covered",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "68%",
+      "tag": "span",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "lineHeight": "12px"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "section": "Your Momentum",
+    "extractedAt": "2026-07-05T13:38:46.093Z",
+    "elementCount": 38
+  },
+  "summary": {
+    "buttons": 0,
+    "inputs": 0,
+    "checkboxes": 0,
+    "textareas": 0,
+    "links": 0,
+    "images": 0,
+    "svgs": 4
+  },
+  "components": {
+    "buttons": [],
+    "inputs": [],
+    "checkboxes": [],
+    "textareas": [],
+    "links": [],
+    "images": [],
+    "svgs": [
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1048,
+          "y": 919,
+          "width": 14,
+          "height": 14,
+          "right": 1062,
+          "bottom": 933,
+          "aspectRatio": 1
+        },
+        "color": "rgb(140, 140, 132)",
+        "fill": "rgb(140, 140, 132)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1114,
+          "y": 990,
+          "width": 11,
+          "height": 11,
+          "right": 1125,
+          "bottom": 1001,
+          "aspectRatio": 1
+        },
+        "color": "rgb(26, 148, 98)",
+        "fill": "rgb(26, 148, 98)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1225,
+          "y": 1004,
+          "width": 11,
+          "height": 11,
+          "right": 1236,
+          "bottom": 1015,
+          "aspectRatio": 1
+        },
+        "color": "rgb(26, 148, 98)",
+        "fill": "rgb(26, 148, 98)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1356,
+          "y": 990,
+          "width": 11,
+          "height": 11,
+          "right": 1367,
+          "bottom": 1001,
+          "aspectRatio": 1
+        },
+        "color": "rgb(194, 129, 12)",
+        "fill": "rgb(194, 129, 12)"
+      }
+    ]
+  }
+}

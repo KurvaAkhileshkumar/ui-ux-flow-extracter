@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "section": "Header",
+    "extractedAt": "2026-07-05T06:38:43.948Z",
+    "elementCount": 50
+  },
+  "summary": {
+    "uniqueColors": 11,
+    "coloredElementCount": 10
+  },
+  "palette": [
+    {
+      "value": "rgb(22, 22, 20)",
+      "roles": {
+        "text": 20,
+        "border": 67
+      },
+      "count": 87,
+      "examples": [
+        "<div> l1-topBar",
+        "<div> l1-topBar",
+        "<div> l1-topBar"
+      ]
+    },
+    {
+      "value": "rgb(106, 106, 101)",
+      "roles": {
+        "text": 18,
+        "border": 68
+      },
+      "count": 86,
+      "examples": [
+        "<span> span \"Sastra\"",
+        "<span> span \"Sastra\"",
+        "<span> span \"Sastra\""
+      ]
+    },
+    {
+      "value": "rgb(255, 255, 255)",
+      "roles": {
+        "text": 10,
+        "border": 40,
+        "background": 3
+      },
+      "count": 53,
+      "examples": [
+        "<button> button \"Faculty\"",
+        "<button> button \"Faculty\"",
+        "<button> button \"Faculty\""
+      ]
+    },
+    {
+      "value": "rgb(229, 226, 219)",
+      "roles": {
+        "border": 13,
+        "background": 1
+      },
+      "count": 14,
+      "examples": [
+        "<div> l1-topBar",
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(110, 110, 104)",
+      "roles": {
+        "text": 2,
+        "border": 8
+      },
+      "count": 10,
+      "examples": [
+        "<div> div \"Friday · 15 May 2026\"",
+        "<div> div \"Friday · 15 May 2026\"",
+        "<div> div \"Friday · 15 May 2026\""
+      ]
+    },
+    {
+      "value": "rgb(45, 59, 95)",
+      "roles": {
+        "background": 2
+      },
+      "count": 2,
+      "examples": [
+        "<button> button \"Faculty\"",
+        "<button> button \"Ask Sastra AI\""
+      ]
+    },
+    {
+      "value": "rgb(250, 250, 247)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<div> l1-topBar"
+      ]
+    },
+    {
+      "value": "rgb(245, 243, 238)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgba(45, 59, 95, 0.267) 0px 1px 2px 0px",
+      "roles": {
+        "shadow": 1
+      },
+      "count": 1,
+      "examples": [
+        "<button> button \"Faculty\""
+      ]
+    },
+    {
+      "value": "rgb(184, 58, 42)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span \"3\""
+      ]
+    },
+    {
+      "value": "rgba(45, 59, 95, 0.2) 0px 1px 2px 0px, rgba(45, 59, 95, 0.12) 0px 4px 12px 0px",
+      "roles": {
+        "shadow": 1
+      },
+      "count": 1,
+      "examples": [
+        "<button> button \"Ask Sastra AI\""
+      ]
+    }
+  ],
+  "allColoredElements": [
+    {
+      "depth": 0,
+      "label": "<div> l1-topBar",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(250, 250, 247)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 4,
+      "label": "<button> button \"Faculty\"",
+      "ownText": "Faculty",
+      "textColor": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(45, 59, 95)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(255, 255, 255)",
+      "boxShadow": "rgba(45, 59, 95, 0.267) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 2,
+      "label": "<button> button \"Customize\"",
+      "ownText": "Customize",
+      "textColor": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgba(0, 0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 4,
+      "label": "<span> span \"3\"",
+      "ownText": "3",
+      "textColor": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(184, 58, 42)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(255, 255, 255)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(229, 226, 219)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Ask Sastra AI\"",
+      "ownText": "Ask Sastra AI",
+      "textColor": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(45, 59, 95)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(255, 255, 255)",
+      "boxShadow": "rgba(45, 59, 95, 0.2) 0px 1px 2px 0px, rgba(45, 59, 95, 0.12) 0px 4px 12px 0px"
+    },
+    {
+      "depth": 4,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "0.520349",
+      "borderColor": "rgb(255, 255, 255)",
+      "boxShadow": null
+    }
+  ]
+}

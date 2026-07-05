@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "section": "Activity wall",
+    "extractedAt": "2026-07-05T06:43:39.028Z",
+    "elementCount": 50
+  },
+  "summary": {
+    "effectElementCount": 1
+  },
+  "elements": [
+    {
+      "depth": 4,
+      "label": "<span> span",
+      "geometry": {
+        "width": 6,
+        "height": 6
+      },
+      "boxShadow": null,
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": "matrix(1, 0, 0, 1, 0, 1.9232)",
+      "transformOrigin": "3px 3px",
+      "transition": "all",
+      "animation": "1.5s ease-in-out infinite alternate l1-fade",
+      "opacity": "0.519201",
+      "cursor": "pointer"
+    }
+  ]
+}

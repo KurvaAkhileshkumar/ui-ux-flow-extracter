@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "section": "Quick actions",
+    "extractedAt": "2026-07-05T06:56:04.597Z",
+    "elementCount": 32
+  },
+  "summary": {
+    "buttons": 4,
+    "inputs": 0,
+    "checkboxes": 0,
+    "textareas": 0,
+    "links": 0,
+    "images": 0,
+    "svgs": 4
+  },
+  "components": {
+    "buttons": [
+      {
+        "label": "<button> button",
+        "text": "Concept Explainer TEACH",
+        "classes": "",
+        "geometry": {
+          "x": 1048,
+          "y": 328,
+          "width": 83,
+          "height": 126,
+          "right": 1131,
+          "bottom": 453,
+          "aspectRatio": 0.657
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "10px",
+          "topRight": "10px",
+          "bottomRight": "10px",
+          "bottomLeft": "10px"
+        },
+        "padding": {
+          "top": "14px",
+          "right": "14px",
+          "bottom": "14px",
+          "left": "14px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Lesson Hooks TEACH",
+        "classes": "",
+        "geometry": {
+          "x": 1141,
+          "y": 328,
+          "width": 83,
+          "height": 126,
+          "right": 1223,
+          "bottom": 453,
+          "aspectRatio": 0.657
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "10px",
+          "topRight": "10px",
+          "bottomRight": "10px",
+          "bottomLeft": "10px"
+        },
+        "padding": {
+          "top": "14px",
+          "right": "14px",
+          "bottom": "14px",
+          "left": "14px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Discussions ENGAGE",
+        "classes": "",
+        "geometry": {
+          "x": 1233,
+          "y": 328,
+          "width": 83,
+          "height": 126,
+          "right": 1316,
+          "bottom": 453,
+          "aspectRatio": 0.657
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "10px",
+          "topRight": "10px",
+          "bottomRight": "10px",
+          "bottomLeft": "10px"
+        },
+        "padding": {
+          "top": "14px",
+          "right": "14px",
+          "bottom": "14px",
+          "left": "14px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Reports TRACK",
+        "classes": "",
+        "geometry": {
+          "x": 1326,
+          "y": 328,
+          "width": 83,
+          "height": 126,
+          "right": 1408,
+          "bottom": 453,
+          "aspectRatio": 0.657
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "10px",
+          "topRight": "10px",
+          "bottomRight": "10px",
+          "bottomLeft": "10px"
+        },
+        "padding": {
+          "top": "14px",
+          "right": "14px",
+          "bottom": "14px",
+          "left": "14px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      }
+    ],
+    "inputs": [],
+    "checkboxes": [],
+    "textareas": [],
+    "links": [],
+    "images": [],
+    "svgs": [
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1071,
+          "y": 350,
+          "width": 15,
+          "height": 15,
+          "right": 1086,
+          "bottom": 365,
+          "aspectRatio": 1
+        },
+        "color": "rgb(45, 59, 95)",
+        "fill": "rgb(45, 59, 95)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1163,
+          "y": 350,
+          "width": 15,
+          "height": 15,
+          "right": 1178,
+          "bottom": 365,
+          "aspectRatio": 1
+        },
+        "color": "rgb(45, 59, 95)",
+        "fill": "rgb(45, 59, 95)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1256,
+          "y": 350,
+          "width": 15,
+          "height": 15,
+          "right": 1271,
+          "bottom": 365,
+          "aspectRatio": 1
+        },
+        "color": "rgb(45, 59, 95)",
+        "fill": "rgb(45, 59, 95)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1348,
+          "y": 350,
+          "width": 15,
+          "height": 15,
+          "right": 1363,
+          "bottom": 365,
+          "aspectRatio": 1
+        },
+        "color": "rgb(45, 59, 95)",
+        "fill": "rgb(45, 59, 95)"
+      }
+    ]
+  }
+}

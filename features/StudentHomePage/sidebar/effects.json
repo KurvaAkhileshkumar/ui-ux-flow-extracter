@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "section": "Student Sidebar",
+    "extractedAt": "2026-07-05T13:38:47.481Z",
+    "elementCount": 120
+  },
+  "summary": {
+    "effectElementCount": 1
+  },
+  "elements": [
+    {
+      "depth": 5,
+      "label": "<span> span",
+      "geometry": {
+        "width": 12,
+        "height": 12
+      },
+      "boxShadow": null,
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": "matrix(0, 1, -1, 0, 0, 0)",
+      "transformOrigin": "6px 6px",
+      "transition": "transform 0.18s",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    }
+  ]
+}

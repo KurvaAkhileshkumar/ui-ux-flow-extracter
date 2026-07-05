@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "section": "Activity wall",
+    "extractedAt": "2026-07-05T06:43:39.028Z",
+    "elementCount": 50
+  },
+  "summary": {
+    "buttons": 3,
+    "inputs": 0,
+    "checkboxes": 0,
+    "textareas": 0,
+    "links": 0,
+    "images": 0,
+    "svgs": 1
+  },
+  "components": {
+    "buttons": [
+      {
+        "label": "<button> button \"Open wall\"",
+        "text": "Open wall",
+        "classes": "",
+        "geometry": {
+          "x": 1322,
+          "y": 471,
+          "width": 86,
+          "height": 28,
+          "right": 1408,
+          "bottom": 499,
+          "aspectRatio": 3.061
+        },
+        "fontSize": "12.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(106, 106, 101)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "1px",
+          "right": "6px",
+          "bottom": "1px",
+          "left": "6px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Ongoing\"",
+        "text": "Ongoing 3",
+        "classes": "",
+        "geometry": {
+          "x": 1059,
+          "y": 516,
+          "width": 97,
+          "height": 28,
+          "right": 1156,
+          "bottom": 544,
+          "aspectRatio": 3.46
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(22, 22, 20)",
+        "backgroundColor": "rgb(245, 243, 238)",
+        "border": "0px none rgb(22, 22, 20)",
+        "borderRadius": {
+          "topLeft": "6px",
+          "topRight": "6px",
+          "bottomRight": "6px",
+          "bottomLeft": "6px"
+        },
+        "padding": {
+          "top": "5px",
+          "right": "11px",
+          "bottom": "5px",
+          "left": "11px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Past\"",
+        "text": "Past 2",
+        "classes": "",
+        "geometry": {
+          "x": 1160,
+          "y": 516,
+          "width": 61,
+          "height": 28,
+          "right": 1220,
+          "bottom": 544,
+          "aspectRatio": 2.161
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(106, 106, 101)",
+        "borderRadius": {
+          "topLeft": "6px",
+          "topRight": "6px",
+          "bottomRight": "6px",
+          "bottomLeft": "6px"
+        },
+        "padding": {
+          "top": "5px",
+          "right": "11px",
+          "bottom": "5px",
+          "left": "11px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      }
+    ],
+    "inputs": [],
+    "checkboxes": [],
+    "textareas": [],
+    "links": [],
+    "images": [],
+    "svgs": [
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1391,
+          "y": 480,
+          "width": 11,
+          "height": 11,
+          "right": 1402,
+          "bottom": 491,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      }
+    ]
+  }
+}

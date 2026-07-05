@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "section": "Today's Timetable",
+    "extractedAt": "2026-07-05T13:38:45.211Z",
+    "elementCount": 66
+  },
+  "summary": {
+    "uniqueColors": 9,
+    "coloredElementCount": 7
+  },
+  "palette": [
+    {
+      "value": "rgb(22, 22, 20)",
+      "roles": {
+        "text": 39,
+        "border": 151
+      },
+      "count": 190,
+      "examples": [
+        "<section> l1-fade",
+        "<section> l1-fade",
+        "<section> l1-fade"
+      ]
+    },
+    {
+      "value": "rgb(140, 140, 132)",
+      "roles": {
+        "text": 17,
+        "border": 68
+      },
+      "count": 85,
+      "examples": [
+        "<span> span",
+        "<span> span",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(106, 106, 101)",
+      "roles": {
+        "text": 7,
+        "border": 28
+      },
+      "count": 35,
+      "examples": [
+        "<button> button \"Full week\"",
+        "<button> button \"Full week\"",
+        "<button> button \"Full week\""
+      ]
+    },
+    {
+      "value": "rgb(26, 148, 98)",
+      "roles": {
+        "text": 2,
+        "border": 8,
+        "background": 1
+      },
+      "count": 11,
+      "examples": [
+        "<span> span \"Now\"",
+        "<span> span \"Now\"",
+        "<span> span \"Now\""
+      ]
+    },
+    {
+      "value": "rgb(126, 74, 142)",
+      "roles": {
+        "background": 2,
+        "text": 1,
+        "border": 4
+      },
+      "count": 7,
+      "examples": [
+        "<div> div",
+        "<span> span \"Next\"",
+        "<span> span \"Next\""
+      ]
+    },
+    {
+      "value": "rgb(231, 227, 219)",
+      "roles": {
+        "border": 5
+      },
+      "count": 5,
+      "examples": [
+        "<div> div",
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(154, 106, 168)",
+      "roles": {
+        "background": 2
+      },
+      "count": 2,
+      "examples": [
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(255, 255, 255)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgba(126, 74, 142, 0.047)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<div> div"
+      ]
+    }
+  ],
+  "allColoredElements": [
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(154, 106, 168)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(126, 74, 142, 0.047)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(126, 74, 142)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 5,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(26, 148, 98)",
+      "backgroundColor": "rgb(26, 148, 98)",
+      "backgroundImage": null,
+      "opacity": "0.35",
+      "borderColor": "rgb(26, 148, 98)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(154, 106, 168)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(126, 74, 142)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    }
+  ]
+}

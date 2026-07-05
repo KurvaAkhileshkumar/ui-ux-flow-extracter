@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "section": "Insights & Actions",
+    "extractedAt": "2026-07-05T13:38:42.876Z",
+    "elementCount": 42
+  },
+  "summary": {
+    "effectElementCount": 2
+  },
+  "elements": [
+    {
+      "depth": 6,
+      "label": "<button> button \"Start revision\"",
+      "ownText": "Start revision",
+      "geometry": {
+        "width": 118,
+        "height": 28
+      },
+      "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "59.0938px 14px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 6,
+      "label": "<button> button \"Catch up now\"",
+      "ownText": "Catch up now",
+      "geometry": {
+        "width": 121,
+        "height": 28
+      },
+      "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "60.3047px 14px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    }
+  ]
+}

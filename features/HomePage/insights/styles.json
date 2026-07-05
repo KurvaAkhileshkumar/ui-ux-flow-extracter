@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "name": "Insights & actions",
+    "filename": "insights-actions.json",
+    "found": true,
+    "elementCount": 78,
+    "extractedAt": "2026-07-05T05:47:53.630Z"
+  },
+  "texts": [
+    {
+      "text": "Sastra AI · 7 need youInsights & actionsranked by impact · refreshed 2 min agoActive7Completed0Configure",
+      "tag": "header",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Sastra AI · 7 need youInsights & actionsranked by impact · refreshed 2 min ago",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Sastra AI · 7 need you",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Sastra AI · 7 need you",
+      "tag": "span",
+      "color": "rgb(45, 59, 95)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "700",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Insights & actionsranked by impact · refreshed 2 min ago",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Insights & actions",
+      "tag": "h2",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"Instrument Serif\", \"Source Serif Pro\", Georgia, serif",
+      "fontSize": "26px",
+      "fontWeight": "400",
+      "lineHeight": "28.6px"
+    },
+    {
+      "text": "ranked by impact · refreshed 2 min ago",
+      "tag": "span",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Active7Completed0Configure",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Active7Completed0",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Active7",
+      "tag": "button",
+      "color": "rgb(45, 59, 95)",
+      "backgroundColor": "oklch(0.357921 0.0654408 266.987 / 0.14)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "7",
+      "tag": "span",
+      "color": "rgb(45, 59, 95)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Completed0",
+      "tag": "button",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "500",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "0",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "500",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Configure",
+      "tag": "button",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Needs action7 students at risk in CSE101Avg score <50% on last 2 quizzes · Section AOpen remediation",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Needs action",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Needs action",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "7 students at risk in CSE101",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "13.5px",
+      "fontWeight": "600",
+      "lineHeight": "18.225px"
+    },
+    {
+      "text": "Avg score <50% on last 2 quizzes · Section A",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "17.4px"
+    },
+    {
+      "text": "Open remediation",
+      "tag": "button",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "500",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Needs actionPlagiarism flag · 2 assignmentsCase study 4 · cross-section overlap detectedOpen report",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Plagiarism flag · 2 assignments",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "13.5px",
+      "fontWeight": "600",
+      "lineHeight": "18.225px"
+    },
+    {
+      "text": "Case study 4 · cross-section overlap detected",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "17.4px"
+    },
+    {
+      "text": "Open report",
+      "tag": "button",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "500",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Heads upLesson plan pending for TueCSE201 · Trees & Graphs unit not scheduledPlan now",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Heads up",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Heads up",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Lesson plan pending for Tue",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "13.5px",
+      "fontWeight": "600",
+      "lineHeight": "18.225px"
+    },
+    {
+      "text": "CSE201 · Trees & Graphs unit not scheduled",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "17.4px"
+    },
+    {
+      "text": "Plan now",
+      "tag": "button",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "500",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Heads up12 doubts unresolvedCSE201 Section B · oldest 2 daysAnswer doubts",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "12 doubts unresolved",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "13.5px",
+      "fontWeight": "600",
+      "lineHeight": "18.225px"
+    },
+    {
+      "text": "CSE201 Section B · oldest 2 days",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "17.4px"
+    },
+    {
+      "text": "Answer doubts",
+      "tag": "button",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "500",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Showing 4 of 7 · ranked by impact.Show 3 more Open inbox",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Showing 4 of 7 · ranked by impact.",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "4",
+      "tag": "b",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "7",
+      "tag": "b",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Show 3 more Open inbox",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Show 3 more",
+      "tag": "button",
+      "color": "rgb(45, 59, 95)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Open inbox",
+      "tag": "button",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    }
+  ]
+}

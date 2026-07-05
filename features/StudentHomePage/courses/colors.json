@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "section": "My Courses",
+    "extractedAt": "2026-07-05T13:38:43.860Z",
+    "elementCount": 113
+  },
+  "summary": {
+    "uniqueColors": 9,
+    "coloredElementCount": 12
+  },
+  "palette": [
+    {
+      "value": "rgb(22, 22, 20)",
+      "roles": {
+        "text": 41,
+        "border": 140
+      },
+      "count": 181,
+      "examples": [
+        "<section> l1-fade",
+        "<section> l1-fade",
+        "<section> l1-fade"
+      ]
+    },
+    {
+      "value": "rgb(106, 106, 101)",
+      "roles": {
+        "text": 27,
+        "border": 108
+      },
+      "count": 135,
+      "examples": [
+        "<button> button \"All courses\"",
+        "<button> button \"All courses\"",
+        "<button> button \"All courses\""
+      ]
+    },
+    {
+      "value": "rgb(90, 48, 102)",
+      "roles": {
+        "text": 15,
+        "border": 60
+      },
+      "count": 75,
+      "examples": [
+        "<span> span \"OS\"",
+        "<span> span \"OS\"",
+        "<span> span \"OS\""
+      ]
+    },
+    {
+      "value": "rgb(107, 62, 120)",
+      "roles": {
+        "text": 15,
+        "border": 60
+      },
+      "count": 75,
+      "examples": [
+        "<span> span \"DS\"",
+        "<span> span \"DS\"",
+        "<span> span \"DS\""
+      ]
+    },
+    {
+      "value": "rgb(231, 227, 219)",
+      "roles": {
+        "border": 48,
+        "text": 6
+      },
+      "count": 54,
+      "examples": [
+        "<div> card-hover",
+        "<div> card-hover",
+        "<div> card-hover"
+      ]
+    },
+    {
+      "value": "rgb(140, 140, 132)",
+      "roles": {
+        "text": 9,
+        "border": 36
+      },
+      "count": 45,
+      "examples": [
+        "<span> span",
+        "<span> span",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(255, 255, 255)",
+      "roles": {
+        "background": 6
+      },
+      "count": 6,
+      "examples": [
+        "<div> card-hover",
+        "<div> card-hover",
+        "<div> card-hover"
+      ]
+    },
+    {
+      "value": "rgb(239, 230, 242)",
+      "roles": {
+        "background": 3
+      },
+      "count": 3,
+      "examples": [
+        "<span> span \"OS\"",
+        "<span> span \"CN\"",
+        "<span> span \"P&\""
+      ]
+    },
+    {
+      "value": "rgb(241, 232, 244)",
+      "roles": {
+        "background": 3
+      },
+      "count": 3,
+      "examples": [
+        "<span> span \"DS\"",
+        "<span> span \"DS\"",
+        "<span> span \"TW\""
+      ]
+    }
+  ],
+  "allColoredElements": [
+    {
+      "depth": 2,
+      "label": "<div> card-hover",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<span> span \"OS\"",
+      "ownText": "OS",
+      "textColor": "rgb(90, 48, 102)",
+      "backgroundColor": "rgb(239, 230, 242)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(90, 48, 102)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<div> card-hover",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<span> span \"DS\"",
+      "ownText": "DS",
+      "textColor": "rgb(107, 62, 120)",
+      "backgroundColor": "rgb(241, 232, 244)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(107, 62, 120)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<div> card-hover",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<span> span \"CN\"",
+      "ownText": "CN",
+      "textColor": "rgb(90, 48, 102)",
+      "backgroundColor": "rgb(239, 230, 242)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(90, 48, 102)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<div> card-hover",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<span> span \"DS\"",
+      "ownText": "DS",
+      "textColor": "rgb(107, 62, 120)",
+      "backgroundColor": "rgb(241, 232, 244)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(107, 62, 120)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<div> card-hover",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<span> span \"P&\"",
+      "ownText": "P&",
+      "textColor": "rgb(90, 48, 102)",
+      "backgroundColor": "rgb(239, 230, 242)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(90, 48, 102)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<div> card-hover",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<span> span \"TW\"",
+      "ownText": "TW",
+      "textColor": "rgb(107, 62, 120)",
+      "backgroundColor": "rgb(241, 232, 244)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(107, 62, 120)",
+      "boxShadow": null
+    }
+  ]
+}

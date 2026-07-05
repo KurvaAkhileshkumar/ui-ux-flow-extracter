@@ -1,0 +1,395 @@
+{
+  "meta": {
+    "section": "Insights & Actions",
+    "extractedAt": "2026-07-05T13:38:42.876Z",
+    "elementCount": 42
+  },
+  "summary": {
+    "buttons": 8,
+    "inputs": 0,
+    "checkboxes": 0,
+    "textareas": 0,
+    "links": 0,
+    "images": 0,
+    "svgs": 6
+  },
+  "components": {
+    "buttons": [
+      {
+        "label": "<button> button \"+4 more\"",
+        "text": "+4 more",
+        "classes": "",
+        "geometry": {
+          "x": 939,
+          "y": 285,
+          "width": 74,
+          "height": 28,
+          "right": 1013,
+          "bottom": 313,
+          "aspectRatio": 2.659
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(106, 106, 101)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "1px",
+          "right": "6px",
+          "bottom": "1px",
+          "left": "6px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "classes": "",
+        "geometry": {
+          "x": 298,
+          "y": 336,
+          "width": 17,
+          "height": 28,
+          "right": 315,
+          "bottom": 364,
+          "aspectRatio": 0.607
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Arial",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "5px",
+          "topRight": "5px",
+          "bottomRight": "5px",
+          "bottomLeft": "5px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "0px",
+          "bottom": "0px",
+          "left": "0px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Start revision\"",
+        "text": "Start revision",
+        "classes": "",
+        "geometry": {
+          "x": 325,
+          "y": 378,
+          "width": 118,
+          "height": 28,
+          "right": 443,
+          "bottom": 406,
+          "aspectRatio": 4.221
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(126, 74, 142)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "12px",
+          "bottom": "0px",
+          "left": "12px"
+        },
+        "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Plan\"",
+        "text": "Plan",
+        "classes": "",
+        "geometry": {
+          "x": 451,
+          "y": 378,
+          "width": 61,
+          "height": 28,
+          "right": 512,
+          "bottom": 406,
+          "aspectRatio": 2.181
+        },
+        "fontSize": "11.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "8px",
+          "topRight": "8px",
+          "bottomRight": "8px",
+          "bottomLeft": "8px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "10px",
+          "bottom": "0px",
+          "left": "10px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "classes": "",
+        "geometry": {
+          "x": 298,
+          "y": 437,
+          "width": 17,
+          "height": 28,
+          "right": 315,
+          "bottom": 465,
+          "aspectRatio": 0.607
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Arial",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "5px",
+          "topRight": "5px",
+          "bottomRight": "5px",
+          "bottomLeft": "5px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "0px",
+          "bottom": "0px",
+          "left": "0px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Catch up now\"",
+        "text": "Catch up now",
+        "classes": "",
+        "geometry": {
+          "x": 325,
+          "y": 480,
+          "width": 121,
+          "height": 28,
+          "right": 446,
+          "bottom": 508,
+          "aspectRatio": 4.307
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(126, 74, 142)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "12px",
+          "bottom": "0px",
+          "left": "12px"
+        },
+        "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Plan\"",
+        "text": "Plan",
+        "classes": "",
+        "geometry": {
+          "x": 454,
+          "y": 480,
+          "width": 61,
+          "height": 28,
+          "right": 515,
+          "bottom": 508,
+          "aspectRatio": 2.181
+        },
+        "fontSize": "11.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "8px",
+          "topRight": "8px",
+          "bottomRight": "8px",
+          "bottomLeft": "8px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "10px",
+          "bottom": "0px",
+          "left": "10px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"See insights log & outcomes\"",
+        "text": "See insights log & outcomes",
+        "classes": "",
+        "geometry": {
+          "x": 283,
+          "y": 529,
+          "width": 730,
+          "height": 33,
+          "right": 1013,
+          "bottom": 562,
+          "aspectRatio": 22.121
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "8px",
+          "right": "8px",
+          "bottom": "8px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      }
+    ],
+    "inputs": [],
+    "checkboxes": [],
+    "textareas": [],
+    "links": [],
+    "images": [],
+    "svgs": [
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 996,
+          "y": 293,
+          "width": 11,
+          "height": 11,
+          "right": 1007,
+          "bottom": 304,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 420,
+          "y": 387,
+          "width": 11,
+          "height": 11,
+          "right": 431,
+          "bottom": 398,
+          "aspectRatio": 1
+        },
+        "color": "rgb(255, 255, 255)",
+        "fill": "rgb(255, 255, 255)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 462,
+          "y": 387,
+          "width": 11,
+          "height": 11,
+          "right": 473,
+          "bottom": 398,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 423,
+          "y": 489,
+          "width": 11,
+          "height": 11,
+          "right": 434,
+          "bottom": 500,
+          "aspectRatio": 1
+        },
+        "color": "rgb(255, 255, 255)",
+        "fill": "rgb(255, 255, 255)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 465,
+          "y": 489,
+          "width": 11,
+          "height": 11,
+          "right": 476,
+          "bottom": 500,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 558,
+          "y": 540,
+          "width": 12,
+          "height": 12,
+          "right": 570,
+          "bottom": 552,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      }
+    ]
+  }
+}

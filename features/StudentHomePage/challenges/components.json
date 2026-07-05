@@ -1,0 +1,222 @@
+{
+  "meta": {
+    "section": "Challenges",
+    "extractedAt": "2026-07-05T13:38:45.652Z",
+    "elementCount": 54
+  },
+  "summary": {
+    "buttons": 3,
+    "inputs": 0,
+    "checkboxes": 0,
+    "textareas": 0,
+    "links": 0,
+    "images": 0,
+    "svgs": 6
+  },
+  "components": {
+    "buttons": [
+      {
+        "label": "<button> button",
+        "text": "Aptitude DAILY",
+        "classes": "",
+        "geometry": {
+          "x": 1049,
+          "y": 692,
+          "width": 179,
+          "height": 55,
+          "right": 1228,
+          "bottom": 747,
+          "aspectRatio": 3.255
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(126, 74, 142, 0.055)",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "11px",
+          "right": "8px",
+          "bottom": "11px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Coding WEEKLY",
+        "classes": "",
+        "geometry": {
+          "x": 1228,
+          "y": 692,
+          "width": 179,
+          "height": 55,
+          "right": 1407,
+          "bottom": 747,
+          "aspectRatio": 3.255
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "11px",
+          "right": "8px",
+          "bottom": "11px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Solve now\"",
+        "text": "Solve now",
+        "classes": "",
+        "geometry": {
+          "x": 1065,
+          "y": 927,
+          "width": 326,
+          "height": 34,
+          "right": 1391,
+          "bottom": 961,
+          "aspectRatio": 9.588
+        },
+        "fontSize": "13px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(126, 74, 142)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "16px",
+          "bottom": "0px",
+          "left": "16px"
+        },
+        "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+        "cursor": "pointer",
+        "transition": "all"
+      }
+    ],
+    "inputs": [],
+    "checkboxes": [],
+    "textareas": [],
+    "links": [],
+    "images": [],
+    "svgs": [
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1048,
+          "y": 666,
+          "width": 14,
+          "height": 14,
+          "right": 1062,
+          "bottom": 680,
+          "aspectRatio": 1
+        },
+        "color": "rgb(140, 140, 132)",
+        "fill": "rgb(140, 140, 132)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1100,
+          "y": 704,
+          "width": 14,
+          "height": 14,
+          "right": 1114,
+          "bottom": 718,
+          "aspectRatio": 1
+        },
+        "color": "rgb(90, 48, 102)",
+        "fill": "rgb(90, 48, 102)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1284,
+          "y": 704,
+          "width": 14,
+          "height": 14,
+          "right": 1298,
+          "bottom": 718,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1283,
+          "y": 759,
+          "width": 13,
+          "height": 13,
+          "right": 1296,
+          "bottom": 772,
+          "aspectRatio": 1
+        },
+        "color": "rgb(90, 48, 102)",
+        "fill": "rgb(90, 48, 102)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1073,
+          "y": 849,
+          "width": 10,
+          "height": 10,
+          "right": 1083,
+          "bottom": 859,
+          "aspectRatio": 1
+        },
+        "color": "rgb(90, 48, 102)",
+        "fill": "rgb(90, 48, 102)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1186,
+          "y": 937,
+          "width": 13,
+          "height": 13,
+          "right": 1199,
+          "bottom": 950,
+          "aspectRatio": 1
+        },
+        "color": "rgb(255, 255, 255)",
+        "fill": "rgb(255, 255, 255)"
+      }
+    ]
+  }
+}

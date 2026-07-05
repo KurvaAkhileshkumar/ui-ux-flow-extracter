@@ -1,0 +1,377 @@
+{
+  "meta": {
+    "section": "Header",
+    "extractedAt": "2026-07-05T06:38:43.948Z",
+    "elementCount": 50
+  },
+  "summary": {
+    "buttons": 7,
+    "inputs": 0,
+    "checkboxes": 0,
+    "textareas": 0,
+    "links": 0,
+    "images": 0,
+    "svgs": 7
+  },
+  "components": {
+    "buttons": [
+      {
+        "label": "<button> button \"Faculty\"",
+        "text": "Faculty",
+        "classes": "",
+        "geometry": {
+          "x": 336,
+          "y": 118,
+          "width": 80,
+          "height": 28,
+          "right": 416,
+          "bottom": 146,
+          "aspectRatio": 2.847
+        },
+        "fontSize": "12.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(45, 59, 95)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": {
+          "topLeft": "6px",
+          "topRight": "6px",
+          "bottomRight": "6px",
+          "bottomLeft": "6px"
+        },
+        "padding": {
+          "top": "4px",
+          "right": "9px",
+          "bottom": "4px",
+          "left": "9px"
+        },
+        "boxShadow": "rgba(45, 59, 95, 0.267) 0px 1px 2px 0px",
+        "cursor": "pointer",
+        "transition": "background 0.12s, color 0.12s"
+      },
+      {
+        "label": "<button> button \"HOD\"",
+        "text": "HOD",
+        "classes": "",
+        "geometry": {
+          "x": 416,
+          "y": 118,
+          "width": 63,
+          "height": 28,
+          "right": 479,
+          "bottom": 146,
+          "aspectRatio": 2.247
+        },
+        "fontSize": "12.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(106, 106, 101)",
+        "borderRadius": {
+          "topLeft": "6px",
+          "topRight": "6px",
+          "bottomRight": "6px",
+          "bottomLeft": "6px"
+        },
+        "padding": {
+          "top": "4px",
+          "right": "9px",
+          "bottom": "4px",
+          "left": "9px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "background 0.12s, color 0.12s"
+      },
+      {
+        "label": "<button> button \"Principal\"",
+        "text": "Principal",
+        "classes": "",
+        "geometry": {
+          "x": 479,
+          "y": 118,
+          "width": 87,
+          "height": 28,
+          "right": 566,
+          "bottom": 146,
+          "aspectRatio": 3.11
+        },
+        "fontSize": "12.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(106, 106, 101)",
+        "borderRadius": {
+          "topLeft": "6px",
+          "topRight": "6px",
+          "bottomRight": "6px",
+          "bottomLeft": "6px"
+        },
+        "padding": {
+          "top": "4px",
+          "right": "9px",
+          "bottom": "4px",
+          "left": "9px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "background 0.12s, color 0.12s"
+      },
+      {
+        "label": "<button> button \"Customize\"",
+        "text": "Customize",
+        "classes": "",
+        "geometry": {
+          "x": 578,
+          "y": 118,
+          "width": 103,
+          "height": 28,
+          "right": 681,
+          "bottom": 146,
+          "aspectRatio": 3.677
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "1px solid rgba(0, 0, 0, 0)",
+        "borderRadius": {
+          "topLeft": "7px",
+          "topRight": "7px",
+          "bottomRight": "7px",
+          "bottomLeft": "7px"
+        },
+        "padding": {
+          "top": "5px",
+          "right": "10px",
+          "bottom": "5px",
+          "left": "10px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Notifications 3",
+        "classes": "",
+        "geometry": {
+          "x": 689,
+          "y": 117,
+          "width": 138,
+          "height": 30,
+          "right": 827,
+          "bottom": 147,
+          "aspectRatio": 4.609
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(22, 22, 20)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "8px",
+          "topRight": "8px",
+          "bottomRight": "8px",
+          "bottomLeft": "8px"
+        },
+        "padding": {
+          "top": "6px",
+          "right": "10px",
+          "bottom": "6px",
+          "left": "10px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "background 0.12s, border-color 0.12s"
+      },
+      {
+        "label": "<button> button",
+        "text": "Calendar",
+        "classes": "",
+        "geometry": {
+          "x": 833,
+          "y": 117,
+          "width": 93,
+          "height": 29,
+          "right": 926,
+          "bottom": 146,
+          "aspectRatio": 3.22
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(22, 22, 20)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "8px",
+          "topRight": "8px",
+          "bottomRight": "8px",
+          "bottomLeft": "8px"
+        },
+        "padding": {
+          "top": "6px",
+          "right": "10px",
+          "bottom": "6px",
+          "left": "10px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "background 0.12s, border-color 0.12s"
+      },
+      {
+        "label": "<button> button \"Ask Sastra AI\"",
+        "text": "Ask Sastra AI",
+        "classes": "",
+        "geometry": {
+          "x": 947,
+          "y": 116,
+          "width": 141,
+          "height": 31,
+          "right": 1088,
+          "bottom": 147,
+          "aspectRatio": 4.532
+        },
+        "fontSize": "12.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(45, 59, 95)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": {
+          "topLeft": "8px",
+          "topRight": "8px",
+          "bottomRight": "8px",
+          "bottomLeft": "8px"
+        },
+        "padding": {
+          "top": "8px",
+          "right": "14px",
+          "bottom": "8px",
+          "left": "14px"
+        },
+        "boxShadow": "rgba(45, 59, 95, 0.2) 0px 1px 2px 0px, rgba(45, 59, 95, 0.12) 0px 4px 12px 0px",
+        "cursor": "pointer",
+        "transition": "all"
+      }
+    ],
+    "inputs": [],
+    "checkboxes": [],
+    "textareas": [],
+    "links": [],
+    "images": [],
+    "svgs": [
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 345,
+          "y": 126,
+          "width": 12,
+          "height": 12,
+          "right": 357,
+          "bottom": 138,
+          "aspectRatio": 1
+        },
+        "color": "rgb(255, 255, 255)",
+        "fill": "rgb(255, 255, 255)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 425,
+          "y": 126,
+          "width": 12,
+          "height": 12,
+          "right": 437,
+          "bottom": 138,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 488,
+          "y": 126,
+          "width": 12,
+          "height": 12,
+          "right": 500,
+          "bottom": 138,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 589,
+          "y": 125,
+          "width": 14,
+          "height": 14,
+          "right": 603,
+          "bottom": 139,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 700,
+          "y": 125,
+          "width": 14,
+          "height": 14,
+          "right": 714,
+          "bottom": 139,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 844,
+          "y": 125,
+          "width": 14,
+          "height": 14,
+          "right": 858,
+          "bottom": 139,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 961,
+          "y": 125,
+          "width": 13,
+          "height": 13,
+          "right": 974,
+          "bottom": 138,
+          "aspectRatio": 1
+        },
+        "color": "rgb(255, 255, 255)",
+        "fill": "rgb(255, 255, 255)"
+      }
+    ]
+  }
+}

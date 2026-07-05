@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "section": "Your courses",
+    "extractedAt": "2026-07-05T06:55:42.914Z",
+    "elementCount": 163
+  },
+  "summary": {
+    "effectElementCount": 6
+  },
+  "elements": [
+    {
+      "depth": 5,
+      "label": "<circle> circle",
+      "geometry": {
+        "width": 19,
+        "height": 19
+      },
+      "boxShadow": null,
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": "matrix(0, -1, 1, 0, 0, 22)",
+      "transformOrigin": "0px 0px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "auto"
+    },
+    {
+      "depth": 5,
+      "label": "<circle> circle",
+      "geometry": {
+        "width": 19,
+        "height": 19
+      },
+      "boxShadow": null,
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": "matrix(0, -1, 1, 0, 0, 22)",
+      "transformOrigin": "0px 0px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "auto"
+    },
+    {
+      "depth": 5,
+      "label": "<circle> circle",
+      "geometry": {
+        "width": 19,
+        "height": 19
+      },
+      "boxShadow": null,
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": "matrix(0, -1, 1, 0, 0, 22)",
+      "transformOrigin": "0px 0px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "auto"
+    },
+    {
+      "depth": 5,
+      "label": "<circle> circle",
+      "geometry": {
+        "width": 19,
+        "height": 19
+      },
+      "boxShadow": null,
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": "matrix(0, -1, 1, 0, 0, 22)",
+      "transformOrigin": "0px 0px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "auto"
+    },
+    {
+      "depth": 5,
+      "label": "<circle> circle",
+      "geometry": {
+        "width": 19,
+        "height": 19
+      },
+      "boxShadow": null,
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": "matrix(0, -1, 1, 0, 0, 22)",
+      "transformOrigin": "0px 0px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "auto"
+    },
+    {
+      "depth": 5,
+      "label": "<circle> circle",
+      "geometry": {
+        "width": 19,
+        "height": 19
+      },
+      "boxShadow": null,
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": "matrix(0, -1, 1, 0, 0, 22)",
+      "transformOrigin": "0px 0px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "auto"
+    }
+  ]
+}

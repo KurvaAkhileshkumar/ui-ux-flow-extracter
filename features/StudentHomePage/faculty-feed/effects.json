@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "section": "From Your Faculty",
+    "extractedAt": "2026-07-05T13:38:43.369Z",
+    "elementCount": 158
+  },
+  "summary": {
+    "effectElementCount": 5
+  },
+  "elements": [
+    {
+      "depth": 5,
+      "label": "<button> button \"Read\"",
+      "ownText": "Read",
+      "geometry": {
+        "width": 57,
+        "height": 30
+      },
+      "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "28.25px 15px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 5,
+      "label": "<button> button \"Start\"",
+      "ownText": "Start",
+      "geometry": {
+        "width": 55,
+        "height": 30
+      },
+      "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "27.6953px 15px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 5,
+      "label": "<button> button \"Start\"",
+      "ownText": "Start",
+      "geometry": {
+        "width": 55,
+        "height": 30
+      },
+      "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "27.6953px 15px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 5,
+      "label": "<button> button \"Start\"",
+      "ownText": "Start",
+      "geometry": {
+        "width": 55,
+        "height": 30
+      },
+      "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "27.6953px 15px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 5,
+      "label": "<button> button \"Start\"",
+      "ownText": "Start",
+      "geometry": {
+        "width": 55,
+        "height": 30
+      },
+      "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "27.6953px 15px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    }
+  ]
+}

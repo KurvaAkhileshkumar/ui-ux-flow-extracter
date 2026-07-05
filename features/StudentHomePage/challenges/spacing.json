@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "section": "Challenges",
+    "extractedAt": "2026-07-05T13:38:45.652Z",
+    "elementCount": 54
+  },
+  "summary": {
+    "spacedElementCount": 16
+  },
+  "elements": [
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "geometry": {
+        "width": 360,
+        "height": 17
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "10px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 232,
+        "height": 17
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 3,
+      "label": "<button> button",
+      "geometry": {
+        "width": 179,
+        "height": 55
+      },
+      "padding": {
+        "top": "11px",
+        "right": "8px",
+        "bottom": "11px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "2px",
+      "rowGap": "2px",
+      "columnGap": "2px"
+    },
+    {
+      "depth": 4,
+      "label": "<span> span \"Aptitude\"",
+      "ownText": "Aptitude",
+      "geometry": {
+        "width": 77,
+        "height": 16
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 3,
+      "label": "<button> button",
+      "geometry": {
+        "width": 179,
+        "height": 55
+      },
+      "padding": {
+        "top": "11px",
+        "right": "8px",
+        "bottom": "11px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "2px",
+      "rowGap": "2px",
+      "columnGap": "2px"
+    },
+    {
+      "depth": 4,
+      "label": "<span> span \"Coding\"",
+      "ownText": "Coding",
+      "geometry": {
+        "width": 67,
+        "height": 16
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 358,
+        "height": 35
+      },
+      "padding": {
+        "top": "10px",
+        "right": "16px",
+        "bottom": "10px",
+        "left": "16px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 3,
+      "label": "<span> span \"12-day streak\"",
+      "ownText": "12-day streak",
+      "geometry": {
+        "width": 108,
+        "height": 15
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "5px",
+      "rowGap": "5px",
+      "columnGap": "5px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 358,
+        "height": 18
+      },
+      "padding": {
+        "top": "12px",
+        "right": "16px",
+        "bottom": "0px",
+        "left": "16px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "5px",
+      "rowGap": "5px",
+      "columnGap": "5px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 358,
+        "height": 196
+      },
+      "padding": {
+        "top": "14px",
+        "right": "16px",
+        "bottom": "14px",
+        "left": "16px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 326,
+        "height": 50
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "8px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 4,
+      "label": "<span> span \"Time, Speed & Distance\"",
+      "ownText": "Time, Speed & Distance",
+      "geometry": {
+        "width": 177,
+        "height": 21
+      },
+      "padding": {
+        "top": "2px",
+        "right": "8px",
+        "bottom": "2px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 4,
+      "label": "<span> span \"Medium\"",
+      "ownText": "Medium",
+      "geometry": {
+        "width": 60,
+        "height": 21
+      },
+      "padding": {
+        "top": "2px",
+        "right": "8px",
+        "bottom": "2px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 4,
+      "label": "<span> span \"+20 XP\"",
+      "ownText": "+20 XP",
+      "geometry": {
+        "width": 74,
+        "height": 21
+      },
+      "padding": {
+        "top": "2px",
+        "right": "8px",
+        "bottom": "2px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Solve now\"",
+      "ownText": "Solve now",
+      "geometry": {
+        "width": 326,
+        "height": 34
+      },
+      "padding": {
+        "top": "0px",
+        "right": "16px",
+        "bottom": "0px",
+        "left": "16px"
+      },
+      "margin": {
+        "top": "12px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div \"A fresh aptitude question every day\"",
+      "ownText": "A fresh aptitude question every day",
+      "geometry": {
+        "width": 326,
+        "height": 14
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "8px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    }
+  ]
+}

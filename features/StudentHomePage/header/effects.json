@@ -1,0 +1,967 @@
+{
+  "meta": {
+    "section": "Student Header",
+    "extractedAt": "2026-07-05T13:38:41.981Z",
+    "elementCount": 356
+  },
+  "summary": {
+    "effectElementCount": 53
+  },
+  "elements": [
+    {
+      "depth": 5,
+      "label": "<svg> svg",
+      "geometry": {
+        "width": 28,
+        "height": 28
+      },
+      "boxShadow": null,
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": "matrix(0, -1, 1, 0, 0, 0)",
+      "transformOrigin": "14px 14px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 2,
+      "label": "<button> button \"Ask Sastra AI\"",
+      "ownText": "Ask Sastra AI",
+      "geometry": {
+        "width": 135,
+        "height": 36
+      },
+      "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "67.3359px 18px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 296,
+        "height": 459
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.2) 0px 18px 44px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "148px 229.5px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "auto"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "geometry": {
+        "width": 132,
+        "height": 41
+      },
+      "boxShadow": "oklch(0.497291 0.119164 317.883 / 0.22) 0px 0px 0px 3px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "66px 20.6406px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 24,
+        "height": 20
+      },
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "12px 10px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    }
+  ]
+}

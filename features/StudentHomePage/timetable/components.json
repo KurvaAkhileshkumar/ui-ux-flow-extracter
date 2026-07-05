@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "section": "Today's Timetable",
+    "extractedAt": "2026-07-05T13:38:45.211Z",
+    "elementCount": 66
+  },
+  "summary": {
+    "buttons": 1,
+    "inputs": 0,
+    "checkboxes": 0,
+    "textareas": 0,
+    "links": 0,
+    "images": 0,
+    "svgs": 2
+  },
+  "components": {
+    "buttons": [
+      {
+        "label": "<button> button \"Full week\"",
+        "text": "Full week",
+        "classes": "",
+        "geometry": {
+          "x": 1325,
+          "y": -654,
+          "width": 83,
+          "height": 28,
+          "right": 1408,
+          "bottom": -626,
+          "aspectRatio": 2.961
+        },
+        "fontSize": "12.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(106, 106, 101)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "1px",
+          "right": "6px",
+          "bottom": "1px",
+          "left": "6px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      }
+    ],
+    "inputs": [],
+    "checkboxes": [],
+    "textareas": [],
+    "links": [],
+    "images": [],
+    "svgs": [
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1048,
+          "y": -649,
+          "width": 14,
+          "height": 14,
+          "right": 1062,
+          "bottom": -635,
+          "aspectRatio": 1
+        },
+        "color": "rgb(140, 140, 132)",
+        "fill": "rgb(140, 140, 132)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1391,
+          "y": -645,
+          "width": 11,
+          "height": 11,
+          "right": 1402,
+          "bottom": -634,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      }
+    ]
+  }
+}

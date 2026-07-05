@@ -1,0 +1,462 @@
+{
+  "meta": {
+    "section": "Around You",
+    "extractedAt": "2026-07-05T13:38:44.755Z",
+    "elementCount": 67
+  },
+  "summary": {
+    "spacedElementCount": 19
+  },
+  "elements": [
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "geometry": {
+        "width": 760,
+        "height": 28
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "10px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 234,
+        "height": 17
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 2,
+      "label": "<button> button \"See all\"",
+      "ownText": "See all",
+      "geometry": {
+        "width": 66,
+        "height": 28
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 758,
+        "height": 59
+      },
+      "padding": {
+        "top": "12px",
+        "right": "14px",
+        "bottom": "12px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "11px",
+      "rowGap": "11px",
+      "columnGap": "11px"
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"Streak Star\"",
+      "ownText": "Streak Star",
+      "geometry": {
+        "width": 85,
+        "height": 18
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "3px",
+      "rowGap": "3px",
+      "columnGap": "3px"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div \"20m ago · 12 reactions\"",
+      "ownText": "20m ago · 12 reactions",
+      "geometry": {
+        "width": 614,
+        "height": 14
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "1px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 4,
+      "label": "<button> button \"12\"",
+      "ownText": "12",
+      "geometry": {
+        "width": 60,
+        "height": 30
+      },
+      "padding": {
+        "top": "0px",
+        "right": "11px",
+        "bottom": "0px",
+        "left": "11px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "5px",
+      "rowGap": "5px",
+      "columnGap": "5px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 758,
+        "height": 59
+      },
+      "padding": {
+        "top": "12px",
+        "right": "14px",
+        "bottom": "12px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "11px",
+      "rowGap": "11px",
+      "columnGap": "11px"
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"hardest coding problem\"",
+      "ownText": "hardest coding problem",
+      "geometry": {
+        "width": 164,
+        "height": 18
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "3px",
+      "rowGap": "3px",
+      "columnGap": "3px"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div \"1h ago · 23 reactions\"",
+      "ownText": "1h ago · 23 reactions",
+      "geometry": {
+        "width": 612,
+        "height": 14
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "1px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 4,
+      "label": "<button> button \"23\"",
+      "ownText": "23",
+      "geometry": {
+        "width": 62,
+        "height": 30
+      },
+      "padding": {
+        "top": "0px",
+        "right": "11px",
+        "bottom": "0px",
+        "left": "11px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "5px",
+      "rowGap": "5px",
+      "columnGap": "5px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 758,
+        "height": 59
+      },
+      "padding": {
+        "top": "12px",
+        "right": "14px",
+        "bottom": "12px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "11px",
+      "rowGap": "11px",
+      "columnGap": "11px"
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"Level 15\"",
+      "ownText": "Level 15",
+      "geometry": {
+        "width": 65,
+        "height": 18
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "3px",
+      "rowGap": "3px",
+      "columnGap": "3px"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div \"2h ago · 8 reactions\"",
+      "ownText": "2h ago · 8 reactions",
+      "geometry": {
+        "width": 619,
+        "height": 14
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "1px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 4,
+      "label": "<button> button \"8\"",
+      "ownText": "8",
+      "geometry": {
+        "width": 55,
+        "height": 30
+      },
+      "padding": {
+        "top": "0px",
+        "right": "11px",
+        "bottom": "0px",
+        "left": "11px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "5px",
+      "rowGap": "5px",
+      "columnGap": "5px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 758,
+        "height": 58
+      },
+      "padding": {
+        "top": "12px",
+        "right": "14px",
+        "bottom": "12px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "11px",
+      "rowGap": "11px",
+      "columnGap": "11px"
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"15-day streak\"",
+      "ownText": "15-day streak",
+      "geometry": {
+        "width": 100,
+        "height": 18
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "3px",
+      "rowGap": "3px",
+      "columnGap": "3px"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div \"4h ago · 5 reactions\"",
+      "ownText": "4h ago · 5 reactions",
+      "geometry": {
+        "width": 620,
+        "height": 14
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "1px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 4,
+      "label": "<button> button \"5\"",
+      "ownText": "5",
+      "geometry": {
+        "width": 54,
+        "height": 30
+      },
+      "padding": {
+        "top": "0px",
+        "right": "11px",
+        "bottom": "0px",
+        "left": "11px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "5px",
+      "rowGap": "5px",
+      "columnGap": "5px"
+    }
+  ]
+}

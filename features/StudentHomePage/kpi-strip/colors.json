@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "section": "Student KPI Strip",
+    "extractedAt": "2026-07-05T13:38:42.444Z",
+    "elementCount": 64
+  },
+  "summary": {
+    "uniqueColors": 9,
+    "coloredElementCount": 10
+  },
+  "palette": [
+    {
+      "value": "rgb(22, 22, 20)",
+      "roles": {
+        "text": 45,
+        "border": 176
+      },
+      "count": 221,
+      "examples": [
+        "<div> l1-kpiStrip l1-fade",
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(26, 148, 98)",
+      "roles": {
+        "text": 9,
+        "border": 36
+      },
+      "count": 45,
+      "examples": [
+        "<span> span \"+3%\"",
+        "<span> span \"+3%\"",
+        "<span> span \"+3%\""
+      ]
+    },
+    {
+      "value": "rgb(140, 140, 132)",
+      "roles": {
+        "text": 5,
+        "border": 20
+      },
+      "count": 25,
+      "examples": [
+        "<span> span \"this sem\"",
+        "<span> span \"this sem\"",
+        "<span> span \"this sem\""
+      ]
+    },
+    {
+      "value": "rgb(106, 106, 101)",
+      "roles": {
+        "text": 5,
+        "border": 20
+      },
+      "count": 25,
+      "examples": [
+        "<span> span \"Attendance\"",
+        "<span> span \"Attendance\"",
+        "<span> span \"Attendance\""
+      ]
+    },
+    {
+      "value": "rgb(231, 227, 219)",
+      "roles": {
+        "border": 4
+      },
+      "count": 4,
+      "examples": [
+        "<div> l1-kpiStrip l1-fade",
+        "<div> l1-kpiStrip l1-fade",
+        "<div> l1-kpiStrip l1-fade"
+      ]
+    },
+    {
+      "value": "rgb(244, 241, 235)",
+      "roles": {
+        "background": 4
+      },
+      "count": 4,
+      "examples": [
+        "<span> span",
+        "<span> span",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(240, 236, 228)",
+      "roles": {
+        "background": 4
+      },
+      "count": 4,
+      "examples": [
+        "<span> span",
+        "<span> span",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(255, 255, 255)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<div> l1-kpiStrip l1-fade"
+      ]
+    },
+    {
+      "value": "rgb(239, 230, 242)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    }
+  ],
+  "allColoredElements": [
+    {
+      "depth": 0,
+      "label": "<div> l1-kpiStrip l1-fade",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(244, 241, 235)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 1,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(240, 236, 228)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(244, 241, 235)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 1,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(240, 236, 228)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(244, 241, 235)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 1,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(240, 236, 228)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(239, 230, 242)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 1,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(240, 236, 228)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(244, 241, 235)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "section": "Play & Learn",
+    "extractedAt": "2026-07-05T13:38:47.009Z",
+    "elementCount": 72
+  },
+  "summary": {
+    "uniqueColors": 14,
+    "coloredElementCount": 16
+  },
+  "palette": [
+    {
+      "value": "rgb(0, 0, 0)",
+      "roles": {
+        "text": 37,
+        "border": 144
+      },
+      "count": 181,
+      "examples": [
+        "<button> card-hover",
+        "<button> card-hover",
+        "<button> card-hover"
+      ]
+    },
+    {
+      "value": "rgb(22, 22, 20)",
+      "roles": {
+        "text": 10,
+        "border": 35
+      },
+      "count": 45,
+      "examples": [
+        "<section> l1-fade",
+        "<section> l1-fade",
+        "<section> l1-fade"
+      ]
+    },
+    {
+      "value": "rgb(140, 140, 132)",
+      "roles": {
+        "text": 9,
+        "border": 36
+      },
+      "count": 45,
+      "examples": [
+        "<span> span",
+        "<span> span",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(255, 255, 255)",
+      "roles": {
+        "background": 4,
+        "text": 5,
+        "border": 28
+      },
+      "count": 37,
+      "examples": [
+        "<button> card-hover",
+        "<span> span \"1 v 1\"",
+        "<span> span \"1 v 1\""
+      ]
+    },
+    {
+      "value": "rgb(106, 106, 101)",
+      "roles": {
+        "text": 8,
+        "border": 28
+      },
+      "count": 36,
+      "examples": [
+        "<button> button \"Arcade\"",
+        "<button> button \"Arcade\"",
+        "<button> button \"Arcade\""
+      ]
+    },
+    {
+      "value": "rgb(26, 148, 98)",
+      "roles": {
+        "text": 2,
+        "border": 8,
+        "background": 1
+      },
+      "count": 11,
+      "examples": [
+        "<span> span \"Live\"",
+        "<span> span \"Live\"",
+        "<span> span \"Live\""
+      ]
+    },
+    {
+      "value": "rgb(107, 62, 120)",
+      "roles": {
+        "text": 1,
+        "border": 4
+      },
+      "count": 5,
+      "examples": [
+        "<span> span \"New\"",
+        "<span> span \"New\"",
+        "<span> span \"New\""
+      ]
+    },
+    {
+      "value": "rgb(231, 227, 219)",
+      "roles": {
+        "border": 4
+      },
+      "count": 4,
+      "examples": [
+        "<div> div",
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(241, 232, 244)",
+      "roles": {
+        "background": 3
+      },
+      "count": 3,
+      "examples": [
+        "<span> span \"New\"",
+        "<span> span",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(244, 241, 235)",
+      "roles": {
+        "background": 2
+      },
+      "count": 2,
+      "examples": [
+        "<span> span \"VS\"",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(240, 236, 228)",
+      "roles": {
+        "background": 1,
+        "border": 1
+      },
+      "count": 2,
+      "examples": [
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(224, 242, 234)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span \"Live\""
+      ]
+    },
+    {
+      "value": "rgb(126, 74, 142)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span \"Play\""
+      ]
+    },
+    {
+      "value": "rgb(239, 230, 242)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    }
+  ],
+  "allColoredElements": [
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<button> card-hover",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 6,
+      "label": "<span> span \"Live\"",
+      "ownText": "Live",
+      "textColor": "rgb(26, 148, 98)",
+      "backgroundColor": "rgb(224, 242, 234)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(26, 148, 98)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(26, 148, 98)",
+      "backgroundColor": "rgb(26, 148, 98)",
+      "backgroundImage": null,
+      "opacity": "0.35",
+      "borderColor": "rgb(26, 148, 98)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<div> div \"AM\"",
+      "ownText": "AM",
+      "textColor": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "linear-gradient(135deg, rgb(126, 74, 142), rgb(90, 48, 102))",
+      "opacity": "1",
+      "borderColor": "rgb(255, 255, 255)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<span> span \"VS\"",
+      "ownText": "VS",
+      "textColor": "rgb(106, 106, 101)",
+      "backgroundColor": "rgb(244, 241, 235)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(255, 255, 255)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(244, 241, 235)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(255, 255, 255)",
+      "boxShadow": null
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"Play\"",
+      "ownText": "Play",
+      "textColor": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(126, 74, 142)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(255, 255, 255)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(240, 236, 228)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(240, 236, 228)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<button> card-hover",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 4,
+      "label": "<span> span \"New\"",
+      "ownText": "New",
+      "textColor": "rgb(107, 62, 120)",
+      "backgroundColor": "rgb(241, 232, 244)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(107, 62, 120)",
+      "boxShadow": null
+    },
+    {
+      "depth": 4,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(241, 232, 244)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<button> card-hover",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 4,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(239, 230, 242)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<button> card-hover",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 4,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(241, 232, 244)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    }
+  ]
+}

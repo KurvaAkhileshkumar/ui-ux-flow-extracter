@@ -1,0 +1,1031 @@
+{
+  "meta": {
+    "name": "Quick actions",
+    "filename": "quick-actions.json",
+    "found": true,
+    "elementCount": 163,
+    "extractedAt": "2026-07-05T05:47:53.630Z"
+  },
+  "texts": [
+    {
+      "text": "Quick actions· from your pinnedConcept ExplainerTeachLesson HooksTeachDiscussionsEngageReportsTrack",
+      "tag": "section",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Quick actions· from your pinned",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Quick actions",
+      "tag": "h2",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "· from your pinned",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Concept ExplainerTeachLesson HooksTeachDiscussionsEngageReportsTrack",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Concept ExplainerTeach",
+      "tag": "button",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Concept Explainer",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "600",
+      "lineHeight": "16.25px"
+    },
+    {
+      "text": "Teach",
+      "tag": "div",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Lesson HooksTeach",
+      "tag": "button",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Lesson Hooks",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "600",
+      "lineHeight": "16.25px"
+    },
+    {
+      "text": "DiscussionsEngage",
+      "tag": "button",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Discussions",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "600",
+      "lineHeight": "16.25px"
+    },
+    {
+      "text": "Engage",
+      "tag": "div",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "ReportsTrack",
+      "tag": "button",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Reports",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "600",
+      "lineHeight": "16.25px"
+    },
+    {
+      "text": "Track",
+      "tag": "div",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Activity wallOpen wall",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Activity wall",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Activity wall",
+      "tag": "h2",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Open wall",
+      "tag": "button",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Ongoing3Past2",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Ongoing3",
+      "tag": "button",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "3",
+      "tag": "span",
+      "color": "rgb(45, 59, 95)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Past2",
+      "tag": "button",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "500",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "2",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "500",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "CACase StudyToday · 9:51 AMCS-405 · Memory Leak DebugTechnical Communication · Sec C0/17● Live",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "CA",
+      "tag": "div",
+      "color": "rgb(61, 107, 74)",
+      "backgroundColor": "rgb(229, 239, 231)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Case StudyToday · 9:51 AMCS-405 · Memory Leak DebugTechnical Communication · Sec C",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Case StudyToday · 9:51 AM",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Case Study",
+      "tag": "span",
+      "color": "rgb(61, 107, 74)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Today · 9:51 AM",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "CS-405 · Memory Leak Debug",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"Instrument Serif\", \"Source Serif Pro\", Georgia, serif",
+      "fontSize": "17px",
+      "fontWeight": "400",
+      "lineHeight": "20.4px"
+    },
+    {
+      "text": "Technical Communication · Sec C",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "0/17● Live",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "0/17",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "13px",
+      "fontWeight": "500",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "● Live",
+      "tag": "div",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "● Live",
+      "tag": "span",
+      "color": "rgb(61, 107, 74)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "ASAssessmentYesterdayQuiz 3 · Pointers & ArraysProgramming in C · Sec A58/64Graded · 76%",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "AS",
+      "tag": "div",
+      "color": "rgb(45, 59, 95)",
+      "backgroundColor": "rgb(232, 235, 242)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "AssessmentYesterdayQuiz 3 · Pointers & ArraysProgramming in C · Sec A",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "AssessmentYesterday",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Assessment",
+      "tag": "span",
+      "color": "rgb(45, 59, 95)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Yesterday",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Quiz 3 · Pointers & Arrays",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"Instrument Serif\", \"Source Serif Pro\", Georgia, serif",
+      "fontSize": "17px",
+      "fontWeight": "400",
+      "lineHeight": "20.4px"
+    },
+    {
+      "text": "Programming in C · Sec A",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "58/64Graded · 76%",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "58/64",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "13px",
+      "fontWeight": "500",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Graded · 76%",
+      "tag": "div",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "LELesson HookWed, May 13Stack vs Heap intro videoData Structures · Sec B52/58Viewed",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "LE",
+      "tag": "div",
+      "color": "rgb(154, 91, 17)",
+      "backgroundColor": "rgb(251, 241, 222)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Lesson HookWed, May 13Stack vs Heap intro videoData Structures · Sec B",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Lesson HookWed, May 13",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Lesson Hook",
+      "tag": "span",
+      "color": "rgb(154, 91, 17)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Wed, May 13",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Stack vs Heap intro video",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"Instrument Serif\", \"Source Serif Pro\", Georgia, serif",
+      "fontSize": "17px",
+      "fontWeight": "400",
+      "lineHeight": "20.4px"
+    },
+    {
+      "text": "Data Structures · Sec B",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "52/58Viewed",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "52/58",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "13px",
+      "fontWeight": "500",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Viewed",
+      "tag": "div",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Todo Add task",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Todo",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Todo",
+      "tag": "h2",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Add task",
+      "tag": "button",
+      "color": "rgb(45, 59, 95)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Active4Completed3",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Active4",
+      "tag": "button",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "4",
+      "tag": "span",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Completed3",
+      "tag": "button",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "500",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "3",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "500",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Add a task…",
+      "tag": "div",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Review Quiz 3 results for CSE101 Sec ATodayUrgent",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Review Quiz 3 results for CSE101 Sec AToday",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Review Quiz 3 results for CSE101 Sec A",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "500",
+      "lineHeight": "16.25px"
+    },
+    {
+      "text": "Today",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Urgent",
+      "tag": "span",
+      "color": "rgb(184, 58, 42)",
+      "backgroundColor": "rgb(248, 229, 224)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "500",
+      "lineHeight": "16.8px"
+    },
+    {
+      "text": "Upload lesson plan for Trees & Graphs unitTomorrow",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Upload lesson plan for Trees & Graphs unit",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "500",
+      "lineHeight": "16.25px"
+    },
+    {
+      "text": "Tomorrow",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Reply to 12 unresolved doubts on CSE201This week",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Reply to 12 unresolved doubts on CSE201",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "500",
+      "lineHeight": "16.25px"
+    },
+    {
+      "text": "This week",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Schedule case study session — CSE405Next Mon",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Schedule case study session — CSE405",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "500",
+      "lineHeight": "16.25px"
+    },
+    {
+      "text": "Next Mon",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Knowledge bytes1 / 3",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Knowledge bytes",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Knowledge bytes",
+      "tag": "h2",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "1 / 3",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "1 / 3",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "article image",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "article image",
+      "tag": "span",
+      "color": "rgba(0, 0, 0, 0.4)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Research",
+      "tag": "div",
+      "color": "rgb(45, 59, 95)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Pig-organ transplants are often rejected — researchers find a way to stop it",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "13.5px",
+      "fontWeight": "600",
+      "lineHeight": "18.225px"
+    },
+    {
+      "text": "Genetic modifications in pigs could be used to prevent the human immune system from attacking…",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "18.125px"
+    },
+    {
+      "text": "Nature · 3 min read",
+      "tag": "div",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "EdTech",
+      "tag": "div",
+      "color": "rgb(45, 59, 95)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "AI tutors and the limits of personalisation",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "13.5px",
+      "fontWeight": "600",
+      "lineHeight": "18.225px"
+    },
+    {
+      "text": "New meta-analysis of 47 studies points to engagement gains plateauing without active scaffolding…",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "18.125px"
+    },
+    {
+      "text": "EdSurge · 6 min read",
+      "tag": "div",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Pedagogy",
+      "tag": "div",
+      "color": "rgb(45, 59, 95)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "The case for retrieval practice over re-reading",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "13.5px",
+      "fontWeight": "600",
+      "lineHeight": "18.225px"
+    },
+    {
+      "text": "Spaced testing outperforms re-reading by ~50% across STEM subjects in undergraduate cohorts…",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "18.125px"
+    },
+    {
+      "text": "Cognitive Science · 8 min read",
+      "tag": "div",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    }
+  ]
+}

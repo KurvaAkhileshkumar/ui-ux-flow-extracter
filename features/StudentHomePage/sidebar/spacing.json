@@ -1,0 +1,912 @@
+{
+  "meta": {
+    "section": "Student Sidebar",
+    "extractedAt": "2026-07-05T13:38:47.481Z",
+    "elementCount": 120
+  },
+  "summary": {
+    "spacedElementCount": 39
+  },
+  "elements": [
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "geometry": {
+        "width": 235,
+        "height": 71
+      },
+      "padding": {
+        "top": "18px",
+        "right": "18px",
+        "bottom": "12px",
+        "left": "18px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 199,
+        "height": 24
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div \"Powered by\"",
+      "ownText": "Powered by",
+      "geometry": {
+        "width": 199,
+        "height": 15
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "2px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "geometry": {
+        "width": 235,
+        "height": 44
+      },
+      "padding": {
+        "top": "4px",
+        "right": "14px",
+        "bottom": "10px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 2,
+      "label": "<button> button",
+      "geometry": {
+        "width": 207,
+        "height": 30
+      },
+      "padding": {
+        "top": "7px",
+        "right": "10px",
+        "bottom": "7px",
+        "left": "10px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "geometry": {
+        "width": 235,
+        "height": 31
+      },
+      "padding": {
+        "top": "0px",
+        "right": "12px",
+        "bottom": "0px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 2,
+      "label": "<div> nav-row",
+      "geometry": {
+        "width": 211,
+        "height": 31
+      },
+      "padding": {
+        "top": "7px",
+        "right": "12px",
+        "bottom": "7px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 1,
+      "label": "<div> scrollY",
+      "geometry": {
+        "width": 235,
+        "height": 620
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "4px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 235,
+        "height": 34
+      },
+      "padding": {
+        "top": "14px",
+        "right": "18px",
+        "bottom": "6px",
+        "left": "18px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 235,
+        "height": 305
+      },
+      "padding": {
+        "top": "0px",
+        "right": "10px",
+        "bottom": "0px",
+        "left": "10px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 215,
+        "height": 200
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "1px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 4,
+      "label": "<div> nav-row",
+      "geometry": {
+        "width": 215,
+        "height": 34
+      },
+      "padding": {
+        "top": "6px",
+        "right": "10px",
+        "bottom": "6px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div",
+      "geometry": {
+        "width": 215,
+        "height": 166
+      },
+      "padding": {
+        "top": "2px",
+        "right": "0px",
+        "bottom": "4px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<div> nav-feature",
+      "geometry": {
+        "width": 215,
+        "height": 40
+      },
+      "padding": {
+        "top": "6px",
+        "right": "10px",
+        "bottom": "6px",
+        "left": "34px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 7,
+      "label": "<button> nav-pin nav-pin-btn",
+      "geometry": {
+        "width": 24,
+        "height": 28
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<div> nav-feature",
+      "geometry": {
+        "width": 215,
+        "height": 40
+      },
+      "padding": {
+        "top": "6px",
+        "right": "10px",
+        "bottom": "6px",
+        "left": "34px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 7,
+      "label": "<button> nav-pin nav-pin-btn",
+      "geometry": {
+        "width": 24,
+        "height": 28
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<div> nav-feature",
+      "geometry": {
+        "width": 215,
+        "height": 40
+      },
+      "padding": {
+        "top": "6px",
+        "right": "10px",
+        "bottom": "6px",
+        "left": "34px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 7,
+      "label": "<button> nav-pin nav-pin-btn",
+      "geometry": {
+        "width": 24,
+        "height": 28
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<div> nav-feature",
+      "geometry": {
+        "width": 215,
+        "height": 40
+      },
+      "padding": {
+        "top": "6px",
+        "right": "10px",
+        "bottom": "6px",
+        "left": "34px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 7,
+      "label": "<button> nav-pin nav-pin-btn",
+      "geometry": {
+        "width": 24,
+        "height": 28
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 215,
+        "height": 34
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "1px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 4,
+      "label": "<div> nav-row",
+      "geometry": {
+        "width": 215,
+        "height": 34
+      },
+      "padding": {
+        "top": "6px",
+        "right": "10px",
+        "bottom": "6px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 215,
+        "height": 34
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "1px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 4,
+      "label": "<div> nav-row",
+      "geometry": {
+        "width": 215,
+        "height": 34
+      },
+      "padding": {
+        "top": "6px",
+        "right": "10px",
+        "bottom": "6px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 215,
+        "height": 34
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "1px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 4,
+      "label": "<div> nav-row",
+      "geometry": {
+        "width": 215,
+        "height": 34
+      },
+      "padding": {
+        "top": "6px",
+        "right": "10px",
+        "bottom": "6px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 235,
+        "height": 43
+      },
+      "padding": {
+        "top": "18px",
+        "right": "18px",
+        "bottom": "8px",
+        "left": "18px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 4,
+      "label": "<span> span \"4\"",
+      "ownText": "4",
+      "geometry": {
+        "width": 8,
+        "height": 14
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "4px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 235,
+        "height": 173
+      },
+      "padding": {
+        "top": "0px",
+        "right": "10px",
+        "bottom": "10px",
+        "left": "10px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "1px",
+      "rowGap": "1px",
+      "columnGap": "1px"
+    },
+    {
+      "depth": 3,
+      "label": "<div> nav-row",
+      "geometry": {
+        "width": 215,
+        "height": 40
+      },
+      "padding": {
+        "top": "6px",
+        "right": "12px",
+        "bottom": "6px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 3,
+      "label": "<div> nav-row",
+      "geometry": {
+        "width": 215,
+        "height": 40
+      },
+      "padding": {
+        "top": "6px",
+        "right": "12px",
+        "bottom": "6px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 3,
+      "label": "<div> nav-row",
+      "geometry": {
+        "width": 215,
+        "height": 40
+      },
+      "padding": {
+        "top": "6px",
+        "right": "12px",
+        "bottom": "6px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 3,
+      "label": "<div> nav-row",
+      "geometry": {
+        "width": 215,
+        "height": 40
+      },
+      "padding": {
+        "top": "6px",
+        "right": "12px",
+        "bottom": "6px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "geometry": {
+        "width": 235,
+        "height": 80
+      },
+      "padding": {
+        "top": "8px",
+        "right": "12px",
+        "bottom": "8px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 2,
+      "label": "<button> nav-row",
+      "geometry": {
+        "width": 211,
+        "height": 31
+      },
+      "padding": {
+        "top": "7px",
+        "right": "12px",
+        "bottom": "7px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 2,
+      "label": "<button> nav-row",
+      "geometry": {
+        "width": 211,
+        "height": 32
+      },
+      "padding": {
+        "top": "7px",
+        "right": "12px",
+        "bottom": "7px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 3,
+      "label": "<span> span \"new\"",
+      "ownText": "new",
+      "geometry": {
+        "width": 31,
+        "height": 18
+      },
+      "padding": {
+        "top": "2px",
+        "right": "6px",
+        "bottom": "2px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 1,
+      "label": "<button> nav-row",
+      "geometry": {
+        "width": 235,
+        "height": 48
+      },
+      "padding": {
+        "top": "8px",
+        "right": "12px",
+        "bottom": "8px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "6px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    }
+  ]
+}

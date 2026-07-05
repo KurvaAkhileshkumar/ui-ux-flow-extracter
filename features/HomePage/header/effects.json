@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "section": "Header",
+    "extractedAt": "2026-07-05T06:38:43.948Z",
+    "elementCount": 50
+  },
+  "summary": {
+    "effectElementCount": 3
+  },
+  "elements": [
+    {
+      "depth": 4,
+      "label": "<button> button \"Faculty\"",
+      "ownText": "Faculty",
+      "geometry": {
+        "width": 80,
+        "height": 28
+      },
+      "boxShadow": "rgba(45, 59, 95, 0.267) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "39.8594px 14px",
+      "transition": "background 0.12s, color 0.12s",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 3,
+      "label": "<button> button \"Ask Sastra AI\"",
+      "ownText": "Ask Sastra AI",
+      "geometry": {
+        "width": 141,
+        "height": 31
+      },
+      "boxShadow": "rgba(45, 59, 95, 0.2) 0px 1px 2px 0px, rgba(45, 59, 95, 0.12) 0px 4px 12px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "70.25px 15.5px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 4,
+      "label": "<span> span",
+      "geometry": {
+        "width": 6,
+        "height": 6
+      },
+      "boxShadow": null,
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": "matrix(1, 0, 0, 1, 0, 1.9186)",
+      "transformOrigin": "3px 3px",
+      "transition": "all",
+      "animation": "1.5s ease-in-out infinite alternate l1-fade",
+      "opacity": "0.520349",
+      "cursor": "pointer"
+    }
+  ]
+}

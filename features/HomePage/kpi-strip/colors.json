@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "section": "KPI Strip",
+    "extractedAt": "2026-07-05T06:39:16.224Z",
+    "elementCount": 26
+  },
+  "summary": {
+    "uniqueColors": 5,
+    "coloredElementCount": 5
+  },
+  "palette": [
+    {
+      "value": "rgb(22, 22, 20)",
+      "roles": {
+        "text": 16,
+        "border": 44
+      },
+      "count": 60,
+      "examples": [
+        "<div> l1-kpiStrip",
+        "<div> l1-kpiStrip",
+        "<div> l1-kpiStrip"
+      ]
+    },
+    {
+      "value": "rgb(106, 106, 101)",
+      "roles": {
+        "text": 8,
+        "border": 32
+      },
+      "count": 40,
+      "examples": [
+        "<div> div \"Classes today\"",
+        "<div> div \"Classes today\"",
+        "<div> div \"Classes today\""
+      ]
+    },
+    {
+      "value": "rgb(229, 226, 219)",
+      "roles": {
+        "border": 20
+      },
+      "count": 20,
+      "examples": [
+        "<div> div",
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(61, 107, 74)",
+      "roles": {
+        "text": 2,
+        "border": 8
+      },
+      "count": 10,
+      "examples": [
+        "<span> span \"+3\"",
+        "<span> span \"+3\"",
+        "<span> span \"+3\""
+      ]
+    },
+    {
+      "value": "rgb(255, 255, 255)",
+      "roles": {
+        "background": 5
+      },
+      "count": 5,
+      "examples": [
+        "<div> div",
+        "<div> div",
+        "<div> div"
+      ]
+    }
+  ],
+  "allColoredElements": [
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    }
+  ]
+}

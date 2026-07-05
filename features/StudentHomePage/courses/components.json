@@ -1,0 +1,362 @@
+{
+  "meta": {
+    "section": "My Courses",
+    "extractedAt": "2026-07-05T13:38:43.860Z",
+    "elementCount": 113
+  },
+  "summary": {
+    "buttons": 1,
+    "inputs": 0,
+    "checkboxes": 0,
+    "textareas": 0,
+    "links": 0,
+    "images": 0,
+    "svgs": 20
+  },
+  "components": {
+    "buttons": [
+      {
+        "label": "<button> button \"All courses\"",
+        "text": "All courses",
+        "classes": "",
+        "geometry": {
+          "x": 935,
+          "y": 918,
+          "width": 93,
+          "height": 28,
+          "right": 1028,
+          "bottom": 946,
+          "aspectRatio": 3.336
+        },
+        "fontSize": "12.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(106, 106, 101)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "1px",
+          "right": "6px",
+          "bottom": "1px",
+          "left": "6px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      }
+    ],
+    "inputs": [],
+    "checkboxes": [],
+    "textareas": [],
+    "links": [],
+    "images": [],
+    "svgs": [
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 268,
+          "y": 923,
+          "width": 14,
+          "height": 14,
+          "right": 282,
+          "bottom": 937,
+          "aspectRatio": 1
+        },
+        "color": "rgb(140, 140, 132)",
+        "fill": "rgb(140, 140, 132)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1011,
+          "y": 927,
+          "width": 11,
+          "height": 11,
+          "right": 1022,
+          "bottom": 938,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 337,
+          "y": 1007,
+          "width": 11,
+          "height": 11,
+          "right": 348,
+          "bottom": 1018,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 337,
+          "y": 1028,
+          "width": 11,
+          "height": 11,
+          "right": 348,
+          "bottom": 1039,
+          "aspectRatio": 1
+        },
+        "color": "rgb(90, 48, 102)",
+        "fill": "rgb(90, 48, 102)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 485,
+          "y": 998,
+          "width": 15,
+          "height": 15,
+          "right": 500,
+          "bottom": 1013,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 594,
+          "y": 1007,
+          "width": 11,
+          "height": 11,
+          "right": 605,
+          "bottom": 1018,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 594,
+          "y": 1028,
+          "width": 11,
+          "height": 11,
+          "right": 605,
+          "bottom": 1039,
+          "aspectRatio": 1
+        },
+        "color": "rgb(107, 62, 120)",
+        "fill": "rgb(107, 62, 120)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 741,
+          "y": 998,
+          "width": 15,
+          "height": 15,
+          "right": 756,
+          "bottom": 1013,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 850,
+          "y": 1007,
+          "width": 11,
+          "height": 11,
+          "right": 861,
+          "bottom": 1018,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 850,
+          "y": 1028,
+          "width": 11,
+          "height": 11,
+          "right": 861,
+          "bottom": 1039,
+          "aspectRatio": 1
+        },
+        "color": "rgb(90, 48, 102)",
+        "fill": "rgb(90, 48, 102)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 998,
+          "y": 998,
+          "width": 15,
+          "height": 15,
+          "right": 1013,
+          "bottom": 1013,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 337,
+          "y": 1116,
+          "width": 11,
+          "height": 11,
+          "right": 348,
+          "bottom": 1127,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 337,
+          "y": 1137,
+          "width": 11,
+          "height": 11,
+          "right": 348,
+          "bottom": 1148,
+          "aspectRatio": 1
+        },
+        "color": "rgb(107, 62, 120)",
+        "fill": "rgb(107, 62, 120)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 485,
+          "y": 1107,
+          "width": 15,
+          "height": 15,
+          "right": 500,
+          "bottom": 1122,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 594,
+          "y": 1116,
+          "width": 11,
+          "height": 11,
+          "right": 605,
+          "bottom": 1127,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 594,
+          "y": 1137,
+          "width": 11,
+          "height": 11,
+          "right": 605,
+          "bottom": 1148,
+          "aspectRatio": 1
+        },
+        "color": "rgb(90, 48, 102)",
+        "fill": "rgb(90, 48, 102)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 741,
+          "y": 1107,
+          "width": 15,
+          "height": 15,
+          "right": 756,
+          "bottom": 1122,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 850,
+          "y": 1116,
+          "width": 11,
+          "height": 11,
+          "right": 861,
+          "bottom": 1127,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 850,
+          "y": 1137,
+          "width": 11,
+          "height": 11,
+          "right": 861,
+          "bottom": 1148,
+          "aspectRatio": 1
+        },
+        "color": "rgb(107, 62, 120)",
+        "fill": "rgb(107, 62, 120)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 998,
+          "y": 1107,
+          "width": 15,
+          "height": 15,
+          "right": 1013,
+          "bottom": 1122,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      }
+    ]
+  }
+}

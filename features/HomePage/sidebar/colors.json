@@ -1,0 +1,270 @@
+{
+  "meta": {
+    "section": "Sidebar",
+    "extractedAt": "2026-07-05T06:39:38.025Z",
+    "elementCount": 182
+  },
+  "summary": {
+    "uniqueColors": 9,
+    "coloredElementCount": 13
+  },
+  "palette": [
+    {
+      "value": "rgb(106, 106, 101)",
+      "roles": {
+        "text": 109,
+        "border": 436
+      },
+      "count": 545,
+      "examples": [
+        "<button> button",
+        "<button> button",
+        "<button> button"
+      ]
+    },
+    {
+      "value": "rgb(22, 22, 20)",
+      "roles": {
+        "text": 37,
+        "border": 146
+      },
+      "count": 183,
+      "examples": [
+        "<aside> l1-sidebar",
+        "<aside> l1-sidebar",
+        "<aside> l1-sidebar"
+      ]
+    },
+    {
+      "value": "rgb(110, 110, 104)",
+      "roles": {
+        "text": 27,
+        "border": 108
+      },
+      "count": 135,
+      "examples": [
+        "<div> div \"Powered by\"",
+        "<div> div \"Powered by\"",
+        "<div> div \"Powered by\""
+      ]
+    },
+    {
+      "value": "rgb(45, 59, 95)",
+      "roles": {
+        "text": 7,
+        "border": 28,
+        "background": 1
+      },
+      "count": 36,
+      "examples": [
+        "<span> span \".ai\"",
+        "<span> span \".ai\"",
+        "<span> span \".ai\""
+      ]
+    },
+    {
+      "value": "rgb(255, 255, 255)",
+      "roles": {
+        "text": 2,
+        "border": 8
+      },
+      "count": 10,
+      "examples": [
+        "<span> span \"v3.14\"",
+        "<span> span \"v3.14\"",
+        "<span> span \"v3.14\""
+      ]
+    },
+    {
+      "value": "oklch(0.357921 0.0654408 266.987 / 0.14)",
+      "roles": {
+        "background": 6
+      },
+      "count": 6,
+      "examples": [
+        "<span> span \"T\"",
+        "<span> span \"E\"",
+        "<span> span \"A\""
+      ]
+    },
+    {
+      "value": "rgb(229, 226, 219)",
+      "roles": {
+        "border": 2,
+        "background": 2
+      },
+      "count": 4,
+      "examples": [
+        "<aside> l1-sidebar",
+        "<div> div",
+        "<span> nav-connector"
+      ]
+    },
+    {
+      "value": "rgb(245, 243, 238)",
+      "roles": {
+        "background": 2
+      },
+      "count": 2,
+      "examples": [
+        "<aside> l1-sidebar",
+        "<button> button"
+      ]
+    },
+    {
+      "value": "rgba(20, 19, 26, 0.05)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<div> nav-row"
+      ]
+    }
+  ],
+  "allColoredElements": [
+    {
+      "depth": 0,
+      "label": "<aside> l1-sidebar",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(106, 106, 101)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(106, 106, 101)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<div> nav-row",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(20, 19, 26, 0.05)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(229, 226, 219)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"T\"",
+      "ownText": "T",
+      "textColor": "rgb(45, 59, 95)",
+      "backgroundColor": "oklch(0.357921 0.0654408 266.987 / 0.14)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(45, 59, 95)",
+      "boxShadow": null
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"E\"",
+      "ownText": "E",
+      "textColor": "rgb(45, 59, 95)",
+      "backgroundColor": "oklch(0.357921 0.0654408 266.987 / 0.14)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(45, 59, 95)",
+      "boxShadow": null
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"A\"",
+      "ownText": "A",
+      "textColor": "rgb(45, 59, 95)",
+      "backgroundColor": "oklch(0.357921 0.0654408 266.987 / 0.14)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(45, 59, 95)",
+      "boxShadow": null
+    },
+    {
+      "depth": 5,
+      "label": "<span> nav-connector",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(229, 226, 219)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"T\"",
+      "ownText": "T",
+      "textColor": "rgb(45, 59, 95)",
+      "backgroundColor": "oklch(0.357921 0.0654408 266.987 / 0.14)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(45, 59, 95)",
+      "boxShadow": null
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"A\"",
+      "ownText": "A",
+      "textColor": "rgb(45, 59, 95)",
+      "backgroundColor": "oklch(0.357921 0.0654408 266.987 / 0.14)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(45, 59, 95)",
+      "boxShadow": null
+    },
+    {
+      "depth": 5,
+      "label": "<span> span \"R\"",
+      "ownText": "R",
+      "textColor": "rgb(45, 59, 95)",
+      "backgroundColor": "oklch(0.357921 0.0654408 266.987 / 0.14)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(45, 59, 95)",
+      "boxShadow": null
+    },
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<span> span \"v3.14\"",
+      "ownText": "v3.14",
+      "textColor": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(45, 59, 95)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(255, 255, 255)",
+      "boxShadow": null
+    }
+  ]
+}

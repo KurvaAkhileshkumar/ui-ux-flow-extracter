@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "section": "Your Momentum",
+    "extractedAt": "2026-07-05T13:38:46.093Z",
+    "elementCount": 38
+  },
+  "summary": {
+    "uniqueColors": 7,
+    "coloredElementCount": 3
+  },
+  "palette": [
+    {
+      "value": "rgb(140, 140, 132)",
+      "roles": {
+        "text": 12,
+        "border": 48
+      },
+      "count": 60,
+      "examples": [
+        "<span> span",
+        "<span> span",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(22, 22, 20)",
+      "roles": {
+        "text": 14,
+        "border": 44
+      },
+      "count": 58,
+      "examples": [
+        "<section> l1-fade",
+        "<section> l1-fade",
+        "<section> l1-fade"
+      ]
+    },
+    {
+      "value": "rgb(26, 148, 98)",
+      "roles": {
+        "text": 6,
+        "border": 24
+      },
+      "count": 30,
+      "examples": [
+        "<span> span \"170\"",
+        "<span> span \"170\"",
+        "<span> span \"170\""
+      ]
+    },
+    {
+      "value": "rgb(106, 106, 101)",
+      "roles": {
+        "text": 3,
+        "border": 12
+      },
+      "count": 15,
+      "examples": [
+        "<div> div \"XP earned\"",
+        "<div> div \"XP earned\"",
+        "<div> div \"XP earned\""
+      ]
+    },
+    {
+      "value": "rgb(194, 129, 12)",
+      "roles": {
+        "text": 3,
+        "border": 12
+      },
+      "count": 15,
+      "examples": [
+        "<span> span \"1/7\"",
+        "<span> span \"1/7\"",
+        "<span> span \"1/7\""
+      ]
+    },
+    {
+      "value": "rgb(231, 227, 219)",
+      "roles": {
+        "border": 12
+      },
+      "count": 12,
+      "examples": [
+        "<div> div",
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(255, 255, 255)",
+      "roles": {
+        "background": 3
+      },
+      "count": 3,
+      "examples": [
+        "<div> div",
+        "<div> div",
+        "<div> div"
+      ]
+    }
+  ],
+  "allColoredElements": [
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    }
+  ]
+}

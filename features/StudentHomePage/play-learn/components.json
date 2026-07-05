@@ -1,0 +1,322 @@
+{
+  "meta": {
+    "section": "Play & Learn",
+    "extractedAt": "2026-07-05T13:38:47.009Z",
+    "elementCount": 72
+  },
+  "summary": {
+    "buttons": 5,
+    "inputs": 0,
+    "checkboxes": 0,
+    "textareas": 0,
+    "links": 0,
+    "images": 0,
+    "svgs": 8
+  },
+  "components": {
+    "buttons": [
+      {
+        "label": "<button> button \"Arcade\"",
+        "text": "Arcade",
+        "classes": "",
+        "geometry": {
+          "x": 1338,
+          "y": 918,
+          "width": 70,
+          "height": 28,
+          "right": 1408,
+          "bottom": 946,
+          "aspectRatio": 2.499
+        },
+        "fontSize": "12.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(106, 106, 101)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "1px",
+          "right": "6px",
+          "bottom": "1px",
+          "left": "6px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> card-hover",
+        "text": "1 V 1 LIVE Quiz Duel AM VS 48 classmates online now Play",
+        "classes": "card-hover",
+        "geometry": {
+          "x": 1049,
+          "y": 957,
+          "width": 358,
+          "height": 75,
+          "right": 1407,
+          "bottom": 1032,
+          "aspectRatio": 4.773
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "0px",
+          "bottom": "0px",
+          "left": "0px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "transform 0.16s cubic-bezier(0.2, 0.7, 0.3, 1), box-shadow 0.16s, border-color 0.16s"
+      },
+      {
+        "label": "<button> card-hover",
+        "text": "NEW Code Sprint Beat the clock",
+        "classes": "card-hover",
+        "geometry": {
+          "x": 1049,
+          "y": 1033,
+          "width": 119,
+          "height": 95,
+          "right": 1168,
+          "bottom": 1128,
+          "aspectRatio": 1.244
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "13px",
+          "right": "10px",
+          "bottom": "13px",
+          "left": "10px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "transform 0.16s cubic-bezier(0.2, 0.7, 0.3, 1), box-shadow 0.16s, border-color 0.16s"
+      },
+      {
+        "label": "<button> card-hover",
+        "text": "Logic Grid Aptitude puzzles",
+        "classes": "card-hover",
+        "geometry": {
+          "x": 1169,
+          "y": 1033,
+          "width": 119,
+          "height": 95,
+          "right": 1287,
+          "bottom": 1128,
+          "aspectRatio": 1.244
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "13px",
+          "right": "10px",
+          "bottom": "13px",
+          "left": "10px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "transform 0.16s cubic-bezier(0.2, 0.7, 0.3, 1), box-shadow 0.16s, border-color 0.16s"
+      },
+      {
+        "label": "<button> card-hover",
+        "text": "Concept Match Memory game",
+        "classes": "card-hover",
+        "geometry": {
+          "x": 1288,
+          "y": 1033,
+          "width": 119,
+          "height": 95,
+          "right": 1407,
+          "bottom": 1128,
+          "aspectRatio": 1.244
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "13px",
+          "right": "10px",
+          "bottom": "13px",
+          "left": "10px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "transform 0.16s cubic-bezier(0.2, 0.7, 0.3, 1), box-shadow 0.16s, border-color 0.16s"
+      }
+    ],
+    "inputs": [],
+    "checkboxes": [],
+    "textareas": [],
+    "links": [],
+    "images": [],
+    "svgs": [
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1048,
+          "y": 922,
+          "width": 14,
+          "height": 14,
+          "right": 1062,
+          "bottom": 936,
+          "aspectRatio": 1
+        },
+        "color": "rgb(140, 140, 132)",
+        "fill": "rgb(140, 140, 132)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1391,
+          "y": 926,
+          "width": 11,
+          "height": 11,
+          "right": 1402,
+          "bottom": 937,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1084,
+          "y": 972,
+          "width": 26,
+          "height": 26,
+          "right": 1110,
+          "bottom": 998,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1199,
+          "y": 1000,
+          "width": 12,
+          "height": 12,
+          "right": 1211,
+          "bottom": 1012,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1333,
+          "y": 988,
+          "width": 13,
+          "height": 13,
+          "right": 1346,
+          "bottom": 1001,
+          "aspectRatio": 1
+        },
+        "color": "rgb(255, 255, 255)",
+        "fill": "rgb(255, 255, 255)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1100,
+          "y": 1054,
+          "width": 17,
+          "height": 17,
+          "right": 1117,
+          "bottom": 1071,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1219,
+          "y": 1054,
+          "width": 17,
+          "height": 17,
+          "right": 1236,
+          "bottom": 1071,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1339,
+          "y": 1054,
+          "width": 17,
+          "height": 17,
+          "right": 1356,
+          "bottom": 1071,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3494 @@
+{
+  "meta": {
+    "section": "Student Header",
+    "extractedAt": "2026-07-05T13:38:41.981Z",
+    "elementCount": 356
+  },
+  "summary": {
+    "uniqueColors": 109,
+    "coloredElementCount": 214
+  },
+  "palette": [
+    {
+      "value": "rgb(0, 0, 0)",
+      "roles": {
+        "text": 217,
+        "border": 668
+      },
+      "count": 885,
+      "examples": [
+        "<button> button",
+        "<span> span",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(22, 22, 20)",
+      "roles": {
+        "text": 105,
+        "border": 415
+      },
+      "count": 520,
+      "examples": [
+        "<div> div",
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(231, 227, 219)",
+      "roles": {
+        "border": 205,
+        "background": 1
+      },
+      "count": 206,
+      "examples": [
+        "<div> div",
+        "<button> button",
+        "<button> button"
+      ]
+    },
+    {
+      "value": "rgb(140, 140, 132)",
+      "roles": {
+        "text": 17,
+        "border": 68
+      },
+      "count": 85,
+      "examples": [
+        "<div> div \"Friday · 15 May 2026\"",
+        "<div> div \"Friday · 15 May 2026\"",
+        "<div> div \"Friday · 15 May 2026\""
+      ]
+    },
+    {
+      "value": "rgb(255, 255, 255)",
+      "roles": {
+        "background": 51,
+        "text": 5,
+        "border": 16
+      },
+      "count": 72,
+      "examples": [
+        "<button> button",
+        "<button> button",
+        "<span> span \"3\""
+      ]
+    },
+    {
+      "value": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px",
+      "roles": {
+        "shadow": 49
+      },
+      "count": 49,
+      "examples": [
+        "<span> span",
+        "<span> span",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(126, 74, 142)",
+      "roles": {
+        "text": 6,
+        "border": 28,
+        "background": 2
+      },
+      "count": 36,
+      "examples": [
+        "<span> span \"Aarav\"",
+        "<span> span \"Aarav\"",
+        "<span> span \"Aarav\""
+      ]
+    },
+    {
+      "value": "rgb(106, 106, 101)",
+      "roles": {
+        "text": 6,
+        "border": 20
+      },
+      "count": 26,
+      "examples": [
+        "<div> div \"B.Tech · Computer Science · Semester 5 ·\"",
+        "<div> div \"B.Tech · Computer Science · Semester 5 ·\"",
+        "<div> div \"B.Tech · Computer Science · Semester 5 ·\""
+      ]
+    },
+    {
+      "value": "rgb(240, 236, 228)",
+      "roles": {
+        "background": 9
+      },
+      "count": 9,
+      "examples": [
+        "<div> div",
+        "<span> span",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(250, 248, 244)",
+      "roles": {
+        "background": 1,
+        "border": 4
+      },
+      "count": 5,
+      "examples": [
+        "<div> div",
+        "<span> span \"3\"",
+        "<span> span \"3\""
+      ]
+    },
+    {
+      "value": "rgb(14, 128, 144)",
+      "roles": {
+        "background": 3
+      },
+      "count": 3,
+      "examples": [
+        "<span> span",
+        "<span> span",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(31, 122, 83)",
+      "roles": {
+        "background": 2
+      },
+      "count": 2,
+      "examples": [
+        "<span> span",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(14, 124, 134)",
+      "roles": {
+        "background": 2
+      },
+      "count": 2,
+      "examples": [
+        "<span> span",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(238, 108, 77)",
+      "roles": {
+        "background": 2
+      },
+      "count": 2,
+      "examples": [
+        "<span> span",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(244, 241, 235)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(216, 58, 42)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span \"3\""
+      ]
+    },
+    {
+      "value": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+      "roles": {
+        "shadow": 1
+      },
+      "count": 1,
+      "examples": [
+        "<button> button \"Ask Sastra AI\""
+      ]
+    },
+    {
+      "value": "rgba(126, 74, 142, 0.07)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<button> button"
+      ]
+    },
+    {
+      "value": "rgba(0, 0, 0, 0.2) 0px 18px 44px 0px",
+      "roles": {
+        "shadow": 1
+      },
+      "count": 1,
+      "examples": [
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(232, 112, 58)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(46, 91, 215)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(92, 154, 14)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(201, 138, 0)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(37, 99, 235)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(242, 94, 112)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(36, 42, 56)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(245, 181, 0)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(230, 138, 60)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(214, 51, 108)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(245, 107, 74)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(30, 58, 138)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(224, 137, 12)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(47, 94, 140)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(198, 40, 71)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(14, 159, 110)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(138, 90, 43)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(95, 138, 110)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(74, 139, 143)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(194, 114, 78)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(190, 111, 119)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(90, 124, 168)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(138, 111, 160)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(174, 96, 71)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(181, 143, 60)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(120, 102, 172)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(97, 120, 189)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(60, 115, 89)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(110, 138, 60)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(78, 110, 130)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(62, 138, 136)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(147, 99, 131)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(174, 101, 115)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(157, 128, 201)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(95, 184, 151)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(232, 145, 110)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(111, 168, 214)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(212, 129, 140)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(146, 176, 131)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(217, 168, 78)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(148, 134, 204)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(194, 137, 60)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(126, 138, 78)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(174, 90, 60)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(181, 146, 98)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(138, 106, 72)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(110, 138, 90)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(168, 80, 62)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(192, 136, 98)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(21, 122, 90)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(42, 90, 154)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(107, 63, 160)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(160, 40, 80)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(30, 79, 138)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(181, 134, 11)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(14, 110, 120)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(106, 58, 110)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(110, 122, 130)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(168, 130, 110)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(124, 122, 110)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(138, 154, 130)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(132, 128, 140)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(176, 132, 148)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(94, 120, 132)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(142, 154, 160)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(46, 51, 64)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(201, 138, 46)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(34, 48, 58)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(47, 154, 160)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(58, 46, 38)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(181, 135, 46)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(37, 42, 58)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(194, 110, 130)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(76, 91, 212)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(110, 121, 222)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(60, 154, 166)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(74, 144, 112)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(224, 101, 62)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(232, 132, 95)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgba(126, 74, 142, 0.055)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<button> button"
+      ]
+    },
+    {
+      "value": "oklch(0.497291 0.119164 317.883 / 0.22) 0px 0px 0px 3px",
+      "roles": {
+        "shadow": 1
+      },
+      "count": 1,
+      "examples": [
+        "<button> button"
+      ]
+    },
+    {
+      "value": "rgb(154, 106, 168)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(70, 98, 122)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(106, 131, 154)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(194, 129, 12)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(210, 154, 56)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(194, 76, 104)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(208, 110, 132)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(58, 66, 80)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(92, 102, 117)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    }
+  ],
+  "allColoredElements": [
+    {
+      "depth": 0,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(250, 248, 244)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(231, 227, 219)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(244, 241, 235)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(106, 106, 101)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<span> span \"3\"",
+      "ownText": "3",
+      "textColor": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(216, 58, 42)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(250, 248, 244)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<button> button \"Ask Sastra AI\"",
+      "ownText": "Ask Sastra AI",
+      "textColor": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(126, 74, 142)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(255, 255, 255)",
+      "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px"
+    },
+    {
+      "depth": 3,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(126, 74, 142)",
+      "backgroundColor": "rgba(126, 74, 142, 0.07)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(126, 74, 142)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": "rgba(0, 0, 0, 0.2) 0px 18px 44px 0px"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(240, 236, 228)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(240, 236, 228)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(232, 112, 58)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(14, 128, 144)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(46, 91, 215)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(92, 154, 14)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(31, 122, 83)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(201, 138, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(37, 99, 235)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(242, 94, 112)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(36, 42, 56)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(245, 181, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(14, 124, 134)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(230, 138, 60)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(214, 51, 108)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(245, 107, 74)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(30, 58, 138)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(224, 137, 12)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(47, 94, 140)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(238, 108, 77)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(198, 40, 71)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(14, 124, 134)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(14, 159, 110)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(238, 108, 77)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(138, 90, 43)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(14, 128, 144)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(240, 236, 228)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(95, 138, 110)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(74, 139, 143)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(194, 114, 78)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(190, 111, 119)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(90, 124, 168)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(138, 111, 160)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(174, 96, 71)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(181, 143, 60)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(120, 102, 172)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(97, 120, 189)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(60, 115, 89)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(110, 138, 60)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(78, 110, 130)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(62, 138, 136)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(147, 99, 131)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(174, 101, 115)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(240, 236, 228)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(157, 128, 201)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(95, 184, 151)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(232, 145, 110)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(111, 168, 214)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(212, 129, 140)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(146, 176, 131)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(217, 168, 78)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(148, 134, 204)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(240, 236, 228)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(194, 137, 60)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(126, 138, 78)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(174, 90, 60)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(181, 146, 98)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(138, 106, 72)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(110, 138, 90)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(168, 80, 62)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(192, 136, 98)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(240, 236, 228)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(21, 122, 90)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(42, 90, 154)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(107, 63, 160)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(160, 40, 80)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(30, 79, 138)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(181, 134, 11)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(14, 110, 120)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(106, 58, 110)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(240, 236, 228)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(110, 122, 130)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(168, 130, 110)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(124, 122, 110)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(138, 154, 130)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(132, 128, 140)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(176, 132, 148)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(94, 120, 132)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(142, 154, 160)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(240, 236, 228)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(46, 51, 64)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(201, 138, 46)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(34, 48, 58)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(47, 154, 160)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(58, 46, 38)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(181, 135, 46)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(37, 42, 58)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(194, 110, 130)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(240, 236, 228)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(76, 91, 212)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(110, 121, 222)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(14, 128, 144)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(60, 154, 166)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(31, 122, 83)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(74, 144, 112)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(224, 101, 62)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(232, 132, 95)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(126, 74, 142, 0.055)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(126, 74, 142)",
+      "boxShadow": "oklch(0.497291 0.119164 317.883 / 0.22) 0px 0px 0px 3px"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(126, 74, 142)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(154, 106, 168)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(70, 98, 122)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(106, 131, 154)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(194, 129, 12)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(210, 154, 56)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(194, 76, 104)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(208, 110, 132)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 1px 2px 0px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(58, 66, 80)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(92, 102, 117)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    }
+  ]
+}

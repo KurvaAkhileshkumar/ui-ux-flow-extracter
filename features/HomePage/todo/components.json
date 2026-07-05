@@ -1,0 +1,298 @@
+{
+  "meta": {
+    "section": "Todo",
+    "extractedAt": "2026-07-05T06:43:49.924Z",
+    "elementCount": 38
+  },
+  "summary": {
+    "buttons": 7,
+    "inputs": 0,
+    "checkboxes": 0,
+    "textareas": 0,
+    "links": 0,
+    "images": 0,
+    "svgs": 2
+  },
+  "components": {
+    "buttons": [
+      {
+        "label": "<button> button \"Add task\"",
+        "text": "Add task",
+        "classes": "",
+        "geometry": {
+          "x": 1327,
+          "y": 802,
+          "width": 81,
+          "height": 28,
+          "right": 1408,
+          "bottom": 830,
+          "aspectRatio": 2.904
+        },
+        "fontSize": "12.5px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(45, 59, 95)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(45, 59, 95)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "1px",
+          "right": "6px",
+          "bottom": "1px",
+          "left": "6px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Active\"",
+        "text": "Active 4",
+        "classes": "",
+        "geometry": {
+          "x": 1057,
+          "y": 847,
+          "width": 81,
+          "height": 31,
+          "right": 1138,
+          "bottom": 878,
+          "aspectRatio": 2.624
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(22, 22, 20)",
+        "backgroundColor": "rgb(245, 243, 238)",
+        "border": "0px none rgb(22, 22, 20)",
+        "borderRadius": {
+          "topLeft": "6px",
+          "topRight": "6px",
+          "bottomRight": "6px",
+          "bottomLeft": "6px"
+        },
+        "padding": {
+          "top": "5px",
+          "right": "10px",
+          "bottom": "5px",
+          "left": "10px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Completed\"",
+        "text": "Completed 3",
+        "classes": "",
+        "geometry": {
+          "x": 1142,
+          "y": 847,
+          "width": 105,
+          "height": 31,
+          "right": 1247,
+          "bottom": 878,
+          "aspectRatio": 3.392
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(106, 106, 101)",
+        "borderRadius": {
+          "topLeft": "6px",
+          "topRight": "6px",
+          "bottomRight": "6px",
+          "bottomLeft": "6px"
+        },
+        "padding": {
+          "top": "5px",
+          "right": "10px",
+          "bottom": "5px",
+          "left": "10px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "classes": "",
+        "geometry": {
+          "x": 1063,
+          "y": 938,
+          "width": 16,
+          "height": 16,
+          "right": 1079,
+          "bottom": 954,
+          "aspectRatio": 1
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Arial",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "1px solid rgb(184, 58, 42)",
+        "borderRadius": {
+          "topLeft": "4px",
+          "topRight": "4px",
+          "bottomRight": "4px",
+          "bottomLeft": "4px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "0px",
+          "bottom": "0px",
+          "left": "0px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "classes": "",
+        "geometry": {
+          "x": 1063,
+          "y": 994,
+          "width": 16,
+          "height": 16,
+          "right": 1079,
+          "bottom": 1010,
+          "aspectRatio": 1
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Arial",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "4px",
+          "topRight": "4px",
+          "bottomRight": "4px",
+          "bottomLeft": "4px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "0px",
+          "bottom": "0px",
+          "left": "0px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "classes": "",
+        "geometry": {
+          "x": 1063,
+          "y": 1049,
+          "width": 16,
+          "height": 16,
+          "right": 1079,
+          "bottom": 1065,
+          "aspectRatio": 1
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Arial",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "4px",
+          "topRight": "4px",
+          "bottomRight": "4px",
+          "bottomLeft": "4px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "0px",
+          "bottom": "0px",
+          "left": "0px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "classes": "",
+        "geometry": {
+          "x": 1063,
+          "y": 1104,
+          "width": 16,
+          "height": 16,
+          "right": 1079,
+          "bottom": 1120,
+          "aspectRatio": 1
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Arial",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "4px",
+          "topRight": "4px",
+          "bottomRight": "4px",
+          "bottomLeft": "4px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "0px",
+          "bottom": "0px",
+          "left": "0px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      }
+    ],
+    "inputs": [],
+    "checkboxes": [],
+    "textareas": [],
+    "links": [],
+    "images": [],
+    "svgs": [
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1333,
+          "y": 810,
+          "width": 12,
+          "height": 12,
+          "right": 1345,
+          "bottom": 822,
+          "aspectRatio": 1
+        },
+        "color": "rgb(45, 59, 95)",
+        "fill": "rgb(45, 59, 95)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1063,
+          "y": 895,
+          "width": 13,
+          "height": 13,
+          "right": 1076,
+          "bottom": 908,
+          "aspectRatio": 1
+        },
+        "color": "rgb(110, 110, 104)",
+        "fill": "rgb(110, 110, 104)"
+      }
+    ]
+  }
+}

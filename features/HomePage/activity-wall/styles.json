@@ -1,0 +1,441 @@
+{
+  "meta": {
+    "name": "Activity wall",
+    "filename": "activity-wall.json",
+    "found": true,
+    "elementCount": 50,
+    "extractedAt": "2026-07-05T03:53:00.569Z"
+  },
+  "texts": [
+    {
+      "text": "Activity wallOpen wall",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Activity wall",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Activity wall",
+      "tag": "h2",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Open wall",
+      "tag": "button",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Ongoing3Past2",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Ongoing3",
+      "tag": "button",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "3",
+      "tag": "span",
+      "color": "rgb(45, 59, 95)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Past2",
+      "tag": "button",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "500",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "2",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "500",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "CACase StudyToday · 9:51 AMCS-405 · Memory Leak DebugTechnical Communication · Sec C0/17● Live",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "CA",
+      "tag": "div",
+      "color": "rgb(61, 107, 74)",
+      "backgroundColor": "rgb(229, 239, 231)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Case StudyToday · 9:51 AMCS-405 · Memory Leak DebugTechnical Communication · Sec C",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Case StudyToday · 9:51 AM",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Case Study",
+      "tag": "span",
+      "color": "rgb(61, 107, 74)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Today · 9:51 AM",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "CS-405 · Memory Leak Debug",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"Instrument Serif\", \"Source Serif Pro\", Georgia, serif",
+      "fontSize": "17px",
+      "fontWeight": "400",
+      "lineHeight": "20.4px"
+    },
+    {
+      "text": "Technical Communication · Sec C",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "0/17● Live",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "0/17",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "13px",
+      "fontWeight": "500",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "● Live",
+      "tag": "div",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "● Live",
+      "tag": "span",
+      "color": "rgb(61, 107, 74)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "ASAssessmentYesterdayQuiz 3 · Pointers & ArraysProgramming in C · Sec A58/64Graded · 76%",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "AS",
+      "tag": "div",
+      "color": "rgb(45, 59, 95)",
+      "backgroundColor": "rgb(232, 235, 242)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "AssessmentYesterdayQuiz 3 · Pointers & ArraysProgramming in C · Sec A",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "AssessmentYesterday",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Assessment",
+      "tag": "span",
+      "color": "rgb(45, 59, 95)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Yesterday",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Quiz 3 · Pointers & Arrays",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"Instrument Serif\", \"Source Serif Pro\", Georgia, serif",
+      "fontSize": "17px",
+      "fontWeight": "400",
+      "lineHeight": "20.4px"
+    },
+    {
+      "text": "Programming in C · Sec A",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "58/64Graded · 76%",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "58/64",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "13px",
+      "fontWeight": "500",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Graded · 76%",
+      "tag": "div",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "LELesson HookWed, May 13Stack vs Heap intro videoData Structures · Sec B52/58Viewed",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "LE",
+      "tag": "div",
+      "color": "rgb(154, 91, 17)",
+      "backgroundColor": "rgb(251, 241, 222)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Lesson HookWed, May 13Stack vs Heap intro videoData Structures · Sec B",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Lesson HookWed, May 13",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Lesson Hook",
+      "tag": "span",
+      "color": "rgb(154, 91, 17)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "600",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Wed, May 13",
+      "tag": "span",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Stack vs Heap intro video",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"Instrument Serif\", \"Source Serif Pro\", Georgia, serif",
+      "fontSize": "17px",
+      "fontWeight": "400",
+      "lineHeight": "20.4px"
+    },
+    {
+      "text": "Data Structures · Sec B",
+      "tag": "div",
+      "color": "rgb(106, 106, 101)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "52/58Viewed",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "Inter, ui-sans-serif, system-ui, -apple-system, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "52/58",
+      "tag": "div",
+      "color": "rgb(22, 22, 20)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "13px",
+      "fontWeight": "500",
+      "lineHeight": "normal"
+    },
+    {
+      "text": "Viewed",
+      "tag": "div",
+      "color": "rgb(110, 110, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontFamily": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "fontSize": "12.5px",
+      "fontWeight": "400",
+      "lineHeight": "normal"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "section": "Insights & actions",
+    "extractedAt": "2026-07-05T06:38:54.773Z",
+    "elementCount": 77
+  },
+  "summary": {
+    "effectElementCount": 1
+  },
+  "elements": [
+    {
+      "depth": 0,
+      "label": "<section> section",
+      "geometry": {
+        "width": 764,
+        "height": 339
+      },
+      "boxShadow": "rgba(45, 59, 95, 0.063) 0px 1px 2px 0px, rgba(45, 59, 95, 0.2) 0px 12px 32px -16px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "382px 169.656px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "auto"
+    }
+  ]
+}

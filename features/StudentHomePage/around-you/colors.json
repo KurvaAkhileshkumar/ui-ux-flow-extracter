@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "section": "Around You",
+    "extractedAt": "2026-07-05T13:38:44.755Z",
+    "elementCount": 67
+  },
+  "summary": {
+    "uniqueColors": 8,
+    "coloredElementCount": 5
+  },
+  "palette": [
+    {
+      "value": "rgb(22, 22, 20)",
+      "roles": {
+        "text": 25,
+        "border": 93
+      },
+      "count": 118,
+      "examples": [
+        "<section> l1-fade",
+        "<section> l1-fade",
+        "<section> l1-fade"
+      ]
+    },
+    {
+      "value": "rgb(140, 140, 132)",
+      "roles": {
+        "text": 13,
+        "border": 52
+      },
+      "count": 65,
+      "examples": [
+        "<span> span",
+        "<span> span",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(90, 48, 102)",
+      "roles": {
+        "text": 8,
+        "border": 32
+      },
+      "count": 40,
+      "examples": [
+        "<span> span \"Streak Star\"",
+        "<span> span \"Streak Star\"",
+        "<span> span \"Streak Star\""
+      ]
+    },
+    {
+      "value": "rgb(106, 106, 101)",
+      "roles": {
+        "text": 11,
+        "border": 28
+      },
+      "count": 39,
+      "examples": [
+        "<button> button \"See all\"",
+        "<button> button \"See all\"",
+        "<button> button \"See all\""
+      ]
+    },
+    {
+      "value": "rgb(107, 62, 120)",
+      "roles": {
+        "text": 6,
+        "border": 24
+      },
+      "count": 30,
+      "examples": [
+        "<span> span \"hardest coding problem\"",
+        "<span> span \"hardest coding problem\"",
+        "<span> span \"hardest coding problem\""
+      ]
+    },
+    {
+      "value": "rgb(255, 255, 255)",
+      "roles": {
+        "background": 5,
+        "text": 4,
+        "border": 16
+      },
+      "count": 25,
+      "examples": [
+        "<div> div",
+        "<div> div \"PS\"",
+        "<div> div \"PS\""
+      ]
+    },
+    {
+      "value": "rgb(231, 227, 219)",
+      "roles": {
+        "border": 20
+      },
+      "count": 20,
+      "examples": [
+        "<div> div",
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(240, 236, 228)",
+      "roles": {
+        "border": 3
+      },
+      "count": 3,
+      "examples": [
+        "<div> div",
+        "<div> div",
+        "<div> div"
+      ]
+    }
+  ],
+  "allColoredElements": [
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 4,
+      "label": "<button> button \"12\"",
+      "ownText": "12",
+      "textColor": "rgb(106, 106, 101)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 4,
+      "label": "<button> button \"23\"",
+      "ownText": "23",
+      "textColor": "rgb(106, 106, 101)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 4,
+      "label": "<button> button \"8\"",
+      "ownText": "8",
+      "textColor": "rgb(106, 106, 101)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 4,
+      "label": "<button> button \"5\"",
+      "ownText": "5",
+      "textColor": "rgb(106, 106, 101)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(231, 227, 219)",
+      "boxShadow": null
+    }
+  ]
+}

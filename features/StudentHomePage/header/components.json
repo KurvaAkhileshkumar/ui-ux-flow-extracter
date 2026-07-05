@@ -1,0 +1,2101 @@
+{
+  "meta": {
+    "section": "Student Header",
+    "extractedAt": "2026-07-05T13:38:41.981Z",
+    "elementCount": 356
+  },
+  "summary": {
+    "buttons": 55,
+    "inputs": 0,
+    "checkboxes": 0,
+    "textareas": 0,
+    "links": 0,
+    "images": 0,
+    "svgs": 10
+  },
+  "components": {
+    "buttons": [
+      {
+        "label": "<button> button",
+        "text": "14 12 #4",
+        "classes": "",
+        "geometry": {
+          "x": 1008,
+          "y": 31,
+          "width": 169,
+          "height": 40,
+          "right": 1177,
+          "bottom": 71,
+          "aspectRatio": 4.23
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "999px",
+          "topRight": "999px",
+          "bottomRight": "999px",
+          "bottomLeft": "999px"
+        },
+        "padding": {
+          "top": "5px",
+          "right": "10px",
+          "bottom": "5px",
+          "left": "6px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "background 0.12s, border-color 0.12s"
+      },
+      {
+        "label": "<button> button",
+        "text": "3",
+        "classes": "",
+        "geometry": {
+          "x": 1185,
+          "y": 33,
+          "width": 36,
+          "height": 36,
+          "right": 1221,
+          "bottom": 69,
+          "aspectRatio": 1
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Arial",
+        "fontWeight": "400",
+        "color": "rgb(106, 106, 101)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "1px",
+          "right": "6px",
+          "bottom": "1px",
+          "left": "6px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Ask Sastra AI\"",
+        "text": "Ask Sastra AI",
+        "classes": "",
+        "geometry": {
+          "x": 1229,
+          "y": 33,
+          "width": 135,
+          "height": 36,
+          "right": 1364,
+          "bottom": 69,
+          "aspectRatio": 3.741
+        },
+        "fontSize": "13px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(126, 74, 142)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "16px",
+          "bottom": "0px",
+          "left": "16px"
+        },
+        "boxShadow": "rgba(126, 74, 142, 0.25) 0px 1px 2px 0px, rgba(126, 74, 142, 0.2) 0px 6px 16px 0px",
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "classes": "",
+        "geometry": {
+          "x": 1372,
+          "y": 33,
+          "width": 36,
+          "height": 36,
+          "right": 1408,
+          "bottom": 69,
+          "aspectRatio": 1
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Arial",
+        "fontWeight": "400",
+        "color": "rgb(126, 74, 142)",
+        "backgroundColor": "rgba(126, 74, 142, 0.07)",
+        "border": "1px solid rgb(126, 74, 142)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "1px",
+          "right": "6px",
+          "bottom": "1px",
+          "left": "6px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Calendar",
+        "classes": "",
+        "geometry": {
+          "x": 1121,
+          "y": 86,
+          "width": 278,
+          "height": 34,
+          "right": 1399,
+          "bottom": 120,
+          "aspectRatio": 8.176
+        },
+        "fontSize": "13px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(22, 22, 20)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(22, 22, 20)",
+        "borderRadius": {
+          "topLeft": "8px",
+          "topRight": "8px",
+          "bottomRight": "8px",
+          "bottomLeft": "8px"
+        },
+        "padding": {
+          "top": "9px",
+          "right": "10px",
+          "bottom": "9px",
+          "left": "10px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Customize layout",
+        "classes": "",
+        "geometry": {
+          "x": 1121,
+          "y": 120,
+          "width": 278,
+          "height": 34,
+          "right": 1399,
+          "bottom": 154,
+          "aspectRatio": 8.176
+        },
+        "fontSize": "13px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(22, 22, 20)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(22, 22, 20)",
+        "borderRadius": {
+          "topLeft": "8px",
+          "topRight": "8px",
+          "bottomRight": "8px",
+          "bottomLeft": "8px"
+        },
+        "padding": {
+          "top": "9px",
+          "right": "10px",
+          "bottom": "9px",
+          "left": "10px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Coral & Teal",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": -795,
+          "width": 132,
+          "height": 36,
+          "right": 1257,
+          "bottom": -759,
+          "aspectRatio": 3.667
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Cobalt & Citron",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": -795,
+          "width": 132,
+          "height": 36,
+          "right": 1395,
+          "bottom": -759,
+          "aspectRatio": 3.667
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Forest & Gold",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": -753,
+          "width": 132,
+          "height": 41,
+          "right": 1257,
+          "bottom": -712,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Electric Blue & Coral",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": -753,
+          "width": 132,
+          "height": 41,
+          "right": 1395,
+          "bottom": -712,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Charcoal & Sunshine",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": -706,
+          "width": 132,
+          "height": 41,
+          "right": 1257,
+          "bottom": -665,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Teal & Apricot",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": -706,
+          "width": 132,
+          "height": 41,
+          "right": 1395,
+          "bottom": -665,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Raspberry & Coral",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": -659,
+          "width": 132,
+          "height": 41,
+          "right": 1257,
+          "bottom": -617,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Navy & Amber",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": -659,
+          "width": 132,
+          "height": 41,
+          "right": 1395,
+          "bottom": -617,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Slate & Coral",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": -611,
+          "width": 132,
+          "height": 36,
+          "right": 1257,
+          "bottom": -575,
+          "aspectRatio": 3.667
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Crimson & Teal",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": -611,
+          "width": 132,
+          "height": 36,
+          "right": 1395,
+          "bottom": -575,
+          "aspectRatio": 3.667
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Emerald & Coral",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": -569,
+          "width": 132,
+          "height": 41,
+          "right": 1257,
+          "bottom": -528,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Mocha & Teal",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": -569,
+          "width": 132,
+          "height": 41,
+          "right": 1395,
+          "bottom": -528,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Sage & Sea",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": -497,
+          "width": 132,
+          "height": 41,
+          "right": 1257,
+          "bottom": -456,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Terracotta & Rose",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": -497,
+          "width": 132,
+          "height": 41,
+          "right": 1395,
+          "bottom": -456,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Dusty Blue & Plum",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": -450,
+          "width": 132,
+          "height": 41,
+          "right": 1257,
+          "bottom": -408,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Clay & Mustard",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": -450,
+          "width": 132,
+          "height": 41,
+          "right": 1395,
+          "bottom": -408,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Lavender & Periwinkle",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": -402,
+          "width": 132,
+          "height": 41,
+          "right": 1257,
+          "bottom": -361,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Pine & Moss",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": -402,
+          "width": 132,
+          "height": 41,
+          "right": 1395,
+          "bottom": -361,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Slate & Teal",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": -355,
+          "width": 132,
+          "height": 41,
+          "right": 1257,
+          "bottom": -314,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Mauve & Dusty Rose",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": -355,
+          "width": 132,
+          "height": 41,
+          "right": 1395,
+          "bottom": -314,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Lilac & Mint",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": -283,
+          "width": 132,
+          "height": 36,
+          "right": 1257,
+          "bottom": -247,
+          "aspectRatio": 3.667
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Peach & Sky",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": -283,
+          "width": 132,
+          "height": 36,
+          "right": 1395,
+          "bottom": -247,
+          "aspectRatio": 3.667
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Blush & Sage",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": -241,
+          "width": 132,
+          "height": 41,
+          "right": 1257,
+          "bottom": -200,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Honey & Lavender",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": -241,
+          "width": 132,
+          "height": 41,
+          "right": 1395,
+          "bottom": -200,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Ochre & Olive",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": -169,
+          "width": 132,
+          "height": 36,
+          "right": 1257,
+          "bottom": -133,
+          "aspectRatio": 3.667
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Rust & Sand",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": -169,
+          "width": 132,
+          "height": 36,
+          "right": 1395,
+          "bottom": -133,
+          "aspectRatio": 3.667
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Umber & Fern",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": -127,
+          "width": 132,
+          "height": 36,
+          "right": 1257,
+          "bottom": -91,
+          "aspectRatio": 3.667
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Brick & Clay",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": -127,
+          "width": 132,
+          "height": 36,
+          "right": 1395,
+          "bottom": -91,
+          "aspectRatio": 3.667
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Emerald & Sapphire",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": -60,
+          "width": 132,
+          "height": 41,
+          "right": 1257,
+          "bottom": -18,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Amethyst & Garnet",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": -60,
+          "width": 132,
+          "height": 41,
+          "right": 1395,
+          "bottom": -18,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Sapphire & Gold",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": -12,
+          "width": 132,
+          "height": 41,
+          "right": 1257,
+          "bottom": 29,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Deep Teal & Plum",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": -12,
+          "width": 132,
+          "height": 41,
+          "right": 1395,
+          "bottom": 29,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Fog & Clay",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": 60,
+          "width": 132,
+          "height": 36,
+          "right": 1257,
+          "bottom": 96,
+          "aspectRatio": 3.667
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Stone & Sage",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": 60,
+          "width": 132,
+          "height": 36,
+          "right": 1395,
+          "bottom": 96,
+          "aspectRatio": 3.667
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Dove & Rose",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": 102,
+          "width": 132,
+          "height": 36,
+          "right": 1257,
+          "bottom": 138,
+          "aspectRatio": 3.667
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Harbor & Mist",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": 102,
+          "width": 132,
+          "height": 36,
+          "right": 1395,
+          "bottom": 138,
+          "aspectRatio": 3.667
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Graphite & Amber",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": 169,
+          "width": 132,
+          "height": 41,
+          "right": 1257,
+          "bottom": 210,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Ink & Teal",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": 169,
+          "width": 132,
+          "height": 41,
+          "right": 1395,
+          "bottom": 210,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Espresso & Gold",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": 216,
+          "width": 132,
+          "height": 41,
+          "right": 1257,
+          "bottom": 258,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Midnight & Rose",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": 216,
+          "width": 132,
+          "height": 41,
+          "right": 1395,
+          "bottom": 258,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Indigo, single-tone",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": 289,
+          "width": 132,
+          "height": 41,
+          "right": 1257,
+          "bottom": 330,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Teal, single-tone",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": 289,
+          "width": 132,
+          "height": 41,
+          "right": 1395,
+          "bottom": 330,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Emerald, single-tone",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": 336,
+          "width": 132,
+          "height": 41,
+          "right": 1257,
+          "bottom": 377,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Coral, single-tone",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": 336,
+          "width": 132,
+          "height": 41,
+          "right": 1395,
+          "bottom": 377,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Plum, single-tone",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": 383,
+          "width": 132,
+          "height": 41,
+          "right": 1257,
+          "bottom": 424,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(126, 74, 142, 0.055)",
+        "border": "1px solid rgb(126, 74, 142)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": "oklch(0.497291 0.119164 317.883 / 0.22) 0px 0px 0px 3px",
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Slate, single-tone",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": 383,
+          "width": 132,
+          "height": 41,
+          "right": 1395,
+          "bottom": 424,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Amber, single-tone",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": 430,
+          "width": 132,
+          "height": 41,
+          "right": 1257,
+          "bottom": 472,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Rose, single-tone",
+        "classes": "",
+        "geometry": {
+          "x": 1263,
+          "y": 430,
+          "width": 132,
+          "height": 41,
+          "right": 1395,
+          "bottom": 472,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Graphite, single-tone",
+        "classes": "",
+        "geometry": {
+          "x": 1125,
+          "y": 478,
+          "width": 132,
+          "height": 41,
+          "right": 1257,
+          "bottom": 519,
+          "aspectRatio": 3.198
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(231, 227, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "7px",
+          "right": "8px",
+          "bottom": "7px",
+          "left": "8px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      }
+    ],
+    "inputs": [],
+    "checkboxes": [],
+    "textareas": [],
+    "links": [],
+    "images": [],
+    "svgs": [
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1015,
+          "y": 37,
+          "width": 28,
+          "height": 28,
+          "right": 1043,
+          "bottom": 65,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1062,
+          "y": 44,
+          "width": 14,
+          "height": 14,
+          "right": 1076,
+          "bottom": 58,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1105,
+          "y": 44,
+          "width": 13,
+          "height": 13,
+          "right": 1118,
+          "bottom": 57,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1150,
+          "y": 45,
+          "width": 12,
+          "height": 12,
+          "right": 1162,
+          "bottom": 57,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1195,
+          "y": 43,
+          "width": 16,
+          "height": 16,
+          "right": 1211,
+          "bottom": 59,
+          "aspectRatio": 1
+        },
+        "color": "rgb(106, 106, 101)",
+        "fill": "rgb(106, 106, 101)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1245,
+          "y": 44,
+          "width": 13,
+          "height": 13,
+          "right": 1258,
+          "bottom": 57,
+          "aspectRatio": 1
+        },
+        "color": "rgb(255, 255, 255)",
+        "fill": "rgb(255, 255, 255)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1382,
+          "y": 43,
+          "width": 16,
+          "height": 16,
+          "right": 1398,
+          "bottom": 59,
+          "aspectRatio": 1
+        },
+        "color": "rgb(126, 74, 142)",
+        "fill": "rgb(126, 74, 142)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1131,
+          "y": 95,
+          "width": 16,
+          "height": 16,
+          "right": 1147,
+          "bottom": 111,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1131,
+          "y": 129,
+          "width": 16,
+          "height": 16,
+          "right": 1147,
+          "bottom": 145,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1236,
+          "y": 398,
+          "width": 12,
+          "height": 12,
+          "right": 1248,
+          "bottom": 410,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      }
+    ]
+  }
+}
