@@ -331,6 +331,28 @@ function writeEffects(outputDir, meta, elements) {
 }
 
 /**
+ * styles.json
+ * ─ flat text-styles list: every text element with its color + font properties
+ */
+function writeStyles(outputDir, meta, elements) {
+  const textEls = elements.filter(el => el.dom?.ownText || el.dom?.fullText);
+  writeJSON(path.join(outputDir, 'styles.json'), {
+    meta,
+    summary: { textElementCount: textEls.length },
+    texts: textEls.map(el => ({
+      text:            (el.dom?.ownText || el.dom?.fullText || '').slice(0, 120),
+      tag:             el.dom?.tag,
+      color:           el.typography?.color,
+      backgroundColor: el.colors?.backgroundColor,
+      fontFamily:      el.typography?.fontFamilyPrimary,
+      fontSize:        el.typography?.fontSize,
+      fontWeight:      el.typography?.fontWeight,
+      lineHeight:      el.typography?.lineHeight,
+    })),
+  });
+}
+
+/**
  * components.json
  * ─ detected UI patterns: buttons, inputs, links, images, svgs, badges, cards
  */
@@ -477,8 +499,9 @@ function writeSectionReports(outputDir, sectionName, elements) {
   writeBorders(outputDir, meta, elements);
   writeEffects(outputDir, meta, elements);
   writeComponents(outputDir, meta, elements);
+  writeStyles(outputDir, meta, elements);
 
-  console.log(`  ✅ 7 files written → ${outputDir}`);
+  console.log(`  ✅ 8 files written → ${outputDir}`);
 }
 
 module.exports = { writeSectionReports };

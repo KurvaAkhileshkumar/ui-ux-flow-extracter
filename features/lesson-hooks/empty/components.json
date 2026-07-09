@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "section": "Lesson Hook - Empty State",
+    "extractedAt": "2026-07-07T11:03:43.178Z",
+    "elementCount": 33
+  },
+  "summary": {
+    "buttons": 3,
+    "inputs": 0,
+    "checkboxes": 0,
+    "textareas": 0,
+    "links": 0,
+    "images": 0,
+    "svgs": 4
+  },
+  "components": {
+    "buttons": [
+      {
+        "label": "<button> button",
+        "classes": "",
+        "geometry": {
+          "x": 264,
+          "y": 22,
+          "width": 32,
+          "height": 32,
+          "right": 296,
+          "bottom": 54,
+          "aspectRatio": 1
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Arial",
+        "fontWeight": "400",
+        "color": "rgb(110, 110, 104)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "8px",
+          "topRight": "8px",
+          "bottomRight": "8px",
+          "bottomLeft": "8px"
+        },
+        "padding": {
+          "top": "1px",
+          "right": "6px",
+          "bottom": "1px",
+          "left": "6px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"New hook\"",
+        "text": "New hook",
+        "classes": "",
+        "geometry": {
+          "x": 1300,
+          "y": 22,
+          "width": 108,
+          "height": 32,
+          "right": 1408,
+          "bottom": 54,
+          "aspectRatio": 3.383
+        },
+        "fontSize": "13px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(45, 59, 95)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": {
+          "topLeft": "7px",
+          "topRight": "7px",
+          "bottomRight": "7px",
+          "bottomLeft": "7px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "14px",
+          "bottom": "0px",
+          "left": "14px"
+        },
+        "boxShadow": "rgba(45, 59, 95, 0.2) 0px 1px 2px 0px, rgba(45, 59, 95, 0.12) 0px 4px 12px 0px",
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Draft your first hook\"",
+        "text": "Draft your first hook",
+        "classes": "",
+        "geometry": {
+          "x": 741,
+          "y": 404,
+          "width": 190,
+          "height": 40,
+          "right": 931,
+          "bottom": 444,
+          "aspectRatio": 4.748
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(45, 59, 95)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": {
+          "topLeft": "7px",
+          "topRight": "7px",
+          "bottomRight": "7px",
+          "bottomLeft": "7px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "18px",
+          "bottom": "0px",
+          "left": "18px"
+        },
+        "boxShadow": "rgba(45, 59, 95, 0.2) 0px 1px 2px 0px, rgba(45, 59, 95, 0.12) 0px 4px 12px 0px",
+        "cursor": "pointer",
+        "transition": "all"
+      }
+    ],
+    "inputs": [],
+    "checkboxes": [],
+    "textareas": [],
+    "links": [],
+    "images": [],
+    "svgs": [
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 274,
+          "y": 32,
+          "width": 13,
+          "height": 13,
+          "right": 287,
+          "bottom": 45,
+          "aspectRatio": 1
+        },
+        "color": "rgb(110, 110, 104)",
+        "fill": "rgb(110, 110, 104)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 320,
+          "y": 22,
+          "width": 11,
+          "height": 11,
+          "right": 331,
+          "bottom": 33,
+          "aspectRatio": 1
+        },
+        "color": "rgb(45, 59, 95)",
+        "fill": "rgb(45, 59, 95)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1314,
+          "y": 32,
+          "width": 12,
+          "height": 12,
+          "right": 1326,
+          "bottom": 44,
+          "aspectRatio": 1
+        },
+        "color": "rgb(255, 255, 255)",
+        "fill": "rgb(255, 255, 255)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 759,
+          "y": 417,
+          "width": 14,
+          "height": 14,
+          "right": 773,
+          "bottom": 431,
+          "aspectRatio": 1
+        },
+        "color": "rgb(255, 255, 255)",
+        "fill": "rgb(255, 255, 255)"
+      }
+    ]
+  }
+}

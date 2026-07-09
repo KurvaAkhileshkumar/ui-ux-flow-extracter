@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "section": "Lesson Hook - Detail",
+    "extractedAt": "2026-07-07T11:03:27.388Z",
+    "elementCount": 244
+  },
+  "summary": {
+    "effectElementCount": 3
+  },
+  "elements": [
+    {
+      "depth": 4,
+      "label": "<svg> svg",
+      "geometry": {
+        "width": 13,
+        "height": 13
+      },
+      "boxShadow": null,
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": "matrix(-1, 0, 0, -1, 0, 0)",
+      "transformOrigin": "6.5px 6.5px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 7,
+      "label": "<button> button \"Grid\"",
+      "ownText": "Grid",
+      "geometry": {
+        "width": 61,
+        "height": 22
+      },
+      "boxShadow": "rgb(229, 226, 219) 0px 1px 2px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "30.7188px 11px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 7,
+      "label": "<svg> svg",
+      "geometry": {
+        "width": 11,
+        "height": 11
+      },
+      "boxShadow": null,
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": "matrix(-1, 0, 0, -1, 0, 0)",
+      "transformOrigin": "5.5px 5.5px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    }
+  ]
+}

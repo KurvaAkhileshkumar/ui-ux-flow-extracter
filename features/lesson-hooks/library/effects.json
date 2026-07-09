@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "section": "Lesson Hook",
+    "extractedAt": "2026-07-07T10:25:10.927Z",
+    "elementCount": 164
+  },
+  "summary": {
+    "effectElementCount": 2
+  },
+  "elements": [
+    {
+      "depth": 4,
+      "label": "<svg> svg",
+      "geometry": {
+        "width": 13,
+        "height": 13
+      },
+      "boxShadow": null,
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": "matrix(-1, 0, 0, -1, 0, 0)",
+      "transformOrigin": "6.5px 6.5px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 4,
+      "label": "<button> button \"New hook\"",
+      "ownText": "New hook",
+      "geometry": {
+        "width": 108,
+        "height": 32
+      },
+      "boxShadow": "rgba(45, 59, 95, 0.2) 0px 1px 2px 0px, rgba(45, 59, 95, 0.12) 0px 4px 12px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "54.1328px 16px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    }
+  ]
+}

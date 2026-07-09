@@ -1,0 +1,746 @@
+{
+  "meta": {
+    "section": "Lesson Hook",
+    "extractedAt": "2026-07-07T10:25:10.927Z",
+    "elementCount": 164
+  },
+  "summary": {
+    "buttons": 18,
+    "inputs": 0,
+    "checkboxes": 0,
+    "textareas": 0,
+    "links": 0,
+    "images": 0,
+    "svgs": 6
+  },
+  "components": {
+    "buttons": [
+      {
+        "label": "<button> button",
+        "classes": "",
+        "geometry": {
+          "x": 264,
+          "y": 22,
+          "width": 32,
+          "height": 32,
+          "right": 296,
+          "bottom": 54,
+          "aspectRatio": 1
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Arial",
+        "fontWeight": "400",
+        "color": "rgb(110, 110, 104)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "8px",
+          "topRight": "8px",
+          "bottomRight": "8px",
+          "bottomLeft": "8px"
+        },
+        "padding": {
+          "top": "1px",
+          "right": "6px",
+          "bottom": "1px",
+          "left": "6px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"New hook\"",
+        "text": "New hook",
+        "classes": "",
+        "geometry": {
+          "x": 1300,
+          "y": 22,
+          "width": 108,
+          "height": 32,
+          "right": 1408,
+          "bottom": 54,
+          "aspectRatio": 3.383
+        },
+        "fontSize": "13px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(45, 59, 95)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": {
+          "topLeft": "7px",
+          "topRight": "7px",
+          "bottomRight": "7px",
+          "bottomLeft": "7px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "14px",
+          "bottom": "0px",
+          "left": "14px"
+        },
+        "boxShadow": "rgba(45, 59, 95, 0.2) 0px 1px 2px 0px, rgba(45, 59, 95, 0.12) 0px 4px 12px 0px",
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Empty-state preview\"",
+        "text": "Empty-state preview",
+        "classes": "",
+        "geometry": {
+          "x": 1232,
+          "y": 132,
+          "width": 176,
+          "height": 32,
+          "right": 1408,
+          "bottom": 164,
+          "aspectRatio": 5.513
+        },
+        "fontSize": "13px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(22, 22, 20)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "7px",
+          "topRight": "7px",
+          "bottomRight": "7px",
+          "bottomLeft": "7px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "14px",
+          "bottom": "0px",
+          "left": "14px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "All subjects 9",
+        "classes": "",
+        "geometry": {
+          "x": 324,
+          "y": 189,
+          "width": 104,
+          "height": 27,
+          "right": 427,
+          "bottom": 216,
+          "aspectRatio": 3.842
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "600",
+        "color": "rgb(45, 59, 95)",
+        "backgroundColor": "oklch(0.948628 0.00528108 266.987)",
+        "border": "1px solid rgb(45, 59, 95)",
+        "borderRadius": {
+          "topLeft": "999px",
+          "topRight": "999px",
+          "bottomRight": "999px",
+          "bottomLeft": "999px"
+        },
+        "padding": {
+          "top": "5px",
+          "right": "11px",
+          "bottom": "5px",
+          "left": "11px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Biology · BIO101 2",
+        "classes": "",
+        "geometry": {
+          "x": 433,
+          "y": 189,
+          "width": 127,
+          "height": 27,
+          "right": 561,
+          "bottom": 216,
+          "aspectRatio": 4.71
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(22, 22, 20)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "999px",
+          "topRight": "999px",
+          "bottomRight": "999px",
+          "bottomLeft": "999px"
+        },
+        "padding": {
+          "top": "5px",
+          "right": "11px",
+          "bottom": "5px",
+          "left": "11px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Organic Chem · CHEM201 1",
+        "classes": "",
+        "geometry": {
+          "x": 567,
+          "y": 189,
+          "width": 184,
+          "height": 27,
+          "right": 751,
+          "bottom": 216,
+          "aspectRatio": 6.828
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(22, 22, 20)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "999px",
+          "topRight": "999px",
+          "bottomRight": "999px",
+          "bottomLeft": "999px"
+        },
+        "padding": {
+          "top": "5px",
+          "right": "11px",
+          "bottom": "5px",
+          "left": "11px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Genetics · BIO303 1",
+        "classes": "",
+        "geometry": {
+          "x": 757,
+          "y": 189,
+          "width": 140,
+          "height": 27,
+          "right": 897,
+          "bottom": 216,
+          "aspectRatio": 5.196
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(22, 22, 20)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "999px",
+          "topRight": "999px",
+          "bottomRight": "999px",
+          "bottomLeft": "999px"
+        },
+        "padding": {
+          "top": "5px",
+          "right": "11px",
+          "bottom": "5px",
+          "left": "11px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"More subjects\"",
+        "text": "More subjects +5",
+        "classes": "",
+        "geometry": {
+          "x": 903,
+          "y": 189,
+          "width": 141,
+          "height": 27,
+          "right": 1044,
+          "bottom": 216,
+          "aspectRatio": 5.223
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(22, 22, 20)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "999px",
+          "topRight": "999px",
+          "bottomRight": "999px",
+          "bottomLeft": "999px"
+        },
+        "padding": {
+          "top": "5px",
+          "right": "11px",
+          "bottom": "5px",
+          "left": "11px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "BIOLOGY · BIO101 · Cell Biology Cellular Respiration They struggled with energy ",
+        "classes": "",
+        "geometry": {
+          "x": 264,
+          "y": 241,
+          "width": 373,
+          "height": 196,
+          "right": 637,
+          "bottom": 438,
+          "aspectRatio": 1.903
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "12px",
+          "topRight": "12px",
+          "bottomRight": "12px",
+          "bottomLeft": "12px"
+        },
+        "padding": {
+          "top": "16px",
+          "right": "16px",
+          "bottom": "16px",
+          "left": "16px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "border-color 0.15s, transform 0.15s"
+      },
+      {
+        "label": "<button> button",
+        "text": "BIOLOGY · BIO101 · Plant Physiology Transpiration Mixed — half are comfortable, ",
+        "classes": "",
+        "geometry": {
+          "x": 649,
+          "y": 241,
+          "width": 373,
+          "height": 196,
+          "right": 1023,
+          "bottom": 438,
+          "aspectRatio": 1.903
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "12px",
+          "topRight": "12px",
+          "bottomRight": "12px",
+          "bottomLeft": "12px"
+        },
+        "padding": {
+          "top": "16px",
+          "right": "16px",
+          "bottom": "16px",
+          "left": "16px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "border-color 0.15s, transform 0.15s"
+      },
+      {
+        "label": "<button> button",
+        "text": "ORGANIC CHEM · CHEM201 · Hydrocarbons Alkenes · Pi Bonds Strong on alkanes; tend",
+        "classes": "",
+        "geometry": {
+          "x": 1035,
+          "y": 241,
+          "width": 373,
+          "height": 196,
+          "right": 1408,
+          "bottom": 438,
+          "aspectRatio": 1.903
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "12px",
+          "topRight": "12px",
+          "bottomRight": "12px",
+          "bottomLeft": "12px"
+        },
+        "padding": {
+          "top": "16px",
+          "right": "16px",
+          "bottom": "16px",
+          "left": "16px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "border-color 0.15s, transform 0.15s"
+      },
+      {
+        "label": "<button> button",
+        "text": "GENETICS · BIO303 · Mendelian Genetics Punnett Squares First time seeing genotyp",
+        "classes": "",
+        "geometry": {
+          "x": 264,
+          "y": 450,
+          "width": 373,
+          "height": 181,
+          "right": 637,
+          "bottom": 630,
+          "aspectRatio": 2.065
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "12px",
+          "topRight": "12px",
+          "bottomRight": "12px",
+          "bottomLeft": "12px"
+        },
+        "padding": {
+          "top": "16px",
+          "right": "16px",
+          "bottom": "16px",
+          "left": "16px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "border-color 0.15s, transform 0.15s"
+      },
+      {
+        "label": "<button> button",
+        "text": "MECHANICS · PHY101 · Newtonian Motion Conservation of Momentum Comfortable with ",
+        "classes": "",
+        "geometry": {
+          "x": 649,
+          "y": 450,
+          "width": 373,
+          "height": 181,
+          "right": 1023,
+          "bottom": 630,
+          "aspectRatio": 2.065
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "12px",
+          "topRight": "12px",
+          "bottomRight": "12px",
+          "bottomLeft": "12px"
+        },
+        "padding": {
+          "top": "16px",
+          "right": "16px",
+          "bottom": "16px",
+          "left": "16px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "border-color 0.15s, transform 0.15s"
+      },
+      {
+        "label": "<button> button",
+        "text": "INORGANIC CHEM · CHEM103 · Reactions Redox & Oxidation States Confused electron ",
+        "classes": "",
+        "geometry": {
+          "x": 1035,
+          "y": 450,
+          "width": 373,
+          "height": 181,
+          "right": 1408,
+          "bottom": 630,
+          "aspectRatio": 2.065
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "12px",
+          "topRight": "12px",
+          "bottomRight": "12px",
+          "bottomLeft": "12px"
+        },
+        "padding": {
+          "top": "16px",
+          "right": "16px",
+          "bottom": "16px",
+          "left": "16px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "border-color 0.15s, transform 0.15s"
+      },
+      {
+        "label": "<button> button",
+        "text": "HUMAN ANATOMY · BIO205 · Cardiovascular System Cardiac Cycle Memorised heart ana",
+        "classes": "",
+        "geometry": {
+          "x": 264,
+          "y": 642,
+          "width": 373,
+          "height": 178,
+          "right": 637,
+          "bottom": 821,
+          "aspectRatio": 2.095
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "12px",
+          "topRight": "12px",
+          "bottomRight": "12px",
+          "bottomLeft": "12px"
+        },
+        "padding": {
+          "top": "16px",
+          "right": "16px",
+          "bottom": "16px",
+          "left": "16px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "border-color 0.15s, transform 0.15s"
+      },
+      {
+        "label": "<button> button",
+        "text": "WAVES · PHY203 · Wave Mechanics Interference Patterns New to phase relationships",
+        "classes": "",
+        "geometry": {
+          "x": 649,
+          "y": 642,
+          "width": 373,
+          "height": 178,
+          "right": 1023,
+          "bottom": 821,
+          "aspectRatio": 2.095
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "12px",
+          "topRight": "12px",
+          "bottomRight": "12px",
+          "bottomLeft": "12px"
+        },
+        "padding": {
+          "top": "16px",
+          "right": "16px",
+          "bottom": "16px",
+          "left": "16px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "border-color 0.15s, transform 0.15s"
+      },
+      {
+        "label": "<button> button",
+        "text": "BIOSTATS · BIO301 · Hypothesis Testing p-values · what they actually mean Repeat",
+        "classes": "",
+        "geometry": {
+          "x": 1035,
+          "y": 642,
+          "width": 373,
+          "height": 178,
+          "right": 1408,
+          "bottom": 821,
+          "aspectRatio": 2.095
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "12px",
+          "topRight": "12px",
+          "bottomRight": "12px",
+          "bottomLeft": "12px"
+        },
+        "padding": {
+          "top": "16px",
+          "right": "16px",
+          "bottom": "16px",
+          "left": "16px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "border-color 0.15s, transform 0.15s"
+      },
+      {
+        "label": "<button> button",
+        "text": "Draft a new hook Pick a topic, tell Sastra where students are, and get six diffe",
+        "classes": "",
+        "geometry": {
+          "x": 264,
+          "y": 833,
+          "width": 373,
+          "height": 168,
+          "right": 637,
+          "bottom": 1001,
+          "aspectRatio": 2.222
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "oklch(0.974311 0.00266544 266.987)",
+        "border": "1px dashed oklch(0.70218 0.0310564 266.987)",
+        "borderRadius": {
+          "topLeft": "12px",
+          "topRight": "12px",
+          "bottomRight": "12px",
+          "bottomLeft": "12px"
+        },
+        "padding": {
+          "top": "18px",
+          "right": "18px",
+          "bottom": "18px",
+          "left": "18px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      }
+    ],
+    "inputs": [],
+    "checkboxes": [],
+    "textareas": [],
+    "links": [],
+    "images": [],
+    "svgs": [
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 274,
+          "y": 32,
+          "width": 13,
+          "height": 13,
+          "right": 287,
+          "bottom": 45,
+          "aspectRatio": 1
+        },
+        "color": "rgb(110, 110, 104)",
+        "fill": "rgb(110, 110, 104)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 320,
+          "y": 22,
+          "width": 11,
+          "height": 11,
+          "right": 331,
+          "bottom": 33,
+          "aspectRatio": 1
+        },
+        "color": "rgb(45, 59, 95)",
+        "fill": "rgb(45, 59, 95)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1314,
+          "y": 32,
+          "width": 12,
+          "height": 12,
+          "right": 1326,
+          "bottom": 44,
+          "aspectRatio": 1
+        },
+        "color": "rgb(255, 255, 255)",
+        "fill": "rgb(255, 255, 255)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1247,
+          "y": 142,
+          "width": 12,
+          "height": 12,
+          "right": 1259,
+          "bottom": 154,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1021,
+          "y": 197,
+          "width": 11,
+          "height": 11,
+          "right": 1032,
+          "bottom": 208,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 292,
+          "y": 860,
+          "width": 15,
+          "height": 15,
+          "right": 307,
+          "bottom": 875,
+          "aspectRatio": 1
+        },
+        "color": "rgb(255, 255, 255)",
+        "fill": "rgb(255, 255, 255)"
+      }
+    ]
+  }
+}

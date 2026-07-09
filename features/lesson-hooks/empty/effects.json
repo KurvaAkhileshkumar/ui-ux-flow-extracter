@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "section": "Lesson Hook - Empty State",
+    "extractedAt": "2026-07-07T11:03:43.178Z",
+    "elementCount": 33
+  },
+  "summary": {
+    "effectElementCount": 3
+  },
+  "elements": [
+    {
+      "depth": 4,
+      "label": "<svg> svg",
+      "geometry": {
+        "width": 13,
+        "height": 13
+      },
+      "boxShadow": null,
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": "matrix(-1, 0, 0, -1, 0, 0)",
+      "transformOrigin": "6.5px 6.5px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 4,
+      "label": "<button> button \"New hook\"",
+      "ownText": "New hook",
+      "geometry": {
+        "width": 108,
+        "height": 32
+      },
+      "boxShadow": "rgba(45, 59, 95, 0.2) 0px 1px 2px 0px, rgba(45, 59, 95, 0.12) 0px 4px 12px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "54.1328px 16px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    },
+    {
+      "depth": 5,
+      "label": "<button> button \"Draft your first hook\"",
+      "ownText": "Draft your first hook",
+      "geometry": {
+        "width": 190,
+        "height": 40
+      },
+      "boxShadow": "rgba(45, 59, 95, 0.2) 0px 1px 2px 0px, rgba(45, 59, 95, 0.12) 0px 4px 12px 0px",
+      "textShadow": null,
+      "filter": null,
+      "backdropFilter": null,
+      "transform": null,
+      "transformOrigin": "94.9531px 20px",
+      "transition": "all",
+      "animation": "none",
+      "opacity": "1",
+      "cursor": "pointer"
+    }
+  ]
+}

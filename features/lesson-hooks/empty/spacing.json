@@ -1,0 +1,245 @@
+{
+  "meta": {
+    "section": "Lesson Hook - Empty State",
+    "extractedAt": "2026-07-07T11:03:43.178Z",
+    "elementCount": 33
+  },
+  "summary": {
+    "spacedElementCount": 10
+  },
+  "elements": [
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 1208,
+        "height": 108
+      },
+      "padding": {
+        "top": "18px",
+        "right": "32px",
+        "bottom": "16px",
+        "left": "32px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "20px",
+      "rowGap": "20px",
+      "columnGap": "20px"
+    },
+    {
+      "depth": 3,
+      "label": "<button> button",
+      "geometry": {
+        "width": 32,
+        "height": 32
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "4px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 964,
+        "height": 73
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 964,
+        "height": 18
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 6,
+      "label": "<span> span \"/\"",
+      "ownText": "/",
+      "geometry": {
+        "width": 7,
+        "height": 14
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "4px",
+        "bottom": "0px",
+        "left": "4px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 108,
+        "height": 32
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "4px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 4,
+      "label": "<button> button \"New hook\"",
+      "ownText": "New hook",
+      "geometry": {
+        "width": 108,
+        "height": 32
+      },
+      "padding": {
+        "top": "0px",
+        "right": "14px",
+        "bottom": "0px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 1208,
+        "height": 473
+      },
+      "padding": {
+        "top": "64px",
+        "right": "32px",
+        "bottom": "80px",
+        "left": "32px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 760,
+        "height": 329
+      },
+      "padding": {
+        "top": "56px",
+        "right": "40px",
+        "bottom": "56px",
+        "left": "40px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "18px",
+      "rowGap": "18px",
+      "columnGap": "18px"
+    },
+    {
+      "depth": 5,
+      "label": "<button> button \"Draft your first hook\"",
+      "ownText": "Draft your first hook",
+      "geometry": {
+        "width": 190,
+        "height": 40
+      },
+      "padding": {
+        "top": "0px",
+        "right": "18px",
+        "bottom": "0px",
+        "left": "18px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    }
+  ]
+}

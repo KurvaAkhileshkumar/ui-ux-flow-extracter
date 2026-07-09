@@ -1,0 +1,1529 @@
+{
+  "meta": {
+    "section": "Lesson Hook - New Hook",
+    "extractedAt": "2026-07-07T11:15:05.126Z",
+    "elementCount": 145
+  },
+  "summary": {
+    "spacedElementCount": 65
+  },
+  "elements": [
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 1208,
+        "height": 108
+      },
+      "padding": {
+        "top": "18px",
+        "right": "32px",
+        "bottom": "16px",
+        "left": "32px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "20px",
+      "rowGap": "20px",
+      "columnGap": "20px"
+    },
+    {
+      "depth": 3,
+      "label": "<button> button",
+      "geometry": {
+        "width": 32,
+        "height": 32
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "4px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 1072,
+        "height": 73
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 1072,
+        "height": 18
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 6,
+      "label": "<span> span \"/\"",
+      "ownText": "/",
+      "geometry": {
+        "width": 7,
+        "height": 14
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "4px",
+        "bottom": "0px",
+        "left": "4px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 1208,
+        "height": 1192
+      },
+      "padding": {
+        "top": "32px",
+        "right": "32px",
+        "bottom": "56px",
+        "left": "32px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "28px",
+      "rowGap": "28px",
+      "columnGap": "28px"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 756,
+        "height": 1104
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "36px",
+      "rowGap": "36px",
+      "columnGap": "36px"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div \"New hook\"",
+      "ownText": "New hook",
+      "geometry": {
+        "width": 756,
+        "height": 14
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "6px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<p> p \"Pick the topic, tell us where students a\"",
+      "ownText": "Pick the topic, tell us where students a",
+      "geometry": {
+        "width": 620,
+        "height": 42
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "12px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 5,
+      "label": "<section> section",
+      "geometry": {
+        "width": 756,
+        "height": 565
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "14px",
+      "rowGap": "14px",
+      "columnGap": "14px"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div",
+      "geometry": {
+        "width": 756,
+        "height": 74
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div",
+      "geometry": {
+        "width": 756,
+        "height": 477
+      },
+      "padding": {
+        "top": "16px",
+        "right": "16px",
+        "bottom": "16px",
+        "left": "16px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 722,
+        "height": 40
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 342,
+        "height": 40
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "14px",
+      "rowGap": "14px",
+      "columnGap": "14px"
+    },
+    {
+      "depth": 10,
+      "label": "<button> button",
+      "geometry": {
+        "width": 181,
+        "height": 40
+      },
+      "padding": {
+        "top": "8px",
+        "right": "12px",
+        "bottom": "8px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 11,
+      "label": "<span> span",
+      "geometry": {
+        "width": 96,
+        "height": 16
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 11,
+      "label": "<svg> svg",
+      "geometry": {
+        "width": 11,
+        "height": 11
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "6px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 722,
+        "height": 27
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "geometry": {
+        "width": 241,
+        "height": 27
+      },
+      "padding": {
+        "top": "5px",
+        "right": "12px",
+        "bottom": "5px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 722,
+        "height": 38
+      },
+      "padding": {
+        "top": "9px",
+        "right": "14px",
+        "bottom": "9px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 8,
+      "label": "<input> input",
+      "geometry": {
+        "width": 589,
+        "height": 18
+      },
+      "padding": {
+        "top": "1px",
+        "right": "2px",
+        "bottom": "1px",
+        "left": "2px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 722,
+        "height": 302
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button",
+      "geometry": {
+        "width": 720,
+        "height": 43
+      },
+      "padding": {
+        "top": "12px",
+        "right": "16px",
+        "bottom": "12px",
+        "left": "16px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 10,
+      "label": "<div> div",
+      "geometry": {
+        "width": 612,
+        "height": 16
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 10,
+      "label": "<span> span \"Covered\"",
+      "ownText": "Covered",
+      "geometry": {
+        "width": 64,
+        "height": 19
+      },
+      "padding": {
+        "top": "3px",
+        "right": "9px",
+        "bottom": "3px",
+        "left": "9px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button",
+      "geometry": {
+        "width": 720,
+        "height": 43
+      },
+      "padding": {
+        "top": "12px",
+        "right": "16px",
+        "bottom": "12px",
+        "left": "16px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 10,
+      "label": "<div> div",
+      "geometry": {
+        "width": 612,
+        "height": 16
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 10,
+      "label": "<span> span \"Current\"",
+      "ownText": "Current",
+      "geometry": {
+        "width": 64,
+        "height": 19
+      },
+      "padding": {
+        "top": "3px",
+        "right": "9px",
+        "bottom": "3px",
+        "left": "9px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 9,
+      "label": "<div> div",
+      "geometry": {
+        "width": 720,
+        "height": 104
+      },
+      "padding": {
+        "top": "4px",
+        "right": "16px",
+        "bottom": "16px",
+        "left": "16px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 10,
+      "label": "<button> button",
+      "geometry": {
+        "width": 224,
+        "height": 38
+      },
+      "padding": {
+        "top": "10px",
+        "right": "12px",
+        "bottom": "10px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 10,
+      "label": "<button> button",
+      "geometry": {
+        "width": 224,
+        "height": 38
+      },
+      "padding": {
+        "top": "10px",
+        "right": "12px",
+        "bottom": "10px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 10,
+      "label": "<button> button",
+      "geometry": {
+        "width": 224,
+        "height": 38
+      },
+      "padding": {
+        "top": "10px",
+        "right": "12px",
+        "bottom": "10px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 10,
+      "label": "<button> button",
+      "geometry": {
+        "width": 224,
+        "height": 38
+      },
+      "padding": {
+        "top": "10px",
+        "right": "12px",
+        "bottom": "10px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button",
+      "geometry": {
+        "width": 720,
+        "height": 43
+      },
+      "padding": {
+        "top": "12px",
+        "right": "16px",
+        "bottom": "12px",
+        "left": "16px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 10,
+      "label": "<div> div",
+      "geometry": {
+        "width": 605,
+        "height": 16
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 10,
+      "label": "<span> span \"Upcoming\"",
+      "ownText": "Upcoming",
+      "geometry": {
+        "width": 71,
+        "height": 19
+      },
+      "padding": {
+        "top": "3px",
+        "right": "9px",
+        "bottom": "3px",
+        "left": "9px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button",
+      "geometry": {
+        "width": 720,
+        "height": 43
+      },
+      "padding": {
+        "top": "12px",
+        "right": "16px",
+        "bottom": "12px",
+        "left": "16px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 10,
+      "label": "<div> div",
+      "geometry": {
+        "width": 605,
+        "height": 16
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 10,
+      "label": "<span> span \"Upcoming\"",
+      "ownText": "Upcoming",
+      "geometry": {
+        "width": 71,
+        "height": 19
+      },
+      "padding": {
+        "top": "3px",
+        "right": "9px",
+        "bottom": "3px",
+        "left": "9px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 5,
+      "label": "<section> section",
+      "geometry": {
+        "width": 756,
+        "height": 354
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "14px",
+      "rowGap": "14px",
+      "columnGap": "14px"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div",
+      "geometry": {
+        "width": 756,
+        "height": 94
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 6,
+      "label": "<textarea> textarea",
+      "geometry": {
+        "width": 756,
+        "height": 117
+      },
+      "padding": {
+        "top": "14px",
+        "right": "16px",
+        "bottom": "14px",
+        "left": "16px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div",
+      "geometry": {
+        "width": 756,
+        "height": 101
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "14px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 7,
+      "label": "<span> span \"Quick fills\"",
+      "ownText": "Quick fills",
+      "geometry": {
+        "width": 76,
+        "height": 14
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "6px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<button> button \"They're brand new to this — no prior con\"",
+      "ownText": "They're brand new to this — no prior con",
+      "geometry": {
+        "width": 283,
+        "height": 27
+      },
+      "padding": {
+        "top": "5px",
+        "right": "11px",
+        "bottom": "5px",
+        "left": "11px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<button> button \"They've covered the previous unit; expec\"",
+      "ownText": "They've covered the previous unit; expec",
+      "geometry": {
+        "width": 377,
+        "height": 27
+      },
+      "padding": {
+        "top": "5px",
+        "right": "11px",
+        "bottom": "5px",
+        "left": "11px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<button> button \"Mixed — half are comfortable, half are s\"",
+      "ownText": "Mixed — half are comfortable, half are s",
+      "geometry": {
+        "width": 386,
+        "height": 27
+      },
+      "padding": {
+        "top": "5px",
+        "right": "11px",
+        "bottom": "5px",
+        "left": "11px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<button> button \"Last quiz was rough on the foundations.\"",
+      "ownText": "Last quiz was rough on the foundations.",
+      "geometry": {
+        "width": 253,
+        "height": 27
+      },
+      "padding": {
+        "top": "5px",
+        "right": "11px",
+        "bottom": "5px",
+        "left": "11px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<button> button \"Strong on theory, weak on real-world app\"",
+      "ownText": "Strong on theory, weak on real-world app",
+      "geometry": {
+        "width": 314,
+        "height": 27
+      },
+      "padding": {
+        "top": "5px",
+        "right": "11px",
+        "bottom": "5px",
+        "left": "11px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<button> button \"ESL-leaning class — keep vocabulary tigh\"",
+      "ownText": "ESL-leaning class — keep vocabulary tigh",
+      "geometry": {
+        "width": 272,
+        "height": 27
+      },
+      "padding": {
+        "top": "5px",
+        "right": "11px",
+        "bottom": "5px",
+        "left": "11px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 4,
+      "label": "<aside> aside",
+      "geometry": {
+        "width": 360,
+        "height": 507
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div",
+      "geometry": {
+        "width": 360,
+        "height": 507
+      },
+      "padding": {
+        "top": "18px",
+        "right": "18px",
+        "bottom": "18px",
+        "left": "18px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div \"Ready to generate\"",
+      "ownText": "Ready to generate",
+      "geometry": {
+        "width": 322,
+        "height": 26
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "4px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<p> p \"Review what we'll draft. You can still e\"",
+      "ownText": "Review what we'll draft. You can still e",
+      "geometry": {
+        "width": 322,
+        "height": 36
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "12px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div",
+      "geometry": {
+        "width": 322,
+        "height": 86
+      },
+      "padding": {
+        "top": "12px",
+        "right": "14px",
+        "bottom": "12px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "12px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div \"Photosynthesis\"",
+      "ownText": "Photosynthesis",
+      "geometry": {
+        "width": 292,
+        "height": 25
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "4px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div \"Biology · Plant Physiology\"",
+      "ownText": "Biology · Plant Physiology",
+      "geometry": {
+        "width": 292,
+        "height": 14
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "4px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div",
+      "geometry": {
+        "width": 322,
+        "height": 32
+      },
+      "padding": {
+        "top": "7px",
+        "right": "0px",
+        "bottom": "7px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div",
+      "geometry": {
+        "width": 322,
+        "height": 32
+      },
+      "padding": {
+        "top": "7px",
+        "right": "0px",
+        "bottom": "7px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div",
+      "geometry": {
+        "width": 322,
+        "height": 32
+      },
+      "padding": {
+        "top": "7px",
+        "right": "0px",
+        "bottom": "7px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div",
+      "geometry": {
+        "width": 322,
+        "height": 26
+      },
+      "padding": {
+        "top": "10px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "14px",
+        "right": "0px",
+        "bottom": "10px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<span> span \"Ready to generate\"",
+      "ownText": "Ready to generate",
+      "geometry": {
+        "width": 134,
+        "height": 15
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 6,
+      "label": "<button> button \"Generate hooks\"",
+      "ownText": "Generate hooks",
+      "geometry": {
+        "width": 322,
+        "height": 40
+      },
+      "padding": {
+        "top": "0px",
+        "right": "14px",
+        "bottom": "0px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 6,
+      "label": "<button> button \"Cancel\"",
+      "ownText": "Cancel",
+      "geometry": {
+        "width": 322,
+        "height": 36
+      },
+      "padding": {
+        "top": "0px",
+        "right": "14px",
+        "bottom": "0px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "8px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div \"We'll draft six openers across distinct \"",
+      "ownText": "We'll draft six openers across distinct ",
+      "geometry": {
+        "width": 322,
+        "height": 51
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "12px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    }
+  ]
+}

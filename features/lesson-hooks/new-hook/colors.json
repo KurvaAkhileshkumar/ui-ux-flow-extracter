@@ -1,0 +1,681 @@
+{
+  "meta": {
+    "section": "Lesson Hook - New Hook",
+    "extractedAt": "2026-07-07T11:15:05.126Z",
+    "elementCount": 145
+  },
+  "summary": {
+    "uniqueColors": 19,
+    "coloredElementCount": 40
+  },
+  "palette": [
+    {
+      "value": "rgb(22, 22, 20)",
+      "roles": {
+        "text": 66,
+        "border": 192
+      },
+      "count": 258,
+      "examples": [
+        "<main> main",
+        "<main> main",
+        "<main> main"
+      ]
+    },
+    {
+      "value": "rgb(0, 0, 0)",
+      "roles": {
+        "text": 30,
+        "border": 80
+      },
+      "count": 110,
+      "examples": [
+        "<button> button",
+        "<span> span \"🧬\"",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(155, 155, 148)",
+      "roles": {
+        "text": 21,
+        "border": 84,
+        "background": 1
+      },
+      "count": 106,
+      "examples": [
+        "<span> span \"Teach  Lesson Hook\"",
+        "<span> span \"Teach  Lesson Hook\"",
+        "<span> span \"Teach  Lesson Hook\""
+      ]
+    },
+    {
+      "value": "rgb(229, 226, 219)",
+      "roles": {
+        "border": 93
+      },
+      "count": 93,
+      "examples": [
+        "<div> div",
+        "<button> button",
+        "<button> button"
+      ]
+    },
+    {
+      "value": "rgb(110, 110, 104)",
+      "roles": {
+        "text": 12,
+        "border": 44
+      },
+      "count": 56,
+      "examples": [
+        "<button> button",
+        "<svg> svg",
+        "<svg> svg"
+      ]
+    },
+    {
+      "value": "rgb(255, 255, 255)",
+      "roles": {
+        "background": 23,
+        "text": 4,
+        "border": 16
+      },
+      "count": 43,
+      "examples": [
+        "<div> div",
+        "<button> button",
+        "<button> button"
+      ]
+    },
+    {
+      "value": "rgb(45, 59, 95)",
+      "roles": {
+        "text": 5,
+        "border": 32,
+        "background": 2
+      },
+      "count": 39,
+      "examples": [
+        "<span> span",
+        "<span> span",
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(61, 107, 74)",
+      "roles": {
+        "text": 5,
+        "border": 19
+      },
+      "count": 24,
+      "examples": [
+        "<span> span \"Covered\"",
+        "<span> span \"Covered\"",
+        "<span> span \"Covered\""
+      ]
+    },
+    {
+      "value": "rgb(239, 237, 230)",
+      "roles": {
+        "text": 1,
+        "border": 12
+      },
+      "count": 13,
+      "examples": [
+        "<span> span \"/\"",
+        "<span> span \"/\"",
+        "<span> span \"/\""
+      ]
+    },
+    {
+      "value": "rgb(184, 110, 26)",
+      "roles": {
+        "text": 1,
+        "border": 4
+      },
+      "count": 5,
+      "examples": [
+        "<span> span \"Current\"",
+        "<span> span \"Current\"",
+        "<span> span \"Current\""
+      ]
+    },
+    {
+      "value": "rgb(245, 243, 238)",
+      "roles": {
+        "background": 4
+      },
+      "count": 4,
+      "examples": [
+        "<div> div",
+        "<span> span \"🧬\"",
+        "<span> span \"Upcoming\""
+      ]
+    },
+    {
+      "value": "oklch(0.779916 0.0232922 266.987)",
+      "roles": {
+        "border": 4
+      },
+      "count": 4,
+      "examples": [
+        "<div> div",
+        "<div> div",
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgb(250, 250, 247)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<div> div"
+      ]
+    },
+    {
+      "value": "oklch(0.357921 0.0654408 266.987 / 0.14)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span"
+      ]
+    },
+    {
+      "value": "rgb(229, 239, 231)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span \"Covered\""
+      ]
+    },
+    {
+      "value": "oklch(0.980732 0.00201153 266.987)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<button> button"
+      ]
+    },
+    {
+      "value": "rgb(251, 241, 222)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<span> span \"Current\""
+      ]
+    },
+    {
+      "value": "oklch(0.96789 0.00331935 266.987)",
+      "roles": {
+        "background": 1
+      },
+      "count": 1,
+      "examples": [
+        "<div> div"
+      ]
+    },
+    {
+      "value": "rgba(45, 59, 95, 0.2) 0px 1px 2px 0px, rgba(45, 59, 95, 0.12) 0px 4px 12px 0px",
+      "roles": {
+        "shadow": 1
+      },
+      "count": 1,
+      "examples": [
+        "<button> button \"Generate hooks\""
+      ]
+    }
+  ],
+  "allColoredElements": [
+    {
+      "depth": 1,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(250, 250, 247)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 3,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(110, 110, 104)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 5,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(45, 59, 95)",
+      "backgroundColor": "oklch(0.357921 0.0654408 266.987 / 0.14)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(45, 59, 95)",
+      "boxShadow": null
+    },
+    {
+      "depth": 6,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 10,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 11,
+      "label": "<span> span \"🧬\"",
+      "ownText": "🧬",
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(239, 237, 230)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(155, 155, 148)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(22, 22, 20)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 10,
+      "label": "<span> span \"Covered\"",
+      "ownText": "Covered",
+      "textColor": "rgb(61, 107, 74)",
+      "backgroundColor": "rgb(229, 239, 231)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(61, 107, 74)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(45, 59, 95)",
+      "boxShadow": null
+    },
+    {
+      "depth": 9,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "oklch(0.980732 0.00201153 266.987)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 10,
+      "label": "<span> span \"Current\"",
+      "ownText": "Current",
+      "textColor": "rgb(184, 110, 26)",
+      "backgroundColor": "rgb(251, 241, 222)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(184, 110, 26)",
+      "boxShadow": null
+    },
+    {
+      "depth": 10,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(45, 59, 95)",
+      "boxShadow": null
+    },
+    {
+      "depth": 11,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(45, 59, 95)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(45, 59, 95)",
+      "boxShadow": null
+    },
+    {
+      "depth": 12,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(0, 0, 0)",
+      "boxShadow": null
+    },
+    {
+      "depth": 10,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 11,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 10,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 11,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 10,
+      "label": "<button> button",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 11,
+      "label": "<span> span",
+      "ownText": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 10,
+      "label": "<span> span \"Upcoming\"",
+      "ownText": "Upcoming",
+      "textColor": "rgb(155, 155, 148)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(155, 155, 148)",
+      "boxShadow": null
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 10,
+      "label": "<span> span \"Upcoming\"",
+      "ownText": "Upcoming",
+      "textColor": "rgb(155, 155, 148)",
+      "backgroundColor": "rgb(245, 243, 238)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(155, 155, 148)",
+      "boxShadow": null
+    },
+    {
+      "depth": 6,
+      "label": "<textarea> textarea",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button \"They're brand new to this — no prior con\"",
+      "ownText": "They're brand new to this — no prior context.",
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button \"They've covered the previous unit; expec\"",
+      "ownText": "They've covered the previous unit; expect a refresher to land.",
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button \"Mixed — half are comfortable, half are s\"",
+      "ownText": "Mixed — half are comfortable, half are still shaky on the basics.",
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button \"Last quiz was rough on the foundations.\"",
+      "ownText": "Last quiz was rough on the foundations.",
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button \"Strong on theory, weak on real-world app\"",
+      "ownText": "Strong on theory, weak on real-world applications.",
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 7,
+      "label": "<button> button \"ESL-leaning class — keep vocabulary tigh\"",
+      "ownText": "ESL-leaning class — keep vocabulary tight.",
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 5,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    },
+    {
+      "depth": 6,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "oklch(0.96789 0.00331935 266.987)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "oklch(0.779916 0.0232922 266.987)",
+      "boxShadow": null
+    },
+    {
+      "depth": 6,
+      "label": "<div> div",
+      "ownText": null,
+      "textColor": "rgb(61, 107, 74)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(239, 237, 230)",
+      "boxShadow": null
+    },
+    {
+      "depth": 6,
+      "label": "<button> button \"Generate hooks\"",
+      "ownText": "Generate hooks",
+      "textColor": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(45, 59, 95)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(255, 255, 255)",
+      "boxShadow": "rgba(45, 59, 95, 0.2) 0px 1px 2px 0px, rgba(45, 59, 95, 0.12) 0px 4px 12px 0px"
+    },
+    {
+      "depth": 6,
+      "label": "<button> button \"Cancel\"",
+      "ownText": "Cancel",
+      "textColor": "rgb(22, 22, 20)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": null,
+      "opacity": "1",
+      "borderColor": "rgb(229, 226, 219)",
+      "boxShadow": null
+    }
+  ]
+}

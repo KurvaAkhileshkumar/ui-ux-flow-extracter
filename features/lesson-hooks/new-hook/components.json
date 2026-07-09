@@ -1,0 +1,875 @@
+{
+  "meta": {
+    "section": "Lesson Hook - New Hook",
+    "extractedAt": "2026-07-07T11:15:05.126Z",
+    "elementCount": 145
+  },
+  "summary": {
+    "buttons": 19,
+    "inputs": 1,
+    "checkboxes": 0,
+    "textareas": 1,
+    "links": 0,
+    "images": 0,
+    "svgs": 10
+  },
+  "components": {
+    "buttons": [
+      {
+        "label": "<button> button",
+        "classes": "",
+        "geometry": {
+          "x": 264,
+          "y": 22,
+          "width": 32,
+          "height": 32,
+          "right": 296,
+          "bottom": 54,
+          "aspectRatio": 1
+        },
+        "fontSize": "13.3333px",
+        "fontFamilyPrimary": "Arial",
+        "fontWeight": "400",
+        "color": "rgb(110, 110, 104)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "8px",
+          "topRight": "8px",
+          "bottomRight": "8px",
+          "bottomLeft": "8px"
+        },
+        "padding": {
+          "top": "1px",
+          "right": "6px",
+          "bottom": "1px",
+          "left": "6px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "🧬 Biology BIO101",
+        "classes": "",
+        "geometry": {
+          "x": 343,
+          "y": 395,
+          "width": 181,
+          "height": 40,
+          "right": 524,
+          "bottom": 435,
+          "aspectRatio": 4.527
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "10px",
+          "topRight": "10px",
+          "bottomRight": "10px",
+          "bottomLeft": "10px"
+        },
+        "padding": {
+          "top": "8px",
+          "right": "12px",
+          "bottom": "8px",
+          "left": "12px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Expand all\"",
+        "text": "EXPAND ALL",
+        "classes": "",
+        "geometry": {
+          "x": 919,
+          "y": 498,
+          "width": 69,
+          "height": 14,
+          "right": 988,
+          "bottom": 512,
+          "aspectRatio": 4.929
+        },
+        "fontSize": "10.5px",
+        "fontFamilyPrimary": "JetBrains Mono",
+        "fontWeight": "700",
+        "color": "rgb(110, 110, 104)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(110, 110, 104)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "0px",
+          "bottom": "0px",
+          "left": "0px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Cell Biology 3 topics COVERED",
+        "classes": "",
+        "geometry": {
+          "x": 282,
+          "y": 537,
+          "width": 720,
+          "height": 43,
+          "right": 1002,
+          "bottom": 580,
+          "aspectRatio": 16.744
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "12px",
+          "right": "16px",
+          "bottom": "12px",
+          "left": "16px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Plant Physiology 4 topics · PICKED CURRENT",
+        "classes": "",
+        "geometry": {
+          "x": 282,
+          "y": 588,
+          "width": 720,
+          "height": 43,
+          "right": 1002,
+          "bottom": 631,
+          "aspectRatio": 16.744
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "oklch(0.980732 0.00201153 266.987)",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "12px",
+          "right": "16px",
+          "bottom": "12px",
+          "left": "16px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Photosynthesis",
+        "classes": "",
+        "geometry": {
+          "x": 298,
+          "y": 635,
+          "width": 224,
+          "height": 38,
+          "right": 522,
+          "bottom": 673,
+          "aspectRatio": 5.895
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(45, 59, 95)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "10px",
+          "right": "12px",
+          "bottom": "10px",
+          "left": "12px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Transpiration",
+        "classes": "",
+        "geometry": {
+          "x": 530,
+          "y": 635,
+          "width": 224,
+          "height": 38,
+          "right": 754,
+          "bottom": 673,
+          "aspectRatio": 5.895
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "10px",
+          "right": "12px",
+          "bottom": "10px",
+          "left": "12px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Plant Hormones",
+        "classes": "",
+        "geometry": {
+          "x": 762,
+          "y": 635,
+          "width": 224,
+          "height": 38,
+          "right": 986,
+          "bottom": 673,
+          "aspectRatio": 5.895
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "10px",
+          "right": "12px",
+          "bottom": "10px",
+          "left": "12px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Translocation",
+        "classes": "",
+        "geometry": {
+          "x": 298,
+          "y": 681,
+          "width": 224,
+          "height": 38,
+          "right": 522,
+          "bottom": 719,
+          "aspectRatio": 5.895
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "9px",
+          "topRight": "9px",
+          "bottomRight": "9px",
+          "bottomLeft": "9px"
+        },
+        "padding": {
+          "top": "10px",
+          "right": "12px",
+          "bottom": "10px",
+          "left": "12px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Genetics & Heredity 3 topics UPCOMING",
+        "classes": "",
+        "geometry": {
+          "x": 282,
+          "y": 743,
+          "width": 720,
+          "height": 43,
+          "right": 1002,
+          "bottom": 786,
+          "aspectRatio": 16.744
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "12px",
+          "right": "16px",
+          "bottom": "12px",
+          "left": "16px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button",
+        "text": "Ecology & Evolution 3 topics UPCOMING",
+        "classes": "",
+        "geometry": {
+          "x": 282,
+          "y": 794,
+          "width": 720,
+          "height": 43,
+          "right": 1002,
+          "bottom": 837,
+          "aspectRatio": 16.744
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderRadius": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "padding": {
+          "top": "12px",
+          "right": "16px",
+          "bottom": "12px",
+          "left": "16px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"They're brand new to this — no prior con\"",
+        "text": "They're brand new to this — no prior context.",
+        "classes": "",
+        "geometry": {
+          "x": 350,
+          "y": 1143,
+          "width": 283,
+          "height": 27,
+          "right": 633,
+          "bottom": 1170,
+          "aspectRatio": 10.495
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(22, 22, 20)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "999px",
+          "topRight": "999px",
+          "bottomRight": "999px",
+          "bottomLeft": "999px"
+        },
+        "padding": {
+          "top": "5px",
+          "right": "11px",
+          "bottom": "5px",
+          "left": "11px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"They've covered the previous unit; expec\"",
+        "text": "They've covered the previous unit; expect a refresher to land.",
+        "classes": "",
+        "geometry": {
+          "x": 643,
+          "y": 1143,
+          "width": 377,
+          "height": 27,
+          "right": 1020,
+          "bottom": 1170,
+          "aspectRatio": 13.953
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(22, 22, 20)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "999px",
+          "topRight": "999px",
+          "bottomRight": "999px",
+          "bottomLeft": "999px"
+        },
+        "padding": {
+          "top": "5px",
+          "right": "11px",
+          "bottom": "5px",
+          "left": "11px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Mixed — half are comfortable, half are s\"",
+        "text": "Mixed — half are comfortable, half are still shaky on the basics.",
+        "classes": "",
+        "geometry": {
+          "x": 264,
+          "y": 1180,
+          "width": 386,
+          "height": 27,
+          "right": 650,
+          "bottom": 1207,
+          "aspectRatio": 14.311
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(22, 22, 20)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "999px",
+          "topRight": "999px",
+          "bottomRight": "999px",
+          "bottomLeft": "999px"
+        },
+        "padding": {
+          "top": "5px",
+          "right": "11px",
+          "bottom": "5px",
+          "left": "11px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Last quiz was rough on the foundations.\"",
+        "text": "Last quiz was rough on the foundations.",
+        "classes": "",
+        "geometry": {
+          "x": 660,
+          "y": 1180,
+          "width": 253,
+          "height": 27,
+          "right": 914,
+          "bottom": 1207,
+          "aspectRatio": 9.375
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(22, 22, 20)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "999px",
+          "topRight": "999px",
+          "bottomRight": "999px",
+          "bottomLeft": "999px"
+        },
+        "padding": {
+          "top": "5px",
+          "right": "11px",
+          "bottom": "5px",
+          "left": "11px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Strong on theory, weak on real-world app\"",
+        "text": "Strong on theory, weak on real-world applications.",
+        "classes": "",
+        "geometry": {
+          "x": 264,
+          "y": 1217,
+          "width": 314,
+          "height": 27,
+          "right": 578,
+          "bottom": 1244,
+          "aspectRatio": 11.612
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(22, 22, 20)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "999px",
+          "topRight": "999px",
+          "bottomRight": "999px",
+          "bottomLeft": "999px"
+        },
+        "padding": {
+          "top": "5px",
+          "right": "11px",
+          "bottom": "5px",
+          "left": "11px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"ESL-leaning class — keep vocabulary tigh\"",
+        "text": "ESL-leaning class — keep vocabulary tight.",
+        "classes": "",
+        "geometry": {
+          "x": 588,
+          "y": 1217,
+          "width": 272,
+          "height": 27,
+          "right": 859,
+          "bottom": 1244,
+          "aspectRatio": 10.064
+        },
+        "fontSize": "12px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(22, 22, 20)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "999px",
+          "topRight": "999px",
+          "bottomRight": "999px",
+          "bottomLeft": "999px"
+        },
+        "padding": {
+          "top": "5px",
+          "right": "11px",
+          "bottom": "5px",
+          "left": "11px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Generate hooks\"",
+        "text": "Generate hooks",
+        "classes": "",
+        "geometry": {
+          "x": 1067,
+          "y": 545,
+          "width": 322,
+          "height": 40,
+          "right": 1389,
+          "bottom": 585,
+          "aspectRatio": 8.05
+        },
+        "fontSize": "14px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(45, 59, 95)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": {
+          "topLeft": "7px",
+          "topRight": "7px",
+          "bottomRight": "7px",
+          "bottomLeft": "7px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "14px",
+          "bottom": "0px",
+          "left": "14px"
+        },
+        "boxShadow": "rgba(45, 59, 95, 0.2) 0px 1px 2px 0px, rgba(45, 59, 95, 0.12) 0px 4px 12px 0px",
+        "cursor": "pointer",
+        "transition": "all"
+      },
+      {
+        "label": "<button> button \"Cancel\"",
+        "text": "Cancel",
+        "classes": "",
+        "geometry": {
+          "x": 1067,
+          "y": 593,
+          "width": 322,
+          "height": 36,
+          "right": 1389,
+          "bottom": 629,
+          "aspectRatio": 8.944
+        },
+        "fontSize": "13px",
+        "fontFamilyPrimary": "Inter",
+        "fontWeight": "500",
+        "color": "rgb(22, 22, 20)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "1px solid rgb(229, 226, 219)",
+        "borderRadius": {
+          "topLeft": "7px",
+          "topRight": "7px",
+          "bottomRight": "7px",
+          "bottomLeft": "7px"
+        },
+        "padding": {
+          "top": "0px",
+          "right": "14px",
+          "bottom": "0px",
+          "left": "14px"
+        },
+        "boxShadow": null,
+        "cursor": "pointer",
+        "transition": "all"
+      }
+    ],
+    "inputs": [
+      {
+        "label": "<input> input",
+        "type": "text",
+        "placeholder": "Search topics in Biology…",
+        "classes": "",
+        "geometry": {
+          "x": 320,
+          "y": 496,
+          "width": 589,
+          "height": 18,
+          "right": 909,
+          "bottom": 514,
+          "aspectRatio": 32.722
+        },
+        "fontSize": "13px",
+        "border": "0px none rgb(22, 22, 20)",
+        "borderRadius": "0px",
+        "padding": "1px 2px 1px 2px"
+      }
+    ],
+    "checkboxes": [],
+    "textareas": [
+      {
+        "label": "<textarea> textarea",
+        "classes": "",
+        "geometry": {
+          "x": 264,
+          "y": 998,
+          "width": 756,
+          "height": 117,
+          "right": 1020,
+          "bottom": 1115,
+          "aspectRatio": 6.475
+        }
+      }
+    ],
+    "links": [],
+    "images": [],
+    "svgs": [
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 274,
+          "y": 32,
+          "width": 13,
+          "height": 13,
+          "right": 287,
+          "bottom": 45,
+          "aspectRatio": 1
+        },
+        "color": "rgb(110, 110, 104)",
+        "fill": "rgb(110, 110, 104)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 320,
+          "y": 22,
+          "width": 11,
+          "height": 11,
+          "right": 331,
+          "bottom": 33,
+          "aspectRatio": 1
+        },
+        "color": "rgb(45, 59, 95)",
+        "fill": "rgb(45, 59, 95)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 500,
+          "y": 409,
+          "width": 11,
+          "height": 11,
+          "right": 511,
+          "bottom": 420,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 296,
+          "y": 498,
+          "width": 14,
+          "height": 14,
+          "right": 310,
+          "bottom": 512,
+          "aspectRatio": 1
+        },
+        "color": "rgb(22, 22, 20)",
+        "fill": "rgb(22, 22, 20)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 298,
+          "y": 553,
+          "width": 11,
+          "height": 11,
+          "right": 309,
+          "bottom": 564,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 298,
+          "y": 604,
+          "width": 11,
+          "height": 11,
+          "right": 309,
+          "bottom": 615,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 298,
+          "y": 759,
+          "width": 11,
+          "height": 11,
+          "right": 309,
+          "bottom": 770,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 298,
+          "y": 810,
+          "width": 11,
+          "height": 11,
+          "right": 309,
+          "bottom": 821,
+          "aspectRatio": 1
+        },
+        "color": "rgb(0, 0, 0)",
+        "fill": "rgb(0, 0, 0)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1067,
+          "y": 522,
+          "width": 11,
+          "height": 11,
+          "right": 1078,
+          "bottom": 533,
+          "aspectRatio": 1
+        },
+        "color": "rgb(61, 107, 74)",
+        "fill": "rgb(61, 107, 74)"
+      },
+      {
+        "label": "<svg> svg",
+        "classes": "",
+        "geometry": {
+          "x": 1165,
+          "y": 558,
+          "width": 14,
+          "height": 14,
+          "right": 1179,
+          "bottom": 572,
+          "aspectRatio": 1
+        },
+        "color": "rgb(255, 255, 255)",
+        "fill": "rgb(255, 255, 255)"
+      }
+    ]
+  }
+}

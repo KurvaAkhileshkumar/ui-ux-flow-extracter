@@ -1,0 +1,2463 @@
+{
+  "meta": {
+    "section": "Lesson Hook - Detail",
+    "extractedAt": "2026-07-07T11:03:27.388Z",
+    "elementCount": 244
+  },
+  "summary": {
+    "spacedElementCount": 105
+  },
+  "elements": [
+    {
+      "depth": 2,
+      "label": "<div> div",
+      "geometry": {
+        "width": 1208,
+        "height": 108
+      },
+      "padding": {
+        "top": "18px",
+        "right": "32px",
+        "bottom": "16px",
+        "left": "32px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "20px",
+      "rowGap": "20px",
+      "columnGap": "20px"
+    },
+    {
+      "depth": 3,
+      "label": "<button> button",
+      "geometry": {
+        "width": 32,
+        "height": 32
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "4px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 1072,
+        "height": 73
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 1072,
+        "height": 18
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 6,
+      "label": "<span> span \"/\"",
+      "ownText": "/",
+      "geometry": {
+        "width": 7,
+        "height": 14
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "4px",
+        "bottom": "0px",
+        "left": "4px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 3,
+      "label": "<div> div",
+      "geometry": {
+        "width": 1208,
+        "height": 1400
+      },
+      "padding": {
+        "top": "24px",
+        "right": "32px",
+        "bottom": "56px",
+        "left": "32px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "28px",
+      "rowGap": "28px",
+      "columnGap": "28px"
+    },
+    {
+      "depth": 4,
+      "label": "<div> div",
+      "geometry": {
+        "width": 796,
+        "height": 1320
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "16px",
+      "rowGap": "16px",
+      "columnGap": "16px"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div",
+      "geometry": {
+        "width": 796,
+        "height": 32
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 7,
+      "label": "<b> b \"Photosynthesis\"",
+      "ownText": "Photosynthesis",
+      "geometry": {
+        "width": 66,
+        "height": 16
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "6px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div",
+      "geometry": {
+        "width": 125,
+        "height": 28
+      },
+      "padding": {
+        "top": "2px",
+        "right": "2px",
+        "bottom": "2px",
+        "left": "2px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<button> button \"Grid\"",
+      "ownText": "Grid",
+      "geometry": {
+        "width": 61,
+        "height": 22
+      },
+      "padding": {
+        "top": "4px",
+        "right": "11px",
+        "bottom": "4px",
+        "left": "11px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "5px",
+      "rowGap": "5px",
+      "columnGap": "5px"
+    },
+    {
+      "depth": 7,
+      "label": "<button> button \"List\"",
+      "ownText": "List",
+      "geometry": {
+        "width": 58,
+        "height": 22
+      },
+      "padding": {
+        "top": "4px",
+        "right": "11px",
+        "bottom": "4px",
+        "left": "11px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "5px",
+      "rowGap": "5px",
+      "columnGap": "5px"
+    },
+    {
+      "depth": 6,
+      "label": "<button> button \"Regenerate all\"",
+      "ownText": "Regenerate all",
+      "geometry": {
+        "width": 137,
+        "height": 32
+      },
+      "padding": {
+        "top": "0px",
+        "right": "14px",
+        "bottom": "0px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div",
+      "geometry": {
+        "width": 796,
+        "height": 1202
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 6,
+      "label": "<article> article",
+      "geometry": {
+        "width": 392,
+        "height": 390
+      },
+      "padding": {
+        "top": "18px",
+        "right": "18px",
+        "bottom": "18px",
+        "left": "18px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 7,
+      "label": "<header> header",
+      "geometry": {
+        "width": 354,
+        "height": 36
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "14px",
+      "rowGap": "14px",
+      "columnGap": "14px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 233,
+        "height": 36
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span \"A · Provocative question\"",
+      "ownText": "A · Provocative question",
+      "geometry": {
+        "width": 150,
+        "height": 36
+      },
+      "padding": {
+        "top": "4px",
+        "right": "9px",
+        "bottom": "4px",
+        "left": "9px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 107,
+        "height": 30
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button",
+      "geometry": {
+        "width": 30,
+        "height": 30
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button \"Save\"",
+      "ownText": "Save",
+      "geometry": {
+        "width": 71,
+        "height": 30
+      },
+      "padding": {
+        "top": "0px",
+        "right": "12px",
+        "bottom": "0px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 354,
+        "height": 144
+      },
+      "padding": {
+        "top": "10px",
+        "right": "14px",
+        "bottom": "10px",
+        "left": "16px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 354,
+        "height": 54
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "2px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span \"cold open\"",
+      "ownText": "cold open",
+      "geometry": {
+        "width": 77,
+        "height": 20
+      },
+      "padding": {
+        "top": "2px",
+        "right": "8px",
+        "bottom": "2px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span \"argument prompt\"",
+      "ownText": "argument prompt",
+      "geometry": {
+        "width": 116,
+        "height": 20
+      },
+      "padding": {
+        "top": "2px",
+        "right": "8px",
+        "bottom": "2px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<article> article",
+      "geometry": {
+        "width": 392,
+        "height": 390
+      },
+      "padding": {
+        "top": "18px",
+        "right": "18px",
+        "bottom": "18px",
+        "left": "18px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 7,
+      "label": "<header> header",
+      "geometry": {
+        "width": 354,
+        "height": 36
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "14px",
+      "rowGap": "14px",
+      "columnGap": "14px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 233,
+        "height": 36
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span \"B · Real-world story\"",
+      "ownText": "B · Real-world story",
+      "geometry": {
+        "width": 131,
+        "height": 36
+      },
+      "padding": {
+        "top": "4px",
+        "right": "9px",
+        "bottom": "4px",
+        "left": "9px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 107,
+        "height": 30
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button",
+      "geometry": {
+        "width": 30,
+        "height": 30
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button \"Save\"",
+      "ownText": "Save",
+      "geometry": {
+        "width": 71,
+        "height": 30
+      },
+      "padding": {
+        "top": "0px",
+        "right": "12px",
+        "bottom": "0px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 354,
+        "height": 169
+      },
+      "padding": {
+        "top": "10px",
+        "right": "14px",
+        "bottom": "10px",
+        "left": "16px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 354,
+        "height": 54
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "2px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span \"real-world\"",
+      "ownText": "real-world",
+      "geometry": {
+        "width": 83,
+        "height": 20
+      },
+      "padding": {
+        "top": "2px",
+        "right": "8px",
+        "bottom": "2px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span \"lab tie-in\"",
+      "ownText": "lab tie-in",
+      "geometry": {
+        "width": 83,
+        "height": 20
+      },
+      "padding": {
+        "top": "2px",
+        "right": "8px",
+        "bottom": "2px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<article> article",
+      "geometry": {
+        "width": 392,
+        "height": 390
+      },
+      "padding": {
+        "top": "18px",
+        "right": "18px",
+        "bottom": "18px",
+        "left": "18px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 7,
+      "label": "<header> header",
+      "geometry": {
+        "width": 354,
+        "height": 36
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "14px",
+      "rowGap": "14px",
+      "columnGap": "14px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 233,
+        "height": 36
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span \"C · Live demo · experiment\"",
+      "ownText": "C · Live demo · experiment",
+      "geometry": {
+        "width": 147,
+        "height": 36
+      },
+      "padding": {
+        "top": "4px",
+        "right": "9px",
+        "bottom": "4px",
+        "left": "9px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 107,
+        "height": 30
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button",
+      "geometry": {
+        "width": 30,
+        "height": 30
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button \"Save\"",
+      "ownText": "Save",
+      "geometry": {
+        "width": 71,
+        "height": 30
+      },
+      "padding": {
+        "top": "0px",
+        "right": "12px",
+        "bottom": "0px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 354,
+        "height": 169
+      },
+      "padding": {
+        "top": "10px",
+        "right": "14px",
+        "bottom": "10px",
+        "left": "16px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 354,
+        "height": 54
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "2px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span \"hands-on\"",
+      "ownText": "hands-on",
+      "geometry": {
+        "width": 70,
+        "height": 20
+      },
+      "padding": {
+        "top": "2px",
+        "right": "8px",
+        "bottom": "2px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span \"measurable\"",
+      "ownText": "measurable",
+      "geometry": {
+        "width": 83,
+        "height": 20
+      },
+      "padding": {
+        "top": "2px",
+        "right": "8px",
+        "bottom": "2px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<article> article",
+      "geometry": {
+        "width": 392,
+        "height": 390
+      },
+      "padding": {
+        "top": "18px",
+        "right": "18px",
+        "bottom": "18px",
+        "left": "18px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 7,
+      "label": "<header> header",
+      "geometry": {
+        "width": 354,
+        "height": 36
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "14px",
+      "rowGap": "14px",
+      "columnGap": "14px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 233,
+        "height": 36
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span \"D · Surprising statistic\"",
+      "ownText": "D · Surprising statistic",
+      "geometry": {
+        "width": 158,
+        "height": 36
+      },
+      "padding": {
+        "top": "4px",
+        "right": "9px",
+        "bottom": "4px",
+        "left": "9px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 107,
+        "height": 30
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button",
+      "geometry": {
+        "width": 30,
+        "height": 30
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button \"Save\"",
+      "ownText": "Save",
+      "geometry": {
+        "width": 71,
+        "height": 30
+      },
+      "padding": {
+        "top": "0px",
+        "right": "12px",
+        "bottom": "0px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 354,
+        "height": 144
+      },
+      "padding": {
+        "top": "10px",
+        "right": "14px",
+        "bottom": "10px",
+        "left": "16px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 354,
+        "height": 54
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "2px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span \"shock value\"",
+      "ownText": "shock value",
+      "geometry": {
+        "width": 90,
+        "height": 20
+      },
+      "padding": {
+        "top": "2px",
+        "right": "8px",
+        "bottom": "2px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span \"sourced\"",
+      "ownText": "sourced",
+      "geometry": {
+        "width": 64,
+        "height": 20
+      },
+      "padding": {
+        "top": "2px",
+        "right": "8px",
+        "bottom": "2px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<article> article",
+      "geometry": {
+        "width": 392,
+        "height": 399
+      },
+      "padding": {
+        "top": "18px",
+        "right": "18px",
+        "bottom": "18px",
+        "left": "18px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 7,
+      "label": "<header> header",
+      "geometry": {
+        "width": 354,
+        "height": 45
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "14px",
+      "rowGap": "14px",
+      "columnGap": "14px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 233,
+        "height": 45
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span \"E · Historical moment\"",
+      "ownText": "E · Historical moment",
+      "geometry": {
+        "width": 120,
+        "height": 36
+      },
+      "padding": {
+        "top": "4px",
+        "right": "9px",
+        "bottom": "4px",
+        "left": "9px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 107,
+        "height": 30
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button",
+      "geometry": {
+        "width": 30,
+        "height": 30
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button \"Save\"",
+      "ownText": "Save",
+      "geometry": {
+        "width": 71,
+        "height": 30
+      },
+      "padding": {
+        "top": "0px",
+        "right": "12px",
+        "bottom": "0px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 354,
+        "height": 169
+      },
+      "padding": {
+        "top": "10px",
+        "right": "14px",
+        "bottom": "10px",
+        "left": "16px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 354,
+        "height": 54
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "2px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span \"narrative\"",
+      "ownText": "narrative",
+      "geometry": {
+        "width": 77,
+        "height": 20
+      },
+      "padding": {
+        "top": "2px",
+        "right": "8px",
+        "bottom": "2px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span \"experimental method\"",
+      "ownText": "experimental method",
+      "geometry": {
+        "width": 142,
+        "height": 20
+      },
+      "padding": {
+        "top": "2px",
+        "right": "8px",
+        "bottom": "2px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<article> article",
+      "geometry": {
+        "width": 392,
+        "height": 399
+      },
+      "padding": {
+        "top": "18px",
+        "right": "18px",
+        "bottom": "18px",
+        "left": "18px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 7,
+      "label": "<header> header",
+      "geometry": {
+        "width": 354,
+        "height": 36
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "14px",
+      "rowGap": "14px",
+      "columnGap": "14px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 233,
+        "height": 36
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 9,
+      "label": "<span> span \"F · Concept map · visual\"",
+      "ownText": "F · Concept map · visual",
+      "geometry": {
+        "width": 134,
+        "height": 36
+      },
+      "padding": {
+        "top": "4px",
+        "right": "9px",
+        "bottom": "4px",
+        "left": "9px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 107,
+        "height": 30
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button",
+      "geometry": {
+        "width": 30,
+        "height": 30
+      },
+      "padding": {
+        "top": "1px",
+        "right": "6px",
+        "bottom": "1px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button \"Save\"",
+      "ownText": "Save",
+      "geometry": {
+        "width": 71,
+        "height": 30
+      },
+      "padding": {
+        "top": "0px",
+        "right": "12px",
+        "bottom": "0px",
+        "left": "12px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 354,
+        "height": 144
+      },
+      "padding": {
+        "top": "10px",
+        "right": "14px",
+        "bottom": "10px",
+        "left": "16px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 354,
+        "height": 54
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "2px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span \"visual\"",
+      "ownText": "visual",
+      "geometry": {
+        "width": 57,
+        "height": 20
+      },
+      "padding": {
+        "top": "2px",
+        "right": "8px",
+        "bottom": "2px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 8,
+      "label": "<span> span \"cold open\"",
+      "ownText": "cold open",
+      "geometry": {
+        "width": 77,
+        "height": 20
+      },
+      "padding": {
+        "top": "2px",
+        "right": "8px",
+        "bottom": "2px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div",
+      "geometry": {
+        "width": 796,
+        "height": 50
+      },
+      "padding": {
+        "top": "18px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "4px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 6,
+      "label": "<button> button \"Back to your hooks\"",
+      "ownText": "Back to your hooks",
+      "geometry": {
+        "width": 166,
+        "height": 32
+      },
+      "padding": {
+        "top": "0px",
+        "right": "14px",
+        "bottom": "0px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 4,
+      "label": "<aside> aside",
+      "geometry": {
+        "width": 320,
+        "height": 601
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "12px",
+      "rowGap": "12px",
+      "columnGap": "12px"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div",
+      "geometry": {
+        "width": 320,
+        "height": 143
+      },
+      "padding": {
+        "top": "16px",
+        "right": "16px",
+        "bottom": "16px",
+        "left": "16px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div",
+      "geometry": {
+        "width": 286,
+        "height": 32
+      },
+      "padding": {
+        "top": "7px",
+        "right": "0px",
+        "bottom": "7px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div",
+      "geometry": {
+        "width": 286,
+        "height": 32
+      },
+      "padding": {
+        "top": "7px",
+        "right": "0px",
+        "bottom": "7px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div",
+      "geometry": {
+        "width": 286,
+        "height": 32
+      },
+      "padding": {
+        "top": "7px",
+        "right": "0px",
+        "bottom": "7px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "10px",
+      "rowGap": "10px",
+      "columnGap": "10px"
+    },
+    {
+      "depth": 5,
+      "label": "<div> div",
+      "geometry": {
+        "width": 320,
+        "height": 446
+      },
+      "padding": {
+        "top": "14px",
+        "right": "14px",
+        "bottom": "14px",
+        "left": "14px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div",
+      "geometry": {
+        "width": 290,
+        "height": 14
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "10px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div",
+      "geometry": {
+        "width": 290,
+        "height": 350
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 290,
+        "height": 111
+      },
+      "padding": {
+        "top": "9px",
+        "right": "11px",
+        "bottom": "9px",
+        "left": "11px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 266,
+        "height": 15
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 266,
+        "height": 27
+      },
+      "padding": {
+        "top": "6px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "2px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button \"Viewing\"",
+      "ownText": "Viewing",
+      "geometry": {
+        "width": 68,
+        "height": 20
+      },
+      "padding": {
+        "top": "3px",
+        "right": "6px",
+        "bottom": "3px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 290,
+        "height": 113
+      },
+      "padding": {
+        "top": "9px",
+        "right": "11px",
+        "bottom": "9px",
+        "left": "11px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 266,
+        "height": 15
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 266,
+        "height": 29
+      },
+      "padding": {
+        "top": "6px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "2px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button \"Preview\"",
+      "ownText": "Preview",
+      "geometry": {
+        "width": 68,
+        "height": 20
+      },
+      "padding": {
+        "top": "3px",
+        "right": "6px",
+        "bottom": "3px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button \"Revert\"",
+      "ownText": "Revert",
+      "geometry": {
+        "width": 67,
+        "height": 22
+      },
+      "padding": {
+        "top": "3px",
+        "right": "8px",
+        "bottom": "3px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 7,
+      "label": "<div> div",
+      "geometry": {
+        "width": 290,
+        "height": 113
+      },
+      "padding": {
+        "top": "9px",
+        "right": "11px",
+        "bottom": "9px",
+        "left": "11px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "6px",
+      "rowGap": "6px",
+      "columnGap": "6px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 266,
+        "height": 15
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "8px",
+      "rowGap": "8px",
+      "columnGap": "8px"
+    },
+    {
+      "depth": 8,
+      "label": "<div> div",
+      "geometry": {
+        "width": 266,
+        "height": 29
+      },
+      "padding": {
+        "top": "6px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "2px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button \"Preview\"",
+      "ownText": "Preview",
+      "geometry": {
+        "width": 68,
+        "height": 20
+      },
+      "padding": {
+        "top": "3px",
+        "right": "6px",
+        "bottom": "3px",
+        "left": "6px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 9,
+      "label": "<button> button \"Revert\"",
+      "ownText": "Revert",
+      "geometry": {
+        "width": 67,
+        "height": 22
+      },
+      "padding": {
+        "top": "3px",
+        "right": "8px",
+        "bottom": "3px",
+        "left": "8px"
+      },
+      "margin": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "4px",
+      "rowGap": "4px",
+      "columnGap": "4px"
+    },
+    {
+      "depth": 6,
+      "label": "<div> div \"Each regenerate creates a new version. R\"",
+      "ownText": "Each regenerate creates a new version. R",
+      "geometry": {
+        "width": 290,
+        "height": 32
+      },
+      "padding": {
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "margin": {
+        "top": "10px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px"
+      },
+      "gap": "normal",
+      "rowGap": "normal",
+      "columnGap": "normal"
+    }
+  ]
+}
